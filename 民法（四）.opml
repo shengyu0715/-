@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+	<head>
+		<title>民法（四）</title>
+	</head>
+	<body>
+		<outline text="❶❷❸❹❺❻❼❽❾❿⓫⓬⓭⓮⓯⓰⓱⓲⓳⓴" _mubu_text="%E2%9D%B6%E2%9D%B7%E2%9D%B8%E2%9D%B9%E2%9D%BA%E2%9D%BB%E2%9D%BC%E2%9D%BD%E2%9D%BE%E2%9D%BF%E2%93%AB%E2%93%AC%E2%93%AD%E2%93%AE%E2%93%AF%E2%93%B0%E2%93%B1%E2%93%B2%E2%93%B3%E2%93%B4">
+		</outline>
+		<outline text="5月9日" _mubu_text="5%E6%9C%889%E6%97%A5">
+		<outline text="286.简述著作权转让合同的内容❶" _mubu_text="286.%E7%AE%80%E8%BF%B0%E8%91%97%E4%BD%9C%E6%9D%83%E8%BD%AC%E8%AE%A9%E5%90%88%E5%90%8C%E7%9A%84%E5%86%85%E5%AE%B9%E2%9D%B6">
+		<outline text="著作权权利转让合同的内容应该包括" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E8%91%97%E4%BD%9C%E6%9D%83%E6%9D%83%E5%88%A9%E8%BD%AC%E8%AE%A9%E5%90%88%E5%90%8C%E7%9A%84%E5%86%85%E5%AE%B9%E5%BA%94%E8%AF%A5%E5%8C%85%E6%8B%AC%3C/span%3E" _note="在我国，著作权的转让需订立书面合同。&nbsp;@口诀&nbsp;主转名犬低价抚慰他&nbsp;@简答题" _mubu_note="%E5%9C%A8%E6%88%91%E5%9B%BD%EF%BC%8C%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E8%BD%AC%E8%AE%A9%E9%9C%80%E8%AE%A2%E7%AB%8B%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%B9%A6%E9%9D%A2%E5%90%88%E5%90%8C%E3%80%82&amp;nbsp;%3C/span%3E%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E%3C/span%3E%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E&amp;nbsp;%E4%B8%BB%E8%BD%AC%E5%90%8D%E7%8A%AC%E4%BD%8E%E4%BB%B7%E6%8A%9A%E6%85%B0%E4%BB%96&amp;nbsp;%3C/span%3E%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E%3C/span%3E%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%3C/span%3E" _heading="1" _color="#dc2d1e">
+		<outline text="（1）作品名称。" _mubu_text="%EF%BC%881%EF%BC%89%E4%BD%9C%E5%93%81%E5%90%8D%E7%A7%B0%E3%80%82" _note="名：作品名称" _mubu_note="%E5%90%8D%EF%BC%9A%E4%BD%9C%E5%93%81%E5%90%8D%E7%A7%B0">
+		</outline>
+		<outline text="（2）转让的权利种类、地域范围。" _mubu_text="%EF%BC%882%EF%BC%89%E8%BD%AC%E8%AE%A9%E7%9A%84%E6%9D%83%E5%88%A9%E7%A7%8D%E7%B1%BB%E3%80%81%E5%9C%B0%E5%9F%9F%E8%8C%83%E5%9B%B4%E3%80%82" _note="犬低：权利种类、地域范围" _mubu_note="%E7%8A%AC%E4%BD%8E%EF%BC%9A%E6%9D%83%E5%88%A9%E7%A7%8D%E7%B1%BB%E3%80%81%E5%9C%B0%E5%9F%9F%E8%8C%83%E5%9B%B4">
+		</outline>
+		<outline text="（3）转让价金。" _mubu_text="%EF%BC%883%EF%BC%89%E8%BD%AC%E8%AE%A9%E4%BB%B7%E9%87%91%E3%80%82" _note="价：价金" _mubu_note="%E4%BB%B7%EF%BC%9A%E4%BB%B7%E9%87%91">
+		</outline>
+		<outline text="（4）交付转让金的日期和方式。" _mubu_text="%EF%BC%884%EF%BC%89%E4%BA%A4%E4%BB%98%E8%BD%AC%E8%AE%A9%E9%87%91%E7%9A%84%E6%97%A5%E6%9C%9F%E5%92%8C%E6%96%B9%E5%BC%8F%E3%80%82" _note="抚：交付" _mubu_note="%E6%8A%9A%EF%BC%9A%E4%BA%A4%E4%BB%98">
+		</outline>
+		<outline text="（5）违约责任。" _mubu_text="%EF%BC%885%EF%BC%89%E8%BF%9D%E7%BA%A6%E8%B4%A3%E4%BB%BB%E3%80%82" _note="慰：违约责任" _mubu_note="%E6%85%B0%EF%BC%9A%E8%BF%9D%E7%BA%A6%E8%B4%A3%E4%BB%BB">
+		</outline>
+		<outline text="（6）双方认为需要约定的其他内容。" _mubu_text="%EF%BC%886%EF%BC%89%E5%8F%8C%E6%96%B9%E8%AE%A4%E4%B8%BA%E9%9C%80%E8%A6%81%E7%BA%A6%E5%AE%9A%E7%9A%84%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9%E3%80%82" _note="他：其他内容" _mubu_note="%E4%BB%96%EF%BC%9A%E5%85%B6%E4%BB%96%E5%86%85%E5%AE%B9">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="287.简述邻接权与著作权的区别❶" _mubu_text="287.%E7%AE%80%E8%BF%B0%E9%82%BB%E6%8E%A5%E6%9D%83%E4%B8%8E%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E5%8C%BA%E5%88%AB%E2%9D%B6">
+		<outline text="著作权的概念" _mubu_text="%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%A6%82%E5%BF%B5%3C/span%3E">
+		<outline text="著作权，亦称版权，是指著作权人对文学、艺术和科学作品依法享有的各项专有权利。" _mubu_text="%E8%91%97%E4%BD%9C%E6%9D%83%EF%BC%8C%E4%BA%A6%E7%A7%B0%E7%89%88%E6%9D%83%EF%BC%8C%E6%98%AF%E6%8C%87%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E5%AF%B9%E6%96%87%E5%AD%A6%E3%80%81%E8%89%BA%E6%9C%AF%E5%92%8C%E7%A7%91%E5%AD%A6%E4%BD%9C%E5%93%81%E4%BE%9D%E6%B3%95%E4%BA%AB%E6%9C%89%E7%9A%84%E5%90%84%E9%A1%B9%E4%B8%93%E6%9C%89%E6%9D%83%E5%88%A9%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="邻接权的概念" _mubu_text="%E9%82%BB%E6%8E%A5%E6%9D%83%E7%9A%84%E6%A6%82%E5%BF%B5">
+		<outline text="邻接权又称作品传播者权，是指作品传播者对在传播作品过程中产生的成果依法享有的专有权利。" _mubu_text="%E9%82%BB%E6%8E%A5%E6%9D%83%E5%8F%88%E7%A7%B0%E4%BD%9C%E5%93%81%E4%BC%A0%E6%92%AD%E8%80%85%E6%9D%83%EF%BC%8C%E6%98%AF%E6%8C%87%E4%BD%9C%E5%93%81%E4%BC%A0%E6%92%AD%E8%80%85%E5%AF%B9%E5%9C%A8%E4%BC%A0%E6%92%AD%E4%BD%9C%E5%93%81%E8%BF%87%E7%A8%8B%E4%B8%AD%E4%BA%A7%E7%94%9F%E7%9A%84%E6%88%90%E6%9E%9C%E4%BE%9D%E6%B3%95%E4%BA%AB%E6%9C%89%E7%9A%84%E4%B8%93%E6%9C%89%E6%9D%83%E5%88%A9%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="邻接权与著作权的主要区别" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E9%82%BB%E6%8E%A5%E6%9D%83%E4%B8%8E%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8C%BA%E5%88%AB%3C/span%3E" _note="@真题&nbsp;2014年简答&nbsp;@口诀&nbsp;林竹别住客深" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%9C%9F%E9%A2%98%3C/span%3E&amp;nbsp;2014%E5%B9%B4%E7%AE%80%E7%AD%94&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E6%9E%97%E7%AB%B9%E5%88%AB%E4%BD%8F%E5%AE%A2%E6%B7%B1" _heading="1" _color="#75c940">
+		<outline text="（1）邻接权的主体多为法人或其他组织，著作权的主体多为自然人。" _mubu_text="%EF%BC%881%EF%BC%89%E9%82%BB%E6%8E%A5%E6%9D%83%E7%9A%84%E4%B8%BB%E4%BD%93%E5%A4%9A%E4%B8%BA%E6%B3%95%E4%BA%BA%E6%88%96%E5%85%B6%E4%BB%96%E7%BB%84%E7%BB%87%EF%BC%8C%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E4%B8%BB%E4%BD%93%E5%A4%9A%E4%B8%BA%E8%87%AA%E7%84%B6%E4%BA%BA%E3%80%82">
+		</outline>
+		<outline text="（2）邻接权的客体是传播作品过程中产生的成果，而著作权的客体是作品本身。" _mubu_text="%EF%BC%882%EF%BC%89%E9%82%BB%E6%8E%A5%E6%9D%83%E7%9A%84%E5%AE%A2%E4%BD%93%E6%98%AF%E4%BC%A0%E6%92%AD%E4%BD%9C%E5%93%81%E8%BF%87%E7%A8%8B%E4%B8%AD%E4%BA%A7%E7%94%9F%E7%9A%84%E6%88%90%E6%9E%9C%EF%BC%8C%E8%80%8C%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E5%AE%A2%E4%BD%93%E6%98%AF%E4%BD%9C%E5%93%81%E6%9C%AC%E8%BA%AB%E3%80%82">
+		</outline>
+		<outline text="（3）邻接权中除表演者权外一般不涉及人身权，而著作权包括人身权和财产权双重内容。" _mubu_text="%EF%BC%883%EF%BC%89%E9%82%BB%E6%8E%A5%E6%9D%83%E4%B8%AD%E9%99%A4%E8%A1%A8%E6%BC%94%E8%80%85%E6%9D%83%E5%A4%96%E4%B8%80%E8%88%AC%E4%B8%8D%E6%B6%89%E5%8F%8A%E4%BA%BA%E8%BA%AB%E6%9D%83%EF%BC%8C%E8%80%8C%E8%91%97%E4%BD%9C%E6%9D%83%E5%8C%85%E6%8B%AC%E4%BA%BA%E8%BA%AB%E6%9D%83%E5%92%8C%E8%B4%A2%E4%BA%A7%E6%9D%83%E5%8F%8C%E9%87%8D%E5%86%85%E5%AE%B9%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="288.简述邻接权的概念和内容" _mubu_text="288.%E7%AE%80%E8%BF%B0%E9%82%BB%E6%8E%A5%E6%9D%83%E7%9A%84%E6%A6%82%E5%BF%B5%E5%92%8C%E5%86%85%E5%AE%B9">
+		<outline text="邻接权的概念" _mubu_text="%E9%82%BB%E6%8E%A5%E6%9D%83%E7%9A%84%E6%A6%82%E5%BF%B5">
+		<outline text="邻接权又称作品传播者权，是指作品传播者对在传播作品过程中产生的成果依法享有的专有权利。" _mubu_text="%E9%82%BB%E6%8E%A5%E6%9D%83%E5%8F%88%E7%A7%B0%E4%BD%9C%E5%93%81%E4%BC%A0%E6%92%AD%E8%80%85%E6%9D%83%EF%BC%8C%E6%98%AF%E6%8C%87%E4%BD%9C%E5%93%81%E4%BC%A0%E6%92%AD%E8%80%85%E5%AF%B9%E5%9C%A8%E4%BC%A0%E6%92%AD%E4%BD%9C%E5%93%81%E8%BF%87%E7%A8%8B%E4%B8%AD%E4%BA%A7%E7%94%9F%E7%9A%84%3Cspan%20class=%22bold%22%3E%E6%88%90%E6%9E%9C%3C/span%3E%E4%BE%9D%E6%B3%95%E4%BA%AB%E6%9C%89%E7%9A%84%E4%B8%93%E6%9C%89%E6%9D%83%E5%88%A9%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="邻接权的内容包括" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E9%82%BB%E6%8E%A5%E6%9D%83%E7%9A%84%E5%86%85%E5%AE%B9%E5%8C%85%E6%8B%AC%3C/span%3E" _note="@简答题&nbsp;@题眼&nbsp;@口诀&nbsp;临界內出标志点" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E9%A2%98%E7%9C%BC%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E4%B8%B4%E7%95%8C%E5%85%A7%E5%87%BA%E6%A0%87%E5%BF%97%E7%82%B9" _heading="1" _color="#dc2d1e">
+		<outline text="（1）出版者的权利" _mubu_text="%EF%BC%881%EF%BC%89%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%87%BA%3C/span%3E%E7%89%88%E8%80%85%E7%9A%84%E6%9D%83%E5%88%A9" _note="出：出版者" _mubu_note="%E5%87%BA%EF%BC%9A%E5%87%BA%E7%89%88%E8%80%85">
+		<outline text="出版者的包括" _mubu_text="%E5%87%BA%E7%89%88%E8%80%85%E7%9A%84%E5%8C%85%E6%8B%AC">
+		<outline text="出版者包括图书出版社、杂志社、报社、音像出版社等出版单位。" _mubu_text="%E5%87%BA%E7%89%88%E8%80%85%E5%8C%85%E6%8B%AC%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%9B%BE%E4%B9%A6%E5%87%BA%E7%89%88%E7%A4%BE%E3%80%81%E6%9D%82%E5%BF%97%E7%A4%BE%E3%80%81%E6%8A%A5%E7%A4%BE%E3%80%81%E9%9F%B3%E5%83%8F%E5%87%BA%E7%89%88%E7%A4%BE%3C/span%3E%E7%AD%89%E5%87%BA%E7%89%88%E5%8D%95%E4%BD%8D%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="①对版式设计的专有权" _mubu_text="%E2%91%A0%E5%AF%B9%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1%E7%9A%84%E4%B8%93%E6%9C%89%E6%9D%83">
+		<outline text="版式设计是指出版者对其出版的图书、期刊的版面和外观装饰所做出的设计。" _mubu_text="%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1%E6%98%AF%E6%8C%87%E5%87%BA%E7%89%88%E8%80%85%E5%AF%B9%E5%85%B6%E5%87%BA%E7%89%88%E7%9A%84%E5%9B%BE%E4%B9%A6%E3%80%81%E6%9C%9F%E5%88%8A%E7%9A%84%E7%89%88%E9%9D%A2%E5%92%8C%E5%A4%96%E8%A7%82%E8%A3%85%E9%A5%B0%E6%89%80%E5%81%9A%E5%87%BA%E7%9A%84%E8%AE%BE%E8%AE%A1%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="②专有出版权" _mubu_text="%E2%91%A1%E4%B8%93%E6%9C%89%E5%87%BA%E7%89%88%E6%9D%83">
+		<outline text="图书出版者对著作权人交付出版的作品，按照双方订立的出版合同的约定可以享有专有出版权。" _mubu_text="%E5%9B%BE%E4%B9%A6%E5%87%BA%E7%89%88%E8%80%85%E5%AF%B9%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E4%BA%A4%E4%BB%98%E5%87%BA%E7%89%88%E7%9A%84%E4%BD%9C%E5%93%81%EF%BC%8C%E6%8C%89%E7%85%A7%E5%8F%8C%E6%96%B9%E8%AE%A2%E7%AB%8B%E7%9A%84%E5%87%BA%E7%89%88%E5%90%88%E5%90%8C%E7%9A%84%E7%BA%A6%E5%AE%9A%E5%8F%AF%E4%BB%A5%E4%BA%AB%E6%9C%89%E4%B8%93%E6%9C%89%E5%87%BA%E7%89%88%E6%9D%83%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="（2）表演者的权利。" _mubu_text="%EF%BC%882%EF%BC%89%E8%A1%A8%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%BC%94%3C/span%3E%E8%80%85%E7%9A%84%E6%9D%83%E5%88%A9%E3%80%82" _note="标：表演者" _mubu_note="%E6%A0%87%EF%BC%9A%E8%A1%A8%E6%BC%94%E8%80%85">
+		<outline text="表演者包括" _mubu_text="%E8%A1%A8%E6%BC%94%E8%80%85%E5%8C%85%E6%8B%AC">
+		<outline text="表演者包括演员、演出单位或者其他表演文学、艺术作品的人，表演者对其表演享有邻接权。" _mubu_text="%E8%A1%A8%E6%BC%94%E8%80%85%E5%8C%85%E6%8B%AC%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%BC%94%E5%91%98%E3%80%81%E6%BC%94%E5%87%BA%E5%8D%95%E4%BD%8D%E6%88%96%E8%80%85%E5%85%B6%E4%BB%96%E8%A1%A8%E6%BC%94%E6%96%87%E5%AD%A6%E3%80%81%E8%89%BA%E6%9C%AF%E4%BD%9C%E5%93%81%E7%9A%84%E4%BA%BA%3C/span%3E%EF%BC%8C%E8%A1%A8%E6%BC%94%E8%80%85%E5%AF%B9%E5%85%B6%E8%A1%A8%E6%BC%94%E4%BA%AB%E6%9C%89%E9%82%BB%E6%8E%A5%E6%9D%83%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="①人身权利（保护期限不受限制）" _mubu_text="%E2%91%A0%E4%BA%BA%E8%BA%AB%E6%9D%83%E5%88%A9%EF%BC%88%E4%BF%9D%E6%8A%A4%E6%9C%9F%E9%99%90%E4%B8%8D%E5%8F%97%E9%99%90%E5%88%B6%EF%BC%89">
+		<outline text="1）表明表演者身份的权利" _mubu_text="1%EF%BC%89%E8%A1%A8%E6%98%8E%E8%A1%A8%E6%BC%94%E8%80%85%E8%BA%AB%E4%BB%BD%E7%9A%84%E6%9D%83%E5%88%A9">
+		</outline>
+		<outline text="2）保护表演形象不受歪曲的权利" _mubu_text="2%EF%BC%89%E4%BF%9D%E6%8A%A4%3Cspan%20class=%22bold%22%3E%E8%A1%A8%E6%BC%94%E5%BD%A2%E8%B1%A1%3C/span%3E%E4%B8%8D%E5%8F%97%E6%AD%AA%E6%9B%B2%E7%9A%84%E6%9D%83%E5%88%A9">
+		</outline>
+		</outline>
+		<outline text="②财产权利（保护期限为50年，截止于该制品首次制作完成后第50年的12月31日）" _mubu_text="%E2%91%A1%E8%B4%A2%E4%BA%A7%E6%9D%83%E5%88%A9%EF%BC%88%E4%BF%9D%E6%8A%A4%E6%9C%9F%E9%99%90%E4%B8%BA50%E5%B9%B4%EF%BC%8C%E6%88%AA%E6%AD%A2%E4%BA%8E%E8%AF%A5%E5%88%B6%E5%93%81%E9%A6%96%E6%AC%A1%E5%88%B6%E4%BD%9C%E5%AE%8C%E6%88%90%E5%90%8E%E7%AC%AC50%E5%B9%B4%E7%9A%8412%E6%9C%8831%E6%97%A5%EF%BC%89">
+		<outline text="1）许可他人从现场直播和公开传送其现场表演并获得报酬。" _mubu_text="1%EF%BC%89%E8%AE%B8%E5%8F%AF%E4%BB%96%E4%BA%BA%E4%BB%8E%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%92%AD%E5%92%8C%E5%85%AC%E5%BC%80%E4%BC%A0%E9%80%81%E5%85%B6%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94%E5%B9%B6%E8%8E%B7%E5%BE%97%E6%8A%A5%E9%85%AC%E3%80%82">
+		</outline>
+		<outline text="2）许可他人录音、录像并获得报酬。" _mubu_text="2%EF%BC%89%E8%AE%B8%E5%8F%AF%E4%BB%96%E4%BA%BA%E5%BD%95%E9%9F%B3%E3%80%81%E5%BD%95%E5%83%8F%E5%B9%B6%E8%8E%B7%E5%BE%97%E6%8A%A5%E9%85%AC%E3%80%82">
+		</outline>
+		<outline text="3）许可他人复制、发行录有其表演的录音、录像制品，并获得报酬。" _mubu_text="3%EF%BC%89%E8%AE%B8%E5%8F%AF%E4%BB%96%E4%BA%BA%E5%A4%8D%E5%88%B6%E3%80%81%E5%8F%91%E8%A1%8C%E5%BD%95%E6%9C%89%E5%85%B6%E8%A1%A8%E6%BC%94%E7%9A%84%E5%BD%95%E9%9F%B3%E3%80%81%E5%BD%95%E5%83%8F%E5%88%B6%E5%93%81%EF%BC%8C%E5%B9%B6%E8%8E%B7%E5%BE%97%E6%8A%A5%E9%85%AC%E3%80%82">
+		</outline>
+		<outline text="4）许可他人通过信息网络向公众传播其表演，并获得报酬。" _mubu_text="4%EF%BC%89%E8%AE%B8%E5%8F%AF%E4%BB%96%E4%BA%BA%E9%80%9A%E8%BF%87%E4%BF%A1%E6%81%AF%E7%BD%91%E7%BB%9C%E5%90%91%E5%85%AC%E4%BC%97%E4%BC%A0%E6%92%AD%E5%85%B6%E8%A1%A8%E6%BC%94%EF%BC%8C%E5%B9%B6%E8%8E%B7%E5%BE%97%E6%8A%A5%E9%85%AC%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="（3）录音录像制作者的权利。（保护期限为50年）" _mubu_text="%EF%BC%883%EF%BC%89%E5%BD%95%E9%9F%B3%E5%BD%95%E5%83%8F%E5%88%B6%E4%BD%9C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E8%80%85%3C/span%3E%E7%9A%84%E6%9D%83%E5%88%A9%E3%80%82%EF%BC%88%E4%BF%9D%E6%8A%A4%E6%9C%9F%E9%99%90%E4%B8%BA50%E5%B9%B4%EF%BC%89" _note="志：制作者" _mubu_note="%E5%BF%97%EF%BC%9A%E5%88%B6%E4%BD%9C%E8%80%85">
+		<outline text="录音录像制作者对其制作的录音录像制品，享有许可他人复制、发行、出租、通过信息网络向公众传播，并获得报酬的权利。" _mubu_text="%E5%BD%95%E9%9F%B3%E5%BD%95%E5%83%8F%E5%88%B6%E4%BD%9C%E8%80%85%E5%AF%B9%E5%85%B6%E5%88%B6%E4%BD%9C%E7%9A%84%E5%BD%95%E9%9F%B3%E5%BD%95%E5%83%8F%E5%88%B6%E5%93%81%EF%BC%8C%E4%BA%AB%E6%9C%89%E8%AE%B8%E5%8F%AF%E4%BB%96%E4%BA%BA%E5%A4%8D%E5%88%B6%E3%80%81%E5%8F%91%E8%A1%8C%E3%80%81%E5%87%BA%E7%A7%9F%E3%80%81%E9%80%9A%E8%BF%87%E4%BF%A1%E6%81%AF%E7%BD%91%E7%BB%9C%E5%90%91%E5%85%AC%E4%BC%97%E4%BC%A0%E6%92%AD%EF%BC%8C%E5%B9%B6%E8%8E%B7%E5%BE%97%E6%8A%A5%E9%85%AC%E7%9A%84%E6%9D%83%E5%88%A9%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（4）广播电台、电视台等播放者的权利。（此项权利的保护期为50年）" _mubu_text="%EF%BC%884%EF%BC%89%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E3%80%81%E7%94%B5%E8%A7%86%E5%8F%B0%E7%AD%89%E6%92%AD%E6%94%BE%E8%80%85%E7%9A%84%E6%9D%83%E5%88%A9%E3%80%82%EF%BC%88%E6%AD%A4%E9%A1%B9%E6%9D%83%E5%88%A9%E7%9A%84%E4%BF%9D%E6%8A%A4%E6%9C%9F%E4%B8%BA50%E5%B9%B4%EF%BC%89" _note="点：广播电台、电视台" _mubu_note="%E7%82%B9%EF%BC%9A%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E3%80%81%E7%94%B5%E8%A7%86%E5%8F%B0">
+		<outline text="播放者有权禁止未经其许可的下列行为：将其播放的广播、电视转播，将其播放的广播、电视录制在音像载体上以及复制音像载体。" _mubu_text="%E6%92%AD%E6%94%BE%E8%80%85%E6%9C%89%E6%9D%83%E7%A6%81%E6%AD%A2%E6%9C%AA%E7%BB%8F%E5%85%B6%E8%AE%B8%E5%8F%AF%E7%9A%84%E4%B8%8B%E5%88%97%E8%A1%8C%E4%B8%BA%EF%BC%9A%E5%B0%86%E5%85%B6%E6%92%AD%E6%94%BE%E7%9A%84%E5%B9%BF%E6%92%AD%E3%80%81%E7%94%B5%E8%A7%86%E8%BD%AC%E6%92%AD%EF%BC%8C%E5%B0%86%E5%85%B6%E6%92%AD%E6%94%BE%E7%9A%84%E5%B9%BF%E6%92%AD%E3%80%81%E7%94%B5%E8%A7%86%E5%BD%95%E5%88%B6%E5%9C%A8%E9%9F%B3%E5%83%8F%E8%BD%BD%E4%BD%93%E4%B8%8A%E4%BB%A5%E5%8F%8A%E5%A4%8D%E5%88%B6%E9%9F%B3%E5%83%8F%E8%BD%BD%E4%BD%93%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		<outline text="289.简述对著作权限制（合理使用、法定许可）" _mubu_text="289.%E7%AE%80%E8%BF%B0%E5%AF%B9%E8%91%97%E4%BD%9C%E6%9D%83%E9%99%90%E5%88%B6%EF%BC%88%E5%90%88%E7%90%86%E4%BD%BF%E7%94%A8%E3%80%81%E6%B3%95%E5%AE%9A%E8%AE%B8%E5%8F%AF%EF%BC%89">
+		<outline text="著作权的合理使用" _mubu_text="%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E5%90%88%E7%90%86%E4%BD%BF%E7%94%A8">
+		<outline text="著作权的合理使用的概念" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E5%90%88%E7%90%86%E4%BD%BF%E7%94%A8%E7%9A%84%E6%A6%82%E5%BF%B5%3C/span%3E" _heading="1" _color="#75c940">
+		<outline text="著作权的合理使用，属于对著作权的一种限制，它是指自然人、法人或者其他组织为了个人欣赏、评论、新闻报道、教学与艺术研究以及公益事业的目的，根据著作权法的规定，可以不经过作者同意而使用其已经发表的作品，并且不需要向其支付报酬的行为。" _mubu_text="%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E5%90%88%E7%90%86%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%B1%9E%E4%BA%8E%E5%AF%B9%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E4%B8%80%E7%A7%8D%E9%99%90%E5%88%B6%EF%BC%8C%E5%AE%83%E6%98%AF%E6%8C%87%E8%87%AA%E7%84%B6%E4%BA%BA%E3%80%81%E6%B3%95%E4%BA%BA%E6%88%96%E8%80%85%E5%85%B6%E4%BB%96%E7%BB%84%E7%BB%87%3Cspan%20class=%22bold%22%3E%E4%B8%BA%E4%BA%86%E4%B8%AA%E4%BA%BA%E6%AC%A3%E8%B5%8F%E3%80%81%E8%AF%84%E8%AE%BA%E3%80%81%E6%96%B0%E9%97%BB%E6%8A%A5%E9%81%93%E3%80%81%E6%95%99%E5%AD%A6%E4%B8%8E%E8%89%BA%E6%9C%AF%E7%A0%94%E7%A9%B6%E4%BB%A5%E5%8F%8A%E5%85%AC%E7%9B%8A%E4%BA%8B%E4%B8%9A%E7%9A%84%E7%9B%AE%E7%9A%84%3C/span%3E%EF%BC%8C%E6%A0%B9%E6%8D%AE%E8%91%97%E4%BD%9C%E6%9D%83%E6%B3%95%E7%9A%84%E8%A7%84%E5%AE%9A%EF%BC%8C%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%BB%8F%E8%BF%87%E4%BD%9C%E8%80%85%E5%90%8C%E6%84%8F%E8%80%8C%E4%BD%BF%E7%94%A8%E5%85%B6%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81%EF%BC%8C%E5%B9%B6%E4%B8%94%E4%B8%8D%E9%9C%80%E8%A6%81%E5%90%91%E5%85%B6%E6%94%AF%E4%BB%98%E6%8A%A5%E9%85%AC%E7%9A%84%E8%A1%8C%E4%B8%BA%E3%80%82" _note="@必须掌握的概念&nbsp;@口诀&nbsp;著作合用上坪暴雪依依" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E7%9A%84%E6%A6%82%E5%BF%B5%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E8%91%97%E4%BD%9C%E5%90%88%E7%94%A8%E4%B8%8A%E5%9D%AA%E6%9A%B4%E9%9B%AA%E4%BE%9D%E4%BE%9D">
+		</outline>
+		</outline>
+		<outline text="著作权的合理使用的对象是：" _mubu_text="%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E5%90%88%E7%90%86%E4%BD%BF%E7%94%A8%E7%9A%84%E5%AF%B9%E8%B1%A1%E6%98%AF%EF%BC%9A">
+		<outline text="已经发表的作品。" _mubu_text="%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="著作权的合理使用应该注意的其他问题" _mubu_text="%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E5%90%88%E7%90%86%E4%BD%BF%E7%94%A8%E5%BA%94%E8%AF%A5%E6%B3%A8%E6%84%8F%E7%9A%84%E5%85%B6%E4%BB%96%E9%97%AE%E9%A2%98">
+		<outline text="应当尊重作者的人身权利，应当指明作者姓名、作品名称并且不得影响作品的正常利用，也不得不合理地损害著作权人的合法利益。" _mubu_text="%E5%BA%94%E5%BD%93%E5%B0%8A%E9%87%8D%E4%BD%9C%E8%80%85%E7%9A%84%E4%BA%BA%E8%BA%AB%E6%9D%83%E5%88%A9%EF%BC%8C%E5%BA%94%E5%BD%93%E6%8C%87%E6%98%8E%E4%BD%9C%E8%80%85%E5%A7%93%E5%90%8D%E3%80%81%E4%BD%9C%E5%93%81%E5%90%8D%E7%A7%B0%E5%B9%B6%E4%B8%94%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%B8%8D%E5%BE%97%E5%BD%B1%E5%93%8D%E4%BD%9C%E5%93%81%E7%9A%84%E6%AD%A3%E5%B8%B8%E5%88%A9%E7%94%A8%3C/span%3E%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%B9%9F%E4%B8%8D%E5%BE%97%E4%B8%8D%E5%90%88%E7%90%86%E5%9C%B0%E6%8D%9F%E5%AE%B3%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E7%9A%84%E5%90%88%E6%B3%95%E5%88%A9%E7%9B%8A%E3%80%82%3C/span%3E">
+		</outline>
+		<outline text="合理使用也适用于对邻接权人的限制。" _mubu_text="%E5%90%88%E7%90%86%E4%BD%BF%E7%94%A8%E4%B9%9F%E9%80%82%E7%94%A8%E4%BA%8E%E5%AF%B9%E9%82%BB%E6%8E%A5%E6%9D%83%E4%BA%BA%E7%9A%84%E9%99%90%E5%88%B6%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="著作权具体的合理使用的方式" _mubu_text="%3Cspan%20class=%22bold%22%3E%E8%91%97%E4%BD%9C%E6%9D%83%E5%85%B7%E4%BD%93%E7%9A%84%E5%90%88%E7%90%86%E4%BD%BF%E7%94%A8%E7%9A%84%E6%96%B9%E5%BC%8F%3C/span%3E" _heading="1" _color="#75c940">
+		<outline text="个人欣赏" _mubu_text="%E4%B8%AA%E4%BA%BA%E6%AC%A3%E8%B5%8F">
+		<outline text="(1) 为个人学习、研究或者欣赏，使用他人已经发表的作品;" _mubu_text="(1)%20%E4%B8%BA%E4%B8%AA%E4%BA%BA%E5%AD%A6%E4%B9%A0%E3%80%81%E7%A0%94%E7%A9%B6%E6%88%96%E8%80%85%E6%AC%A3%E8%B5%8F%EF%BC%8C%E4%BD%BF%E7%94%A8%E4%BB%96%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81;">
+		</outline>
+		</outline>
+		<outline text="评论" _mubu_text="%E8%AF%84%E8%AE%BA">
+		<outline text="(2) 为介绍、评论某一作品或者说明某一问题，在作品中适当引用他人已经发表的作品;" _mubu_text="(2)%20%E4%B8%BA%E4%BB%8B%E7%BB%8D%E3%80%81%E8%AF%84%E8%AE%BA%E6%9F%90%E4%B8%80%E4%BD%9C%E5%93%81%E6%88%96%E8%80%85%E8%AF%B4%E6%98%8E%E6%9F%90%E4%B8%80%E9%97%AE%E9%A2%98%EF%BC%8C%E5%9C%A8%E4%BD%9C%E5%93%81%E4%B8%AD%E9%80%82%E5%BD%93%E5%BC%95%E7%94%A8%E4%BB%96%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81;">
+		</outline>
+		</outline>
+		<outline text="新闻报道" _mubu_text="%E6%96%B0%E9%97%BB%E6%8A%A5%E9%81%93">
+		<outline text="(3) 为报道时事新闻，在报纸、期刊、广播电台、电视台等媒体中不可避免地再现或者引用已经发表的作品；" _mubu_text="(3)%20%E4%B8%BA%E6%8A%A5%E9%81%93%E6%97%B6%E4%BA%8B%E6%96%B0%E9%97%BB%EF%BC%8C%E5%9C%A8%E6%8A%A5%E7%BA%B8%E3%80%81%E6%9C%9F%E5%88%8A%E3%80%81%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E3%80%81%E7%94%B5%E8%A7%86%E5%8F%B0%E7%AD%89%E5%AA%92%E4%BD%93%E4%B8%AD%E4%B8%8D%E5%8F%AF%E9%81%BF%E5%85%8D%E5%9C%B0%3Cspan%20class=%22bold%22%3E%E5%86%8D%E7%8E%B0%3C/span%3E%E6%88%96%E8%80%85%3Cspan%20class=%22bold%22%3E%E5%BC%95%E7%94%A8%3C/span%3E%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81%EF%BC%9B" _note="关键词：在现、引用" _mubu_note="%E5%85%B3%E9%94%AE%E8%AF%8D%EF%BC%9A%E5%9C%A8%E7%8E%B0%E3%80%81%E5%BC%95%E7%94%A8">
+		</outline>
+		<outline text="(4) 报纸、期刊、广播电台、电视台等媒体刊登或者播放其他报纸、期刊、广播电台、电视台等媒体已经发表的关于政治、经济、宗教问题的时事性文章，但作者声明不许刊登、播放的除外；" _mubu_text="(4)%20%E6%8A%A5%E7%BA%B8%E3%80%81%E6%9C%9F%E5%88%8A%E3%80%81%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E3%80%81%E7%94%B5%E8%A7%86%E5%8F%B0%E7%AD%89%E5%AA%92%E4%BD%93%E5%88%8A%E7%99%BB%E6%88%96%E8%80%85%E6%92%AD%E6%94%BE%E5%85%B6%E4%BB%96%E6%8A%A5%E7%BA%B8%E3%80%81%E6%9C%9F%E5%88%8A%E3%80%81%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E3%80%81%E7%94%B5%E8%A7%86%E5%8F%B0%E7%AD%89%E5%AA%92%E4%BD%93%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E5%85%B3%E4%BA%8E%E6%94%BF%E6%B2%BB%E3%80%81%E7%BB%8F%E6%B5%8E%E3%80%81%E5%AE%97%E6%95%99%E9%97%AE%E9%A2%98%E7%9A%84%E6%97%B6%E4%BA%8B%E6%80%A7%E6%96%87%E7%AB%A0%EF%BC%8C%E4%BD%86%E4%BD%9C%E8%80%85%E5%A3%B0%E6%98%8E%E4%B8%8D%E8%AE%B8%E5%88%8A%E7%99%BB%E3%80%81%E6%92%AD%E6%94%BE%E7%9A%84%E9%99%A4%E5%A4%96%EF%BC%9B" _note="关键词：刊登、播放" _mubu_note="%E5%85%B3%E9%94%AE%E8%AF%8D%EF%BC%9A%E5%88%8A%E7%99%BB%E3%80%81%E6%92%AD%E6%94%BE">
+		</outline>
+		<outline text="(5) 报纸、期刊、广播电台、电视台等媒体刊登或者播放在公众集会上发表的讲话，但作者声明不许刊登、播放的除外；" _mubu_text="(5)%20%E6%8A%A5%E7%BA%B8%E3%80%81%E6%9C%9F%E5%88%8A%E3%80%81%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E3%80%81%E7%94%B5%E8%A7%86%E5%8F%B0%E7%AD%89%E5%AA%92%E4%BD%93%E5%88%8A%E7%99%BB%E6%88%96%E8%80%85%E6%92%AD%E6%94%BE%E5%9C%A8%E5%85%AC%E4%BC%97%E9%9B%86%E4%BC%9A%E4%B8%8A%E5%8F%91%E8%A1%A8%E7%9A%84%E8%AE%B2%E8%AF%9D%EF%BC%8C%E4%BD%86%E4%BD%9C%E8%80%85%E5%A3%B0%E6%98%8E%E4%B8%8D%E8%AE%B8%E5%88%8A%E7%99%BB%E3%80%81%E6%92%AD%E6%94%BE%E7%9A%84%E9%99%A4%E5%A4%96%EF%BC%9B" _note="关键词：讲话" _mubu_note="%E5%85%B3%E9%94%AE%E8%AF%8D%EF%BC%9A%E8%AE%B2%E8%AF%9D">
+		</outline>
+		</outline>
+		<outline text="教学" _mubu_text="%E6%95%99%E5%AD%A6">
+		<outline text="(6) 为学校课堂教学或者科学研究，翻译或者少量复制已经发表的作品，供教学或者科研人员使用，但不得出版发行；" _mubu_text="(6)%20%E4%B8%BA%E5%AD%A6%E6%A0%A1%E8%AF%BE%E5%A0%82%E6%95%99%E5%AD%A6%E6%88%96%E8%80%85%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%EF%BC%8C%E7%BF%BB%E8%AF%91%E6%88%96%E8%80%85%E5%B0%91%E9%87%8F%E5%A4%8D%E5%88%B6%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81%EF%BC%8C%E4%BE%9B%E6%95%99%E5%AD%A6%E6%88%96%E8%80%85%E7%A7%91%E7%A0%94%E4%BA%BA%E5%91%98%E4%BD%BF%E7%94%A8%EF%BC%8C%E4%BD%86%E4%B8%8D%E5%BE%97%3Cspan%20class=%22bold%22%3E%E5%87%BA%E7%89%88%E5%8F%91%E8%A1%8C%3C/span%3E%EF%BC%9B">
+		</outline>
+		</outline>
+		<outline text="艺术研究" _mubu_text="%E8%89%BA%E6%9C%AF%E7%A0%94%E7%A9%B6">
+		<outline text="(10) 对设置或者陈列在室外公共场所的艺术作品进行临摹、绘画、摄影、录像;" _mubu_text="(10)%20%E5%AF%B9%E8%AE%BE%E7%BD%AE%E6%88%96%E8%80%85%E9%99%88%E5%88%97%E5%9C%A8%3Cspan%20class=%22bold%22%3E%E5%AE%A4%E5%A4%96%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%3C/span%3E%E7%9A%84%E8%89%BA%E6%9C%AF%E4%BD%9C%E5%93%81%E8%BF%9B%E8%A1%8C%E4%B8%B4%E6%91%B9%E3%80%81%E7%BB%98%E7%94%BB%E3%80%81%E6%91%84%E5%BD%B1%E3%80%81%E5%BD%95%E5%83%8F;">
+		</outline>
+		</outline>
+		<outline text="公益事业目的" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%85%AC%E7%9B%8A%E4%BA%8B%E4%B8%9A%E7%9B%AE%E7%9A%84%3C/span%3E" _note="@口诀&nbsp;公鸡馆免烧忙@题眼" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E5%85%AC%E9%B8%A1%E9%A6%86%E5%85%8D%E7%83%A7%E5%BF%99%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E9%A2%98%E7%9C%BC%3C/span%3E" _heading="1" _color="#dc2d1e">
+		<outline text="(7) 国家机关为执行公务在合理范围内使用已经发表的作品;" _mubu_text="(7)%20%E5%9B%BD%E5%AE%B6%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%9C%BA%3C/span%3E%E5%85%B3%E4%B8%BA%E6%89%A7%E8%A1%8C%E5%85%AC%E5%8A%A1%E5%9C%A8%E5%90%88%E7%90%86%E8%8C%83%E5%9B%B4%E5%86%85%E4%BD%BF%E7%94%A8%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81;">
+		</outline>
+		<outline text="(8) 图书馆、档案馆、纪念馆、博物馆、美术馆等为陈列或者保存版本的需要，复制本馆收藏的作品;" _mubu_text="(8)%20%E5%9B%BE%E4%B9%A6%E9%A6%86%E3%80%81%E6%A1%A3%E6%A1%88%E9%A6%86%E3%80%81%E7%BA%AA%E5%BF%B5%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E9%A6%86%3C/span%3E%E3%80%81%E5%8D%9A%E7%89%A9%E9%A6%86%E3%80%81%E7%BE%8E%E6%9C%AF%E9%A6%86%E7%AD%89%E4%B8%BA%E9%99%88%E5%88%97%E6%88%96%E8%80%85%E4%BF%9D%E5%AD%98%E7%89%88%E6%9C%AC%E7%9A%84%E9%9C%80%E8%A6%81%EF%BC%8C%E5%A4%8D%E5%88%B6%E6%9C%AC%E9%A6%86%E6%94%B6%E8%97%8F%E7%9A%84%E4%BD%9C%E5%93%81;">
+		</outline>
+		<outline text="(9) 免费表演已经发表的作品，该表演未向公众收取费用，也未向表演者支付报酬；" _mubu_text="(9)%20%E5%85%8D%E8%B4%B9%E8%A1%A8%E6%BC%94%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81%EF%BC%8C%E8%AF%A5%E8%A1%A8%E6%BC%94%E6%9C%AA%E5%90%91%E5%85%AC%E4%BC%97%E6%94%B6%E5%8F%96%E8%B4%B9%E7%94%A8%EF%BC%8C%E4%B9%9F%E6%9C%AA%E5%90%91%E8%A1%A8%E6%BC%94%E8%80%85%E6%94%AF%E4%BB%98%E6%8A%A5%E9%85%AC%EF%BC%9B">
+		</outline>
+		<outline text="(11) 将中国公民、法人或者其他组织已经发表的以汉语言文字创作的作品翻译成少数民族语言文字作品在国内出版发行；" _mubu_text="(11)%20%E5%B0%86%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E3%80%81%E6%B3%95%E4%BA%BA%E6%88%96%E8%80%85%E5%85%B6%E4%BB%96%E7%BB%84%E7%BB%87%3Cspan%20class=%22bold%22%3E%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%3C/span%3E%E4%BB%A5%E6%B1%89%E8%AF%AD%E8%A8%80%E6%96%87%E5%AD%97%E5%88%9B%E4%BD%9C%E7%9A%84%E4%BD%9C%E5%93%81%E7%BF%BB%E8%AF%91%E6%88%90%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E8%AF%AD%E8%A8%80%E6%96%87%E5%AD%97%E4%BD%9C%E5%93%81%E5%9C%A8%3Cspan%20class=%22bold%22%3E%E5%9B%BD%E5%86%85%3C/span%3E%E5%87%BA%E7%89%88%E5%8F%91%E8%A1%8C%EF%BC%9B">
+		</outline>
+		<outline text="(12) 将已经发表的作品改成盲文出版。" _mubu_text="(12)%20%E5%B0%86%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81%E6%94%B9%E6%88%90%E7%9B%B2%E6%96%87%E5%87%BA%E7%89%88%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		<outline text="著作权的法定许可" _mubu_text="%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E6%B3%95%E5%AE%9A%E8%AE%B8%E5%8F%AF">
+		<outline text="著作权的法定许可的概念" _mubu_text="%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E6%B3%95%E5%AE%9A%E8%AE%B8%E5%8F%AF%E7%9A%84%E6%A6%82%E5%BF%B5">
+		<outline text="著作权的法定许可是指依照法律的明文规定，不经著作权人同意而有偿使用他人已经发表的作品的行为。法定许可是除了合理使用外对著作权的又一限制。" _mubu_text="%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E6%B3%95%E5%AE%9A%E8%AE%B8%E5%8F%AF%E6%98%AF%E6%8C%87%E4%BE%9D%E7%85%A7%E6%B3%95%E5%BE%8B%E7%9A%84%E6%98%8E%E6%96%87%E8%A7%84%E5%AE%9A%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%B8%8D%E7%BB%8F%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E5%90%8C%E6%84%8F%E8%80%8C%E6%9C%89%E5%81%BF%E4%BD%BF%E7%94%A8%E4%BB%96%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81%E7%9A%84%E8%A1%8C%E4%B8%BA%E3%80%82%3C/span%3E%E6%B3%95%E5%AE%9A%E8%AE%B8%E5%8F%AF%E6%98%AF%E9%99%A4%E4%BA%86%E5%90%88%E7%90%86%E4%BD%BF%E7%94%A8%E5%A4%96%E5%AF%B9%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E5%8F%88%E4%B8%80%E9%99%90%E5%88%B6%E3%80%82" _note="@必须掌握的概念" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E7%9A%84%E6%A6%82%E5%BF%B5%3C/span%3E">
+		</outline>
+		</outline>
+		<outline text="著作权的法定许可的情形主要有" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E6%B3%95%E5%AE%9A%E8%AE%B8%E5%8F%AF%E7%9A%84%E6%83%85%E5%BD%A2%E4%B8%BB%E8%A6%81%E6%9C%89%3C/span%3E" _note="@简答题&nbsp;@题眼&nbsp;@口诀&nbsp;竹筏行数转音二放" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E9%A2%98%E7%9C%BC%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E7%AB%B9%E7%AD%8F%E8%A1%8C%E6%95%B0%E8%BD%AC%E9%9F%B3%E4%BA%8C%E6%94%BE" _heading="1" _color="#dc2d1e">
+		<outline text="（1）九年义务教育和国家教育规划的教科书" _mubu_text="%EF%BC%881%EF%BC%89%E4%B9%9D%E5%B9%B4%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E5%92%8C%E5%9B%BD%E5%AE%B6%E6%95%99%E8%82%B2%E8%A7%84%E5%88%92%E7%9A%84%E6%95%99%E7%A7%91%E4%B9%A6">
+		<outline text="为实施九年义务教育和国家教育规划而编写出版教科书，除作者事先声明不许使用的外，可不经著作权人许可，在教科书中汇编已经发表的作品片段或者短小的文字作品、音乐作品或者单幅的美术作品、摄影作品，但应当按照规定支付报酬，指明作者姓名、作品名称，并且不得侵犯著作权人依照本法享有的其他权利。" _mubu_text="%E4%B8%BA%E5%AE%9E%E6%96%BD%E4%B9%9D%E5%B9%B4%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E5%92%8C%E5%9B%BD%E5%AE%B6%E6%95%99%E8%82%B2%E8%A7%84%E5%88%92%E8%80%8C%E7%BC%96%E5%86%99%E5%87%BA%E7%89%88%E6%95%99%E7%A7%91%E4%B9%A6%EF%BC%8C%E9%99%A4%E4%BD%9C%E8%80%85%E4%BA%8B%E5%85%88%E5%A3%B0%E6%98%8E%E4%B8%8D%E8%AE%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E5%A4%96%EF%BC%8C%E5%8F%AF%E4%B8%8D%E7%BB%8F%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E8%AE%B8%E5%8F%AF%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%9C%A8%E6%95%99%E7%A7%91%E4%B9%A6%E4%B8%AD%E6%B1%87%E7%BC%96%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81%E7%89%87%E6%AE%B5%E6%88%96%E8%80%85%E7%9F%AD%E5%B0%8F%E7%9A%84%E6%96%87%E5%AD%97%E4%BD%9C%E5%93%81%E3%80%81%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81%E6%88%96%E8%80%85%E5%8D%95%E5%B9%85%E7%9A%84%E7%BE%8E%E6%9C%AF%E4%BD%9C%E5%93%81%E3%80%81%E6%91%84%E5%BD%B1%E4%BD%9C%E5%93%81%EF%BC%8C%E4%BD%86%E5%BA%94%E5%BD%93%E6%8C%89%E7%85%A7%E8%A7%84%E5%AE%9A%E6%94%AF%E4%BB%98%E6%8A%A5%E9%85%AC%EF%BC%8C%E6%8C%87%E6%98%8E%E4%BD%9C%E8%80%85%E5%A7%93%E5%90%8D%E3%80%81%E4%BD%9C%E5%93%81%E5%90%8D%E7%A7%B0%EF%BC%8C%E5%B9%B6%E4%B8%94%E4%B8%8D%E5%BE%97%E4%BE%B5%E7%8A%AF%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E4%BE%9D%E7%85%A7%E6%9C%AC%E6%B3%95%E4%BA%AB%E6%9C%89%E7%9A%84%E5%85%B6%E4%BB%96%E6%9D%83%E5%88%A9%E3%80%82%3C/span%3E">
+		</outline>
+		</outline>
+		<outline text="（2）刊登后的转载、摘录和资料刊登" _mubu_text="%EF%BC%882%EF%BC%89%E5%88%8A%E7%99%BB%E5%90%8E%E7%9A%84%E8%BD%AC%E8%BD%BD%E3%80%81%E6%91%98%E5%BD%95%E5%92%8C%E8%B5%84%E6%96%99%E5%88%8A%E7%99%BB">
+		<outline text="作品刊登后，除著作权人声明不得转载、摘编的外，其他报刊可以转载或者作为文摘、资料刊登，但应当按照规定向著作权人支付报酬。" _mubu_text="%E4%BD%9C%E5%93%81%E5%88%8A%E7%99%BB%E5%90%8E%EF%BC%8C%E9%99%A4%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E5%A3%B0%E6%98%8E%E4%B8%8D%E5%BE%97%E8%BD%AC%E8%BD%BD%E3%80%81%E6%91%98%E7%BC%96%E7%9A%84%E5%A4%96%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%85%B6%E4%BB%96%E6%8A%A5%E5%88%8A%3C/span%3E%E5%8F%AF%E4%BB%A5%E8%BD%AC%E8%BD%BD%E6%88%96%E8%80%85%E4%BD%9C%E4%B8%BA%E6%96%87%E6%91%98%E3%80%81%E8%B5%84%E6%96%99%E5%88%8A%E7%99%BB%EF%BC%8C%E4%BD%86%E5%BA%94%E5%BD%93%E6%8C%89%E7%85%A7%E8%A7%84%E5%AE%9A%E5%90%91%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E6%94%AF%E4%BB%98%E6%8A%A5%E9%85%AC%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（3）录音制作者使用他人合法录制的录音制品" _mubu_text="%EF%BC%883%EF%BC%89%E5%BD%95%E9%9F%B3%E5%88%B6%E4%BD%9C%E8%80%85%E4%BD%BF%E7%94%A8%E4%BB%96%E4%BA%BA%E5%90%88%E6%B3%95%E5%BD%95%E5%88%B6%E7%9A%84%E5%BD%95%E9%9F%B3%E5%88%B6%E5%93%81">
+		<outline text="录音制作者使用他人已经合法录制为录音制品的音乐作品制作录音作品，可以不经著作权人许可，但应当按照规定支付报酬。著作权人声明不许使用的不得使用。" _mubu_text="%E5%BD%95%E9%9F%B3%E5%88%B6%E4%BD%9C%E8%80%85%E4%BD%BF%E7%94%A8%E4%BB%96%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%90%88%E6%B3%95%E5%BD%95%E5%88%B6%E4%B8%BA%E5%BD%95%E9%9F%B3%E5%88%B6%E5%93%81%E7%9A%84%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81%E5%88%B6%E4%BD%9C%E5%BD%95%E9%9F%B3%E4%BD%9C%E5%93%81%EF%BC%8C%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%BB%8F%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E8%AE%B8%E5%8F%AF%EF%BC%8C%E4%BD%86%E5%BA%94%E5%BD%93%E6%8C%89%E7%85%A7%E8%A7%84%E5%AE%9A%E6%94%AF%E4%BB%98%E6%8A%A5%E9%85%AC%E3%80%82%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E5%A3%B0%E6%98%8E%E4%B8%8D%E8%AE%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E4%B8%8D%E5%BE%97%E4%BD%BF%E7%94%A8%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（4）广播电台、电视台播放他人已经发表的作品" _mubu_text="%EF%BC%884%EF%BC%89%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E3%80%81%E7%94%B5%E8%A7%86%E5%8F%B0%E6%92%AD%E6%94%BE%E4%BB%96%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81">
+		<outline text="广播电台、电视台播放他人已经发表的作品可以不经著作权人许可，但应支付报酬。" _mubu_text="%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E3%80%81%E7%94%B5%E8%A7%86%E5%8F%B0%E6%92%AD%E6%94%BE%E4%BB%96%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%BB%8F%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E8%AE%B8%E5%8F%AF%EF%BC%8C%E4%BD%86%E5%BA%94%E6%94%AF%E4%BB%98%E6%8A%A5%E9%85%AC%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（5）广播电台、电视台播放已经出版的录音制品" _mubu_text="%EF%BC%885%EF%BC%89%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E3%80%81%E7%94%B5%E8%A7%86%E5%8F%B0%E6%92%AD%E6%94%BE%E5%B7%B2%E7%BB%8F%E5%87%BA%E7%89%88%E7%9A%84%E5%BD%95%E9%9F%B3%E5%88%B6%E5%93%81">
+		<outline text="广播电台、电视台播放已经出版的录音制品可以不经著作权人许可，但应支付报酬，当事人另有约定的除外。" _mubu_text="%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E3%80%81%E7%94%B5%E8%A7%86%E5%8F%B0%E6%92%AD%E6%94%BE%E5%B7%B2%E7%BB%8F%E5%87%BA%E7%89%88%E7%9A%84%E5%BD%95%E9%9F%B3%E5%88%B6%E5%93%81%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%BB%8F%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E8%AE%B8%E5%8F%AF%EF%BC%8C%E4%BD%86%E5%BA%94%E6%94%AF%E4%BB%98%E6%8A%A5%E9%85%AC%EF%BC%8C%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%A6%E6%9C%89%E7%BA%A6%E5%AE%9A%E7%9A%84%E9%99%A4%E5%A4%96%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		<outline text="290.简述著作权的法定许可" _mubu_text="290.%E7%AE%80%E8%BF%B0%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E6%B3%95%E5%AE%9A%E8%AE%B8%E5%8F%AF">
+		<outline text="著作权的法定许可的概念" _mubu_text="%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E6%B3%95%E5%AE%9A%E8%AE%B8%E5%8F%AF%E7%9A%84%E6%A6%82%E5%BF%B5">
+		<outline text="著作权的法定许可是指依照法律的明文规定，不经著作权人同意而有偿使用他人已经发表的作品的行为。法定许可是除了合理使用外对著作权的又一限制。" _mubu_text="%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E6%B3%95%E5%AE%9A%E8%AE%B8%E5%8F%AF%E6%98%AF%E6%8C%87%E4%BE%9D%E7%85%A7%E6%B3%95%E5%BE%8B%E7%9A%84%E6%98%8E%E6%96%87%E8%A7%84%E5%AE%9A%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%B8%8D%E7%BB%8F%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E5%90%8C%E6%84%8F%E8%80%8C%E6%9C%89%E5%81%BF%E4%BD%BF%E7%94%A8%E4%BB%96%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81%E7%9A%84%E8%A1%8C%E4%B8%BA%E3%80%82%3C/span%3E%E6%B3%95%E5%AE%9A%E8%AE%B8%E5%8F%AF%E6%98%AF%E9%99%A4%E4%BA%86%E5%90%88%E7%90%86%E4%BD%BF%E7%94%A8%E5%A4%96%E5%AF%B9%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E5%8F%88%E4%B8%80%E9%99%90%E5%88%B6%E3%80%82" _note="@必须掌握的概念" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E7%9A%84%E6%A6%82%E5%BF%B5%3C/span%3E">
+		</outline>
+		</outline>
+		<outline text="著作权的法定许可的情形主要有" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E6%B3%95%E5%AE%9A%E8%AE%B8%E5%8F%AF%E7%9A%84%E6%83%85%E5%BD%A2%E4%B8%BB%E8%A6%81%E6%9C%89%3C/span%3E" _note="@简答题&nbsp;@题眼&nbsp;@口诀&nbsp;竹筏行数转音二放" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E9%A2%98%E7%9C%BC%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E7%AB%B9%E7%AD%8F%E8%A1%8C%E6%95%B0%E8%BD%AC%E9%9F%B3%E4%BA%8C%E6%94%BE" _heading="1" _color="#dc2d1e">
+		<outline text="（1）九年义务教育和国家教育规划的教科书" _mubu_text="%EF%BC%881%EF%BC%89%E4%B9%9D%E5%B9%B4%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E5%92%8C%E5%9B%BD%E5%AE%B6%E6%95%99%E8%82%B2%E8%A7%84%E5%88%92%E7%9A%84%E6%95%99%E7%A7%91%E4%B9%A6">
+		<outline text="为实施九年义务教育和国家教育规划而编写出版教科书，除作者事先声明不许使用的外，可不经著作权人许可，在教科书中汇编已经发表的作品片段或者短小的文字作品、音乐作品或者单幅的美术作品、摄影作品，但应当按照规定支付报酬，指明作者姓名、作品名称，并且不得侵犯著作权人依照本法享有的其他权利。" _mubu_text="%E4%B8%BA%E5%AE%9E%E6%96%BD%E4%B9%9D%E5%B9%B4%E4%B9%89%E5%8A%A1%E6%95%99%E8%82%B2%E5%92%8C%E5%9B%BD%E5%AE%B6%E6%95%99%E8%82%B2%E8%A7%84%E5%88%92%E8%80%8C%E7%BC%96%E5%86%99%E5%87%BA%E7%89%88%E6%95%99%E7%A7%91%E4%B9%A6%EF%BC%8C%E9%99%A4%E4%BD%9C%E8%80%85%E4%BA%8B%E5%85%88%E5%A3%B0%E6%98%8E%E4%B8%8D%E8%AE%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E5%A4%96%EF%BC%8C%E5%8F%AF%E4%B8%8D%E7%BB%8F%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E8%AE%B8%E5%8F%AF%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%9C%A8%E6%95%99%E7%A7%91%E4%B9%A6%E4%B8%AD%E6%B1%87%E7%BC%96%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81%E7%89%87%E6%AE%B5%E6%88%96%E8%80%85%E7%9F%AD%E5%B0%8F%E7%9A%84%E6%96%87%E5%AD%97%E4%BD%9C%E5%93%81%E3%80%81%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81%E6%88%96%E8%80%85%E5%8D%95%E5%B9%85%E7%9A%84%E7%BE%8E%E6%9C%AF%E4%BD%9C%E5%93%81%E3%80%81%E6%91%84%E5%BD%B1%E4%BD%9C%E5%93%81%EF%BC%8C%E4%BD%86%E5%BA%94%E5%BD%93%E6%8C%89%E7%85%A7%E8%A7%84%E5%AE%9A%E6%94%AF%E4%BB%98%E6%8A%A5%E9%85%AC%EF%BC%8C%E6%8C%87%E6%98%8E%E4%BD%9C%E8%80%85%E5%A7%93%E5%90%8D%E3%80%81%E4%BD%9C%E5%93%81%E5%90%8D%E7%A7%B0%EF%BC%8C%E5%B9%B6%E4%B8%94%E4%B8%8D%E5%BE%97%E4%BE%B5%E7%8A%AF%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E4%BE%9D%E7%85%A7%E6%9C%AC%E6%B3%95%E4%BA%AB%E6%9C%89%E7%9A%84%E5%85%B6%E4%BB%96%E6%9D%83%E5%88%A9%E3%80%82%3C/span%3E">
+		</outline>
+		</outline>
+		<outline text="（2）刊登后的转载、摘录和资料刊登" _mubu_text="%EF%BC%882%EF%BC%89%E5%88%8A%E7%99%BB%E5%90%8E%E7%9A%84%E8%BD%AC%E8%BD%BD%E3%80%81%E6%91%98%E5%BD%95%E5%92%8C%E8%B5%84%E6%96%99%E5%88%8A%E7%99%BB">
+		<outline text="作品刊登后，除著作权人声明不得转载、摘编的外，其他报刊可以转载或者作为文摘、资料刊登，但应当按照规定向著作权人支付报酬。" _mubu_text="%E4%BD%9C%E5%93%81%E5%88%8A%E7%99%BB%E5%90%8E%EF%BC%8C%E9%99%A4%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E5%A3%B0%E6%98%8E%E4%B8%8D%E5%BE%97%E8%BD%AC%E8%BD%BD%E3%80%81%E6%91%98%E7%BC%96%E7%9A%84%E5%A4%96%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%85%B6%E4%BB%96%E6%8A%A5%E5%88%8A%3C/span%3E%E5%8F%AF%E4%BB%A5%E8%BD%AC%E8%BD%BD%E6%88%96%E8%80%85%E4%BD%9C%E4%B8%BA%E6%96%87%E6%91%98%E3%80%81%E8%B5%84%E6%96%99%E5%88%8A%E7%99%BB%EF%BC%8C%E4%BD%86%E5%BA%94%E5%BD%93%E6%8C%89%E7%85%A7%E8%A7%84%E5%AE%9A%E5%90%91%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E6%94%AF%E4%BB%98%E6%8A%A5%E9%85%AC%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（3）录音制作者使用他人合法录制的录音制品" _mubu_text="%EF%BC%883%EF%BC%89%E5%BD%95%E9%9F%B3%E5%88%B6%E4%BD%9C%E8%80%85%E4%BD%BF%E7%94%A8%E4%BB%96%E4%BA%BA%E5%90%88%E6%B3%95%E5%BD%95%E5%88%B6%E7%9A%84%E5%BD%95%E9%9F%B3%E5%88%B6%E5%93%81">
+		<outline text="录音制作者使用他人已经合法录制为录音制品的音乐作品制作录音作品，可以不经著作权人许可，但应当按照规定支付报酬。著作权人声明不许使用的不得使用。" _mubu_text="%E5%BD%95%E9%9F%B3%E5%88%B6%E4%BD%9C%E8%80%85%E4%BD%BF%E7%94%A8%E4%BB%96%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%90%88%E6%B3%95%E5%BD%95%E5%88%B6%E4%B8%BA%E5%BD%95%E9%9F%B3%E5%88%B6%E5%93%81%E7%9A%84%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81%E5%88%B6%E4%BD%9C%E5%BD%95%E9%9F%B3%E4%BD%9C%E5%93%81%EF%BC%8C%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%BB%8F%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E8%AE%B8%E5%8F%AF%EF%BC%8C%E4%BD%86%E5%BA%94%E5%BD%93%E6%8C%89%E7%85%A7%E8%A7%84%E5%AE%9A%E6%94%AF%E4%BB%98%E6%8A%A5%E9%85%AC%E3%80%82%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E5%A3%B0%E6%98%8E%E4%B8%8D%E8%AE%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E4%B8%8D%E5%BE%97%E4%BD%BF%E7%94%A8%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（4）广播电台、电视台播放他人已经发表的作品" _mubu_text="%EF%BC%884%EF%BC%89%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E3%80%81%E7%94%B5%E8%A7%86%E5%8F%B0%E6%92%AD%E6%94%BE%E4%BB%96%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81">
+		<outline text="广播电台、电视台播放他人已经发表的作品可以不经著作权人许可，但应支付报酬。" _mubu_text="%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E3%80%81%E7%94%B5%E8%A7%86%E5%8F%B0%E6%92%AD%E6%94%BE%E4%BB%96%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%8F%91%E8%A1%A8%E7%9A%84%E4%BD%9C%E5%93%81%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%BB%8F%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E8%AE%B8%E5%8F%AF%EF%BC%8C%E4%BD%86%E5%BA%94%E6%94%AF%E4%BB%98%E6%8A%A5%E9%85%AC%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（5）广播电台、电视台播放已经出版的录音制品" _mubu_text="%EF%BC%885%EF%BC%89%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E3%80%81%E7%94%B5%E8%A7%86%E5%8F%B0%E6%92%AD%E6%94%BE%E5%B7%B2%E7%BB%8F%E5%87%BA%E7%89%88%E7%9A%84%E5%BD%95%E9%9F%B3%E5%88%B6%E5%93%81">
+		<outline text="广播电台、电视台播放已经出版的录音制品可以不经著作权人许可，但应支付报酬，当事人另有约定的除外。" _mubu_text="%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0%E3%80%81%E7%94%B5%E8%A7%86%E5%8F%B0%E6%92%AD%E6%94%BE%E5%B7%B2%E7%BB%8F%E5%87%BA%E7%89%88%E7%9A%84%E5%BD%95%E9%9F%B3%E5%88%B6%E5%93%81%E5%8F%AF%E4%BB%A5%E4%B8%8D%E7%BB%8F%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E8%AE%B8%E5%8F%AF%EF%BC%8C%E4%BD%86%E5%BA%94%E6%94%AF%E4%BB%98%E6%8A%A5%E9%85%AC%EF%BC%8C%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%A6%E6%9C%89%E7%BA%A6%E5%AE%9A%E7%9A%84%E9%99%A4%E5%A4%96%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		<outline text="291.简述对著作权的保护" _mubu_text="291.%E7%AE%80%E8%BF%B0%E5%AF%B9%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E4%BF%9D%E6%8A%A4">
+		<outline text="侵犯著作权，是指他人未经著作权人许可又无法律上的依据，使用他人作品或行使著作专有权的行为。视侵权行为情节的轻重及危害后果的不同，侵权者应当承担民事责任、行政责任和刑事责任中的一种或同时承担几种法律责任。" _mubu_text="%E4%BE%B5%E7%8A%AF%E8%91%97%E4%BD%9C%E6%9D%83%EF%BC%8C%E6%98%AF%E6%8C%87%E4%BB%96%E4%BA%BA%E6%9C%AA%E7%BB%8F%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E8%AE%B8%E5%8F%AF%E5%8F%88%E6%97%A0%E6%B3%95%E5%BE%8B%E4%B8%8A%E7%9A%84%E4%BE%9D%E6%8D%AE%EF%BC%8C%E4%BD%BF%E7%94%A8%E4%BB%96%E4%BA%BA%E4%BD%9C%E5%93%81%E6%88%96%E8%A1%8C%E4%BD%BF%E8%91%97%E4%BD%9C%E4%B8%93%E6%9C%89%E6%9D%83%E7%9A%84%E8%A1%8C%E4%B8%BA%E3%80%82%E8%A7%86%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%E6%83%85%E8%8A%82%E7%9A%84%E8%BD%BB%E9%87%8D%E5%8F%8A%E5%8D%B1%E5%AE%B3%E5%90%8E%E6%9E%9C%E7%9A%84%E4%B8%8D%E5%90%8C%EF%BC%8C%E4%BE%B5%E6%9D%83%E8%80%85%E5%BA%94%E5%BD%93%E6%89%BF%E6%8B%85%E6%B0%91%E4%BA%8B%E8%B4%A3%E4%BB%BB%E3%80%81%E8%A1%8C%E6%94%BF%E8%B4%A3%E4%BB%BB%E5%92%8C%E5%88%91%E4%BA%8B%E8%B4%A3%E4%BB%BB%E4%B8%AD%E7%9A%84%E4%B8%80%E7%A7%8D%E6%88%96%E5%90%8C%E6%97%B6%E6%89%BF%E6%8B%85%E5%87%A0%E7%A7%8D%E6%B3%95%E5%BE%8B%E8%B4%A3%E4%BB%BB%E3%80%82">
+		</outline>
+		<outline text="有下列侵权行为的,应当根据情况,承担停止侵害、消除影响、赔礼道歉、赔偿损失等民事责任。" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%9C%89%E4%B8%8B%E5%88%97%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%E7%9A%84,%E5%BA%94%E5%BD%93%E6%A0%B9%E6%8D%AE%E6%83%85%E5%86%B5,%E6%89%BF%E6%8B%85%E5%81%9C%E6%AD%A2%E4%BE%B5%E5%AE%B3%E3%80%81%E6%B6%88%E9%99%A4%E5%BD%B1%E5%93%8D%E3%80%81%E8%B5%94%E7%A4%BC%E9%81%93%E6%AD%89%E3%80%81%E8%B5%94%E5%81%BF%E6%8D%9F%E5%A4%B1%E7%AD%89%E6%B0%91%E4%BA%8B%E8%B4%A3%E4%BB%BB%E3%80%82%3C/span%3E" _note="@口诀&nbsp;明泽表叔外妾改永祖，为父设计传播塔&nbsp;@考点&nbsp;@简答题" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E6%98%8E%E6%B3%BD%E8%A1%A8%E5%8F%94%E5%A4%96%E5%A6%BE%E6%94%B9%E6%B0%B8%E7%A5%96%EF%BC%8C%E4%B8%BA%E7%88%B6%E8%AE%BE%E8%AE%A1%E4%BC%A0%E6%92%AD%E5%A1%94&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E8%80%83%E7%82%B9%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E" _heading="1" _color="#3da8f5">
+		<outline text="1.发表、单独发表、署名、歪曲篡改、剽窃、改变他人作品，或者使用、出租他人作品类。" _mubu_text="1.%E5%8F%91%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E8%A1%A8%3C/span%3E%E3%80%81%E5%8D%95%E7%8B%AC%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%8F%91%3C/span%3E%E8%A1%A8%E3%80%81%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E7%BD%B2%3C/span%3E%E5%90%8D%E3%80%81%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%AD%AA%3C/span%3E%E6%9B%B2%E7%AF%A1%E6%94%B9%E3%80%81%E5%89%BD%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E7%AA%83%3C/span%3E%E3%80%81%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%94%B9%3C/span%3E%E5%8F%98%E4%BB%96%E4%BA%BA%E4%BD%9C%E5%93%81%EF%BC%8C%E6%88%96%E8%80%85%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%BD%BF%3C/span%3E%E7%94%A8%E3%80%81%E5%87%BA%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E7%A7%9F%3C/span%3E%E4%BB%96%E4%BA%BA%E4%BD%9C%E5%93%81%E7%B1%BB%E3%80%82" _note="@口诀&nbsp;表叔外妾改永祖" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E8%A1%A8%E5%8F%94%E5%A4%96%E5%A6%BE%E6%94%B9%E6%B0%B8%E7%A5%96">
+		<outline text="(1) 未经著作权人许可，发表其作品的。" _mubu_text="(1)%20%E6%9C%AA%E7%BB%8F%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E8%AE%B8%E5%8F%AF%EF%BC%8C%E5%8F%91%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E8%A1%A8%3C/span%3E%E5%85%B6%E4%BD%9C%E5%93%81%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="(2) 未经合作者许可，将与他人合作创作的作品当作自己单独创作的作品发表的。" _mubu_text="(2)%20%E6%9C%AA%E7%BB%8F%E5%90%88%E4%BD%9C%E8%80%85%E8%AE%B8%E5%8F%AF%EF%BC%8C%E5%B0%86%E4%B8%8E%E4%BB%96%E4%BA%BA%E5%90%88%E4%BD%9C%E5%88%9B%E4%BD%9C%E7%9A%84%E4%BD%9C%E5%93%81%E5%BD%93%E4%BD%9C%E8%87%AA%E5%B7%B1%E5%8D%95%E7%8B%AC%E5%88%9B%E4%BD%9C%E7%9A%84%E4%BD%9C%E5%93%81%E5%8F%91%E8%A1%A8%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="(3) 没有参加创作,为谋取个人名利,在他人作品上署名的。" _mubu_text="(3)%20%E6%B2%A1%E6%9C%89%E5%8F%82%E5%8A%A0%E5%88%9B%E4%BD%9C,%E4%B8%BA%E8%B0%8B%E5%8F%96%E4%B8%AA%E4%BA%BA%E5%90%8D%E5%88%A9,%E5%9C%A8%E4%BB%96%E4%BA%BA%E4%BD%9C%E5%93%81%E4%B8%8A%E7%BD%B2%E5%90%8D%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="(4) 歪曲、篡改他人作品的。" _mubu_text="(4)%20%E6%AD%AA%E6%9B%B2%E3%80%81%E7%AF%A1%E6%94%B9%E4%BB%96%E4%BA%BA%E4%BD%9C%E5%93%81%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="(5) 剽窃他人作品的。" _mubu_text="(5)%20%E5%89%BD%E7%AA%83%E4%BB%96%E4%BA%BA%E4%BD%9C%E5%93%81%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="(6) 未经著作权人许可，以展览、摄制电影和以类似摄制电影的方法使用作品，或者以改编、翻译、注释等方式使用作品的,著作权法另有规定的除外。" _mubu_text="(6)%20%E6%9C%AA%E7%BB%8F%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E8%AE%B8%E5%8F%AF%EF%BC%8C%E4%BB%A5%E5%B1%95%E8%A7%88%E3%80%81%E6%91%84%E5%88%B6%E7%94%B5%E5%BD%B1%E5%92%8C%E4%BB%A5%E7%B1%BB%E4%BC%BC%E6%91%84%E5%88%B6%E7%94%B5%E5%BD%B1%E7%9A%84%E6%96%B9%E6%B3%95%E4%BD%BF%E7%94%A8%E4%BD%9C%E5%93%81%EF%BC%8C%E6%88%96%E8%80%85%E4%BB%A5%E6%94%B9%E7%BC%96%E3%80%81%E7%BF%BB%E8%AF%91%E3%80%81%E6%B3%A8%E9%87%8A%E7%AD%89%E6%96%B9%E5%BC%8F%E4%BD%BF%E7%94%A8%E4%BD%9C%E5%93%81%E7%9A%84,%E8%91%97%E4%BD%9C%E6%9D%83%E6%B3%95%E5%8F%A6%E6%9C%89%E8%A7%84%E5%AE%9A%E7%9A%84%E9%99%A4%E5%A4%96%E3%80%82">
+		</outline>
+		<outline text="(8) 未经电影作品和以类似摄制电影的方法创作的作品、计算机软件、录音录像制品的著作权人或者与著作权有关的权利人许可,出租其作品或者录音录像制品的;著作权法另有规定的除外。" _mubu_text="(8)%20%E6%9C%AA%E7%BB%8F%E7%94%B5%E5%BD%B1%E4%BD%9C%E5%93%81%E5%92%8C%E4%BB%A5%E7%B1%BB%E4%BC%BC%E6%91%84%E5%88%B6%E7%94%B5%E5%BD%B1%E7%9A%84%E6%96%B9%E6%B3%95%E5%88%9B%E4%BD%9C%E7%9A%84%E4%BD%9C%E5%93%81%E3%80%81%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6%E3%80%81%E5%BD%95%E9%9F%B3%E5%BD%95%E5%83%8F%E5%88%B6%E5%93%81%E7%9A%84%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E6%88%96%E8%80%85%E4%B8%8E%E8%91%97%E4%BD%9C%E6%9D%83%E6%9C%89%E5%85%B3%E7%9A%84%E6%9D%83%E5%88%A9%E4%BA%BA%E8%AE%B8%E5%8F%AF,%E5%87%BA%E7%A7%9F%E5%85%B6%E4%BD%9C%E5%93%81%E6%88%96%E8%80%85%E5%BD%95%E9%9F%B3%E5%BD%95%E5%83%8F%E5%88%B6%E5%93%81%E7%9A%84;%E8%91%97%E4%BD%9C%E6%9D%83%E6%B3%95%E5%8F%A6%E6%9C%89%E8%A7%84%E5%AE%9A%E7%9A%84%E9%99%A4%E5%A4%96%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="2.其他类型" _mubu_text="2.%E5%85%B6%E4%BB%96%E7%B1%BB%E5%9E%8B" _note="@口诀&nbsp;为父设计转播塔" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E4%B8%BA%E7%88%B6%E8%AE%BE%E8%AE%A1%E8%BD%AC%E6%92%AD%E5%A1%94">
+		<outline text="(7) 使用他人作品，应当支付报酬而未支付的。" _mubu_text="(7)%20%E4%BD%BF%E7%94%A8%E4%BB%96%E4%BA%BA%E4%BD%9C%E5%93%81%EF%BC%8C%E5%BA%94%E5%BD%93%E6%94%AF%E4%BB%98%E6%8A%A5%E9%85%AC%E8%80%8C%E6%9C%AA%E6%94%AF%E4%BB%98%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="(9) 未经出版者许可，使用其出版的图书、期刊的版式设计的。" _mubu_text="(9)%20%E6%9C%AA%E7%BB%8F%E5%87%BA%E7%89%88%E8%80%85%E8%AE%B8%E5%8F%AF%EF%BC%8C%E4%BD%BF%E7%94%A8%E5%85%B6%E5%87%BA%E7%89%88%E7%9A%84%E5%9B%BE%E4%B9%A6%E3%80%81%E6%9C%9F%E5%88%8A%E7%9A%84%E7%89%88%E5%BC%8F%E8%AE%BE%E8%AE%A1%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="(10) 未经表演者许可，从现场直播或者公开传送其现场表演,或者录制其表演的。" _mubu_text="(10)%20%E6%9C%AA%E7%BB%8F%E8%A1%A8%E6%BC%94%E8%80%85%E8%AE%B8%E5%8F%AF%EF%BC%8C%E4%BB%8E%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%92%AD%E6%88%96%E8%80%85%E5%85%AC%E5%BC%80%E4%BC%A0%E9%80%81%E5%85%B6%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94,%E6%88%96%E8%80%85%E5%BD%95%E5%88%B6%E5%85%B6%E8%A1%A8%E6%BC%94%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="(11) 其他侵犯著作权以及与著作权有关的权益的行为。" _mubu_text="(11)%20%E5%85%B6%E4%BB%96%E4%BE%B5%E7%8A%AF%E8%91%97%E4%BD%9C%E6%9D%83%E4%BB%A5%E5%8F%8A%E4%B8%8E%E8%91%97%E4%BD%9C%E6%9D%83%E6%9C%89%E5%85%B3%E7%9A%84%E6%9D%83%E7%9B%8A%E7%9A%84%E8%A1%8C%E4%B8%BA%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="侵犯著作权的诉讼时效为2 年,自著作权人知道或者应当知道侵权行为之日起计算。" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%BE%B5%E7%8A%AF%E8%91%97%E4%BD%9C%E6%9D%83%E7%9A%84%E8%AF%89%E8%AE%BC%E6%97%B6%E6%95%88%E4%B8%BA2%20%E5%B9%B4,%E8%87%AA%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E7%9F%A5%E9%81%93%E6%88%96%E8%80%85%E5%BA%94%E5%BD%93%E7%9F%A5%E9%81%93%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%E4%B9%8B%E6%97%A5%E8%B5%B7%E8%AE%A1%E7%AE%97%E3%80%82%3C/span%3E" _note="@考点" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E8%80%83%E7%82%B9%3C/span%3E">
+		</outline>
+		</outline>
+		<outline text="赔偿标准" _mubu_text="%E8%B5%94%E5%81%BF%E6%A0%87%E5%87%86">
+		<outline text="实施上述侵权行为给权利人造成损害的，侵权人应当按照权利人的实际损失给予赔偿。" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%AE%9E%E6%96%BD%E4%B8%8A%E8%BF%B0%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%E7%BB%99%E6%9D%83%E5%88%A9%E4%BA%BA%E9%80%A0%E6%88%90%E6%8D%9F%E5%AE%B3%E7%9A%84%EF%BC%8C%E4%BE%B5%E6%9D%83%E4%BA%BA%E5%BA%94%E5%BD%93%E6%8C%89%E7%85%A7%E6%9D%83%E5%88%A9%E4%BA%BA%E7%9A%84%E5%AE%9E%E9%99%85%E6%8D%9F%E5%A4%B1%E7%BB%99%E4%BA%88%E8%B5%94%E5%81%BF%E3%80%82%3C/span%3E">
+		</outline>
+		<outline text="实际损失难以计算的,可以按照侵权人的违法所得给予赔偿。" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%AE%9E%E9%99%85%E6%8D%9F%E5%A4%B1%E9%9A%BE%E4%BB%A5%E8%AE%A1%E7%AE%97%E7%9A%84,%E5%8F%AF%E4%BB%A5%E6%8C%89%E7%85%A7%E4%BE%B5%E6%9D%83%E4%BA%BA%E7%9A%84%E8%BF%9D%E6%B3%95%E6%89%80%E5%BE%97%E7%BB%99%E4%BA%88%E8%B5%94%E5%81%BF%E3%80%82%3C/span%3E">
+		</outline>
+		<outline text="赔偿数额应当包括权利人为制止侵权行为所支付的合理开支。" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E8%B5%94%E5%81%BF%E6%95%B0%E9%A2%9D%E5%BA%94%E5%BD%93%E5%8C%85%E6%8B%AC%E6%9D%83%E5%88%A9%E4%BA%BA%E4%B8%BA%E5%88%B6%E6%AD%A2%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%E6%89%80%E6%94%AF%E4%BB%98%E7%9A%84%E5%90%88%E7%90%86%E5%BC%80%E6%94%AF%E3%80%82%3C/span%3E">
+		</outline>
+		</outline>
+		<outline text="有下列侵权行为的，除应当根据情况承担民事责任外，同时损害公共利益的,还应当承担行政责任，情节严重，构成犯罪的，依法承担刑事责任。" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%9C%89%E4%B8%8B%E5%88%97%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%E7%9A%84%EF%BC%8C%E9%99%A4%E5%BA%94%E5%BD%93%E6%A0%B9%E6%8D%AE%E6%83%85%E5%86%B5%E6%89%BF%E6%8B%85%E6%B0%91%E4%BA%8B%E8%B4%A3%E4%BB%BB%E5%A4%96%EF%BC%8C%E5%90%8C%E6%97%B6%E6%8D%9F%E5%AE%B3%E5%85%AC%E5%85%B1%E5%88%A9%E7%9B%8A%E7%9A%84,%E8%BF%98%E5%BA%94%E5%BD%93%E6%89%BF%E6%8B%85%E8%A1%8C%E6%94%BF%E8%B4%A3%E4%BB%BB%EF%BC%8C%E6%83%85%E8%8A%82%E4%B8%A5%E9%87%8D%EF%BC%8C%E6%9E%84%E6%88%90%E7%8A%AF%E7%BD%AA%E7%9A%84%EF%BC%8C%E4%BE%9D%E6%B3%95%E6%89%BF%E6%8B%85%E5%88%91%E4%BA%8B%E8%B4%A3%E4%BB%BB%E3%80%82%3C/span%3E" _note="@口诀&nbsp;整形则富婆穿发夹&nbsp;@考点&nbsp;@简答题" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E6%95%B4%E5%BD%A2%E5%88%99%E5%AF%8C%E5%A9%86%E7%A9%BF%E5%8F%91%E5%A4%B9&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E8%80%83%E7%82%B9%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E" _heading="1" _color="#3da8f5">
+		<outline text="非法复制、发行、传播类" _mubu_text="%E9%9D%9E%E6%B3%95%E5%A4%8D%E5%88%B6%E3%80%81%E5%8F%91%E8%A1%8C%E3%80%81%E4%BC%A0%E6%92%AD%E7%B1%BB">
+		<outline text="(1) 未经著作权人许可，复制、发行、表演、放映、广播、汇编、通过信息网络向公众传播其作品的:著作权法另有规定的除外。" _mubu_text="(1)%20%E6%9C%AA%E7%BB%8F%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E8%AE%B8%E5%8F%AF%EF%BC%8C%E5%A4%8D%E5%88%B6%E3%80%81%E5%8F%91%E8%A1%8C%E3%80%81%E8%A1%A8%E6%BC%94%E3%80%81%E6%94%BE%E6%98%A0%E3%80%81%E5%B9%BF%E6%92%AD%E3%80%81%E6%B1%87%E7%BC%96%E3%80%81%E9%80%9A%E8%BF%87%E4%BF%A1%E6%81%AF%E7%BD%91%E7%BB%9C%E5%90%91%E5%85%AC%E4%BC%97%E4%BC%A0%E6%92%AD%E5%85%B6%E4%BD%9C%E5%93%81%E7%9A%84:%E8%91%97%E4%BD%9C%E6%9D%83%E6%B3%95%E5%8F%A6%E6%9C%89%E8%A7%84%E5%AE%9A%E7%9A%84%E9%99%A4%E5%A4%96%E3%80%82" _note="@口诀&nbsp;富发表营光辉王储" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E5%AF%8C%E5%8F%91%E8%A1%A8%E8%90%A5%E5%85%89%E8%BE%89%E7%8E%8B%E5%82%A8">
+		</outline>
+		<outline text="(2) 出版他人享有专有出版权的图书的。" _mubu_text="(2)%20%E5%87%BA%E7%89%88%E4%BB%96%E4%BA%BA%E4%BA%AB%E6%9C%89%E4%B8%93%E6%9C%89%E5%87%BA%E7%89%88%E6%9D%83%E7%9A%84%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%9B%BE%E4%B9%A6%3C/span%3E%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="(3) 未经表演者许可，复制、发行录有其表演的录音录像制品，或者通过信息网络向公众传播其表演的，著作权法另有规定的除外。" _mubu_text="(3)%20%E6%9C%AA%E7%BB%8F%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E8%A1%A8%E6%BC%94%E8%80%85%3C/span%3E%E8%AE%B8%E5%8F%AF%EF%BC%8C%E5%A4%8D%E5%88%B6%E3%80%81%E5%8F%91%E8%A1%8C%E5%BD%95%E6%9C%89%E5%85%B6%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E8%A1%A8%E6%BC%94%E7%9A%84%E5%BD%95%E9%9F%B3%E5%BD%95%E5%83%8F%E5%88%B6%E5%93%81%3C/span%3E%EF%BC%8C%E6%88%96%E8%80%85%E9%80%9A%E8%BF%87%E4%BF%A1%E6%81%AF%E7%BD%91%E7%BB%9C%E5%90%91%E5%85%AC%E4%BC%97%E4%BC%A0%E6%92%AD%E5%85%B6%E8%A1%A8%E6%BC%94%E7%9A%84%EF%BC%8C%E8%91%97%E4%BD%9C%E6%9D%83%E6%B3%95%E5%8F%A6%E6%9C%89%E8%A7%84%E5%AE%9A%E7%9A%84%E9%99%A4%E5%A4%96%E3%80%82">
+		</outline>
+		<outline text="(4)未经录音录像制作者许可，复制、发行、通过信息网络向公众传播其制作的录音录像制品的;著作权法另有规定的除外。" _mubu_text="(4)%E6%9C%AA%E7%BB%8F%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%BD%95%E9%9F%B3%E5%BD%95%E5%83%8F%E5%88%B6%E4%BD%9C%E8%80%85%3C/span%3E%E8%AE%B8%E5%8F%AF%EF%BC%8C%E5%A4%8D%E5%88%B6%E3%80%81%E5%8F%91%E8%A1%8C%E3%80%81%E9%80%9A%E8%BF%87%E4%BF%A1%E6%81%AF%E7%BD%91%E7%BB%9C%E5%90%91%E5%85%AC%E4%BC%97%E4%BC%A0%E6%92%AD%E5%85%B6%E5%88%B6%E4%BD%9C%E7%9A%84%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%BD%95%E9%9F%B3%E5%BD%95%E5%83%8F%E5%88%B6%E5%93%81%3C/span%3E%E7%9A%84;%E8%91%97%E4%BD%9C%E6%9D%83%E6%B3%95%E5%8F%A6%E6%9C%89%E8%A7%84%E5%AE%9A%E7%9A%84%E9%99%A4%E5%A4%96%E3%80%82">
+		</outline>
+		<outline text="(5) 未经许可，播放或者复制广播、电视的。著作权法另有规定的除外。" _mubu_text="(5)%20%E6%9C%AA%E7%BB%8F%E8%AE%B8%E5%8F%AF%EF%BC%8C%E6%92%AD%E6%94%BE%E6%88%96%E8%80%85%E5%A4%8D%E5%88%B6%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%B9%BF%E6%92%AD%E3%80%81%E7%94%B5%E8%A7%86%3C/span%3E%E7%9A%84%E3%80%82%E8%91%97%E4%BD%9C%E6%9D%83%E6%B3%95%E5%8F%A6%E6%9C%89%E8%A7%84%E5%AE%9A%E7%9A%84%E9%99%A4%E5%A4%96%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="破解类" _mubu_text="%E7%A0%B4%E8%A7%A3%E7%B1%BB">
+		<outline text="(6)未经著作权人或者与著作权有关的权利人许可，故意避开或者破坏权利人为其作品、录音录像制品等采取的保护著作权或者与著作权有关的权利的技术措施的。法律、行政法规另有规定的除外。" _mubu_text="(6)%E6%9C%AA%E7%BB%8F%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E6%88%96%E8%80%85%E4%B8%8E%E8%91%97%E4%BD%9C%E6%9D%83%E6%9C%89%E5%85%B3%E7%9A%84%E6%9D%83%E5%88%A9%E4%BA%BA%E8%AE%B8%E5%8F%AF%EF%BC%8C%E6%95%85%E6%84%8F%E9%81%BF%E5%BC%80%E6%88%96%E8%80%85%E7%A0%B4%E5%9D%8F%E6%9D%83%E5%88%A9%E4%BA%BA%E4%B8%BA%E5%85%B6%E4%BD%9C%E5%93%81%E3%80%81%E5%BD%95%E9%9F%B3%E5%BD%95%E5%83%8F%E5%88%B6%E5%93%81%E7%AD%89%E9%87%87%E5%8F%96%E7%9A%84%E4%BF%9D%E6%8A%A4%E8%91%97%E4%BD%9C%E6%9D%83%E6%88%96%E8%80%85%E4%B8%8E%E8%91%97%E4%BD%9C%E6%9D%83%E6%9C%89%E5%85%B3%E7%9A%84%E6%9D%83%E5%88%A9%E7%9A%84%E6%8A%80%E6%9C%AF%E6%8E%AA%E6%96%BD%E7%9A%84%E3%80%82%E6%B3%95%E5%BE%8B%E3%80%81%E8%A1%8C%E6%94%BF%E6%B3%95%E8%A7%84%E5%8F%A6%E6%9C%89%E8%A7%84%E5%AE%9A%E7%9A%84%E9%99%A4%E5%A4%96%E3%80%82">
+		</outline>
+		<outline text="(7) 未经著作权人或者与著作权有关的权利人许可，故意删除或者改变作品、录音录像制品等的权利管理电子信息的。法律、行政法规另有规定的除外。" _mubu_text="(7)%20%E6%9C%AA%E7%BB%8F%E8%91%97%E4%BD%9C%E6%9D%83%E4%BA%BA%E6%88%96%E8%80%85%E4%B8%8E%E8%91%97%E4%BD%9C%E6%9D%83%E6%9C%89%E5%85%B3%E7%9A%84%E6%9D%83%E5%88%A9%E4%BA%BA%E8%AE%B8%E5%8F%AF%EF%BC%8C%E6%95%85%E6%84%8F%E5%88%A0%E9%99%A4%E6%88%96%E8%80%85%E6%94%B9%E5%8F%98%E4%BD%9C%E5%93%81%E3%80%81%E5%BD%95%E9%9F%B3%E5%BD%95%E5%83%8F%E5%88%B6%E5%93%81%E7%AD%89%E7%9A%84%E6%9D%83%E5%88%A9%E7%AE%A1%E7%90%86%E7%94%B5%E5%AD%90%E4%BF%A1%E6%81%AF%E7%9A%84%E3%80%82%E6%B3%95%E5%BE%8B%E3%80%81%E8%A1%8C%E6%94%BF%E6%B3%95%E8%A7%84%E5%8F%A6%E6%9C%89%E8%A7%84%E5%AE%9A%E7%9A%84%E9%99%A4%E5%A4%96%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="售假类" _mubu_text="%E5%94%AE%E5%81%87%E7%B1%BB">
+		<outline text="(8) 制作、出售假置他人署名的作品的。" _mubu_text="(8)%20%E5%88%B6%E4%BD%9C%E3%80%81%E5%87%BA%E5%94%AE%E5%81%87%E7%BD%AE%E4%BB%96%E4%BA%BA%E7%BD%B2%E5%90%8D%E7%9A%84%E4%BD%9C%E5%93%81%E7%9A%84%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		<outline text="292.简述专利权的概念和特征" _mubu_text="292.%E7%AE%80%E8%BF%B0%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E6%A6%82%E5%BF%B5%E5%92%8C%E7%89%B9%E5%BE%81">
+		<outline text="专利权的概念" _mubu_text="%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E6%A6%82%E5%BF%B5">
+		<outline text="专利权是指发明创造的发明人、设计人或其他申请人以及上述主体的合法继受人依法享有的对某项发明创造的独占使用权。" _mubu_text="%E4%B8%93%E5%88%A9%E6%9D%83%E6%98%AF%E6%8C%87%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E7%9A%84%E5%8F%91%E6%98%8E%E4%BA%BA%E3%80%81%E8%AE%BE%E8%AE%A1%E4%BA%BA%E6%88%96%E5%85%B6%E4%BB%96%E7%94%B3%E8%AF%B7%E4%BA%BA%E4%BB%A5%E5%8F%8A%E4%B8%8A%E8%BF%B0%E4%B8%BB%E4%BD%93%E7%9A%84%E5%90%88%E6%B3%95%E7%BB%A7%E5%8F%97%E4%BA%BA%E4%BE%9D%E6%B3%95%E4%BA%AB%E6%9C%89%E7%9A%84%E5%AF%B9%E6%9F%90%E9%A1%B9%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E7%9A%84%E7%8B%AC%E5%8D%A0%E4%BD%BF%E7%94%A8%E6%9D%83%E3%80%82" _note="@必须掌握的概念" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E7%9A%84%E6%A6%82%E5%BF%B5%3C/span%3E">
+		</outline>
+		</outline>
+		<outline text="专利权的特征" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E7%89%B9%E5%BE%81%3C/span%3E" _note="@简答题&nbsp;@口诀&nbsp;转正职工公证" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E8%BD%AC%E6%AD%A3%E8%81%8C%E5%B7%A5%E5%85%AC%E8%AF%81" _heading="1" _color="#3da8f5">
+		<outline text="（1）具有知识产权的共同特征" _mubu_text="%EF%BC%881%EF%BC%89%E5%85%B7%E6%9C%89%E7%9F%A5%E8%AF%86%E4%BA%A7%E6%9D%83%E7%9A%84%E5%85%B1%E5%90%8C%E7%89%B9%E5%BE%81">
+		<outline text="专有性，地域性，时间性，客体的无形性。" _mubu_text="%E4%B8%93%E6%9C%89%E6%80%A7%EF%BC%8C%E5%9C%B0%E5%9F%9F%E6%80%A7%EF%BC%8C%E6%97%B6%E9%97%B4%E6%80%A7%EF%BC%8C%E5%AE%A2%E4%BD%93%E7%9A%84%E6%97%A0%E5%BD%A2%E6%80%A7%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（2）公开性" _mubu_text="%EF%BC%882%EF%BC%89%E5%85%AC%E5%BC%80%E6%80%A7">
+		<outline text="公开性是指只有将专利技术公开才能被授予专利权。" _mubu_text="%E5%85%AC%E5%BC%80%E6%80%A7%E6%98%AF%E6%8C%87%E5%8F%AA%E6%9C%89%E5%B0%86%E4%B8%93%E5%88%A9%E6%8A%80%E6%9C%AF%E5%85%AC%E5%BC%80%E6%89%8D%E8%83%BD%E8%A2%AB%E6%8E%88%E4%BA%88%E4%B8%93%E5%88%A9%E6%9D%83%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（3）行政授予性" _mubu_text="%EF%BC%883%EF%BC%89%E8%A1%8C%E6%94%BF%E6%8E%88%E4%BA%88%E6%80%A7">
+		<outline text="行政授予性是指，专利权并非自动产生的权利，必须经专利行政部门授予才能取得。" _mubu_text="%E8%A1%8C%E6%94%BF%E6%8E%88%E4%BA%88%E6%80%A7%E6%98%AF%E6%8C%87%EF%BC%8C%E4%B8%93%E5%88%A9%E6%9D%83%E5%B9%B6%E9%9D%9E%E8%87%AA%E5%8A%A8%E4%BA%A7%E7%94%9F%E7%9A%84%E6%9D%83%E5%88%A9%EF%BC%8C%E5%BF%85%E9%A1%BB%E7%BB%8F%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E6%8E%88%E4%BA%88%E6%89%8D%E8%83%BD%E5%8F%96%E5%BE%97%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		<outline text="293.简述职务发明创造" _mubu_text="293.%E7%AE%80%E8%BF%B0%E8%81%8C%E5%8A%A1%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0">
+		<outline text="职务发明创造" _mubu_text="%E8%81%8C%E5%8A%A1%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0">
+		<outline text="职务发明创造的概念" _mubu_text="%E8%81%8C%E5%8A%A1%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E7%9A%84%E6%A6%82%E5%BF%B5">
+		<outline text="所谓职务发明创造，是指执行本单位的任务或者主要是利用本单位的物质技术条件所完成的发明创造。" _mubu_text="%E6%89%80%E8%B0%93%E8%81%8C%E5%8A%A1%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%EF%BC%8C%E6%98%AF%E6%8C%87%E6%89%A7%E8%A1%8C%E6%9C%AC%E5%8D%95%E4%BD%8D%E7%9A%84%E4%BB%BB%E5%8A%A1%E6%88%96%E8%80%85%E4%B8%BB%E8%A6%81%E6%98%AF%E5%88%A9%E7%94%A8%E6%9C%AC%E5%8D%95%E4%BD%8D%E7%9A%84%E7%89%A9%E8%B4%A8%E6%8A%80%E6%9C%AF%E6%9D%A1%E4%BB%B6%E6%89%80%E5%AE%8C%E6%88%90%E7%9A%84%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E3%80%82">
+		</outline>
+		<outline text="执行本单位的任务包括" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%89%A7%E8%A1%8C%E6%9C%AC%E5%8D%95%E4%BD%8D%E7%9A%84%E4%BB%BB%E5%8A%A1%E5%8C%85%E6%8B%AC%3C/span%3E" _note="@真题&nbsp;2015年简答题@简答题&nbsp;@口诀&nbsp;工作任务退一年" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%9C%9F%E9%A2%98%3C/span%3E&amp;nbsp;2015%E5%B9%B4%E7%AE%80%E7%AD%94%E9%A2%98%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E5%B7%A5%E4%BD%9C%E4%BB%BB%E5%8A%A1%E9%80%80%E4%B8%80%E5%B9%B4" _heading="1" _color="#75c940">
+		<outline text="（一）在本职工作中作出的发明创造；" _mubu_text="%EF%BC%88%E4%B8%80%EF%BC%89%E5%9C%A8%E6%9C%AC%E8%81%8C%E5%B7%A5%E4%BD%9C%E4%B8%AD%E4%BD%9C%E5%87%BA%E7%9A%84%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%EF%BC%9B">
+		</outline>
+		<outline text="（二）履行本单位交付的本职工作之外的任务所作出的发明创造；" _mubu_text="%EF%BC%88%E4%BA%8C%EF%BC%89%E5%B1%A5%E8%A1%8C%E6%9C%AC%E5%8D%95%E4%BD%8D%E4%BA%A4%E4%BB%98%E7%9A%84%E6%9C%AC%E8%81%8C%E5%B7%A5%E4%BD%9C%E4%B9%8B%E5%A4%96%E7%9A%84%E4%BB%BB%E5%8A%A1%E6%89%80%E4%BD%9C%E5%87%BA%E7%9A%84%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%EF%BC%9B">
+		</outline>
+		<outline text="（三）退职、退休或者调动工作后一年内作出的，与其在原单位承担的本职工作或者原单位分配的任务有关的发明创造。" _mubu_text="%EF%BC%88%E4%B8%89%EF%BC%89%E9%80%80%E8%81%8C%E3%80%81%E9%80%80%E4%BC%91%E6%88%96%E8%80%85%E8%B0%83%E5%8A%A8%E5%B7%A5%E4%BD%9C%E5%90%8E%E4%B8%80%E5%B9%B4%E5%86%85%E4%BD%9C%E5%87%BA%E7%9A%84%EF%BC%8C%E4%B8%8E%E5%85%B6%E5%9C%A8%E5%8E%9F%E5%8D%95%E4%BD%8D%E6%89%BF%E6%8B%85%E7%9A%84%E6%9C%AC%E8%81%8C%E5%B7%A5%E4%BD%9C%E6%88%96%E8%80%85%E5%8E%9F%E5%8D%95%E4%BD%8D%E5%88%86%E9%85%8D%E7%9A%84%E4%BB%BB%E5%8A%A1%E6%9C%89%E5%85%B3%E7%9A%84%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="物质技术条件是指" _mubu_text="%E7%89%A9%E8%B4%A8%E6%8A%80%E6%9C%AF%E6%9D%A1%E4%BB%B6%E6%98%AF%E6%8C%87">
+		<outline text="本单位的资金、设备、零部件、原材料或者不对外公开的技术资料等。" _mubu_text="%E6%9C%AC%E5%8D%95%E4%BD%8D%E7%9A%84%E8%B5%84%E9%87%91%E3%80%81%E8%AE%BE%E5%A4%87%E3%80%81%E9%9B%B6%E9%83%A8%E4%BB%B6%E3%80%81%E5%8E%9F%E6%9D%90%E6%96%99%E6%88%96%E8%80%85%E4%B8%8D%E5%AF%B9%E5%A4%96%E5%85%AC%E5%BC%80%E7%9A%84%E6%8A%80%E6%9C%AF%E8%B5%84%E6%96%99%E7%AD%89%E3%80%82" _note="@法条分析" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E6%B3%95%E6%9D%A1%E5%88%86%E6%9E%90%3C/span%3E">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="职务发明创造专利权的归属" _mubu_text="%E8%81%8C%E5%8A%A1%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E5%BD%92%E5%B1%9E">
+		<outline text="职务发明创造申请专利的权利属于该单位，申请被批准后该单位为专利权人。" _mubu_text="%E8%81%8C%E5%8A%A1%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E7%94%B3%E8%AF%B7%E4%B8%93%E5%88%A9%E7%9A%84%E6%9D%83%E5%88%A9%E5%B1%9E%E4%BA%8E%E8%AF%A5%E5%8D%95%E4%BD%8D%EF%BC%8C%E7%94%B3%E8%AF%B7%E8%A2%AB%E6%89%B9%E5%87%86%E5%90%8E%E8%AF%A5%E5%8D%95%E4%BD%8D%E4%B8%BA%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E3%80%82">
+		</outline>
+		<outline text="单位与个人另有约定的从其约定。" _mubu_text="%E5%8D%95%E4%BD%8D%E4%B8%8E%E4%B8%AA%E4%BA%BA%E5%8F%A6%E6%9C%89%E7%BA%A6%E5%AE%9A%E7%9A%84%E4%BB%8E%E5%85%B6%E7%BA%A6%E5%AE%9A%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		<outline text="294.简述专利权的客体" _mubu_text="294.%E7%AE%80%E8%BF%B0%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E5%AE%A2%E4%BD%93">
+		<outline text="专利的客体的概念" _mubu_text="%E4%B8%93%E5%88%A9%E7%9A%84%E5%AE%A2%E4%BD%93%E7%9A%84%E6%A6%82%E5%BF%B5">
+		<outline text="专利权的客体，是指符合专利条件的发明创造，具体包括发明、实用新型和外观设计。" _mubu_text="%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E5%AE%A2%E4%BD%93%EF%BC%8C%E6%98%AF%E6%8C%87%E7%AC%A6%E5%90%88%E4%B8%93%E5%88%A9%E6%9D%A1%E4%BB%B6%E7%9A%84%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%EF%BC%8C%E5%85%B7%E4%BD%93%E5%8C%85%E6%8B%AC%E5%8F%91%E6%98%8E%E3%80%81%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E5%92%8C%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%E3%80%82">
+		</outline>
+		<outline text="从民法的角度看，发明创造活动是一种事实行为，不受民事行为能力的限制。" _mubu_text="%E4%BB%8E%E6%B0%91%E6%B3%95%E7%9A%84%E8%A7%92%E5%BA%A6%E7%9C%8B%EF%BC%8C%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E6%B4%BB%E5%8A%A8%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BA%8B%E5%AE%9E%E8%A1%8C%E4%B8%BA%EF%BC%8C%E4%B8%8D%E5%8F%97%E6%B0%91%E4%BA%8B%E8%A1%8C%E4%B8%BA%E8%83%BD%E5%8A%9B%E7%9A%84%E9%99%90%E5%88%B6%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="我国专利法对发明创造的规定" _mubu_text="%E6%88%91%E5%9B%BD%E4%B8%93%E5%88%A9%E6%B3%95%E5%AF%B9%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E7%9A%84%E8%A7%84%E5%AE%9A">
+		<outline text="发明" _mubu_text="%E5%8F%91%E6%98%8E">
+		<outline text="是指对产品、方法或者其改进所提出的新的技术方案。" _mubu_text="%E6%98%AF%E6%8C%87%E5%AF%B9%E4%BA%A7%E5%93%81%E3%80%81%E6%96%B9%E6%B3%95%E6%88%96%E8%80%85%E5%85%B6%E6%94%B9%E8%BF%9B%E6%89%80%E6%8F%90%E5%87%BA%E7%9A%84%E6%96%B0%E7%9A%84%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="实用新型" _mubu_text="%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B">
+		<outline text="又称“小发明”或“小专利”，是指对产品的形状、构造或者其结合所提出的适于使用的新的技术方案。" _mubu_text="%E5%8F%88%E7%A7%B0%E2%80%9C%E5%B0%8F%E5%8F%91%E6%98%8E%E2%80%9D%E6%88%96%E2%80%9C%E5%B0%8F%E4%B8%93%E5%88%A9%E2%80%9D%EF%BC%8C%E6%98%AF%E6%8C%87%E5%AF%B9%E4%BA%A7%E5%93%81%E7%9A%84%E5%BD%A2%E7%8A%B6%E3%80%81%E6%9E%84%E9%80%A0%E6%88%96%E8%80%85%E5%85%B6%E7%BB%93%E5%90%88%E6%89%80%E6%8F%90%E5%87%BA%E7%9A%84%E9%80%82%E4%BA%8E%E4%BD%BF%E7%94%A8%E7%9A%84%E6%96%B0%E7%9A%84%E6%8A%80%E6%9C%AF%E6%96%B9%E6%A1%88%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="实用新型和发明的区别" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E5%92%8C%E5%8F%91%E6%98%8E%E7%9A%84%E5%8C%BA%E5%88%AB%3C/span%3E" _note="@简答题&nbsp;@题眼&nbsp;@口诀&nbsp;施法区别伪造肾宝" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E9%A2%98%E7%9C%BC%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E6%96%BD%E6%B3%95%E5%8C%BA%E5%88%AB%E4%BC%AA%E9%80%A0%E8%82%BE%E5%AE%9D" _heading="1" _color="#dc2d1e">
+		<outline text="实用新型和发明相比：" _mubu_text="%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E5%92%8C%E5%8F%91%E6%98%8E%E7%9B%B8%E6%AF%94%EF%BC%9A">
+		<outline text="①范围不如发明大，不包括物品的制造方法；" _mubu_text="%E2%91%A0%E8%8C%83%E5%9B%B4%E4%B8%8D%E5%A6%82%E5%8F%91%E6%98%8E%E5%A4%A7%EF%BC%8C%E4%B8%8D%E5%8C%85%E6%8B%AC%E7%89%A9%E5%93%81%E7%9A%84%E5%88%B6%E9%80%A0%E6%96%B9%E6%B3%95%EF%BC%9B">
+		</outline>
+		<outline text="②创造性不如发明强；" _mubu_text="%E2%91%A1%E5%88%9B%E9%80%A0%E6%80%A7%E4%B8%8D%E5%A6%82%E5%8F%91%E6%98%8E%E5%BC%BA%EF%BC%9B">
+		</outline>
+		<outline text="③审批手续比发明简单，无需进行实质审查；" _mubu_text="%E2%91%A2%E5%AE%A1%E6%89%B9%E6%89%8B%E7%BB%AD%E6%AF%94%E5%8F%91%E6%98%8E%E7%AE%80%E5%8D%95%EF%BC%8C%E6%97%A0%E9%9C%80%E8%BF%9B%E8%A1%8C%E5%AE%9E%E8%B4%A8%E5%AE%A1%E6%9F%A5%EF%BC%9B">
+		</outline>
+		<outline text="④保护期限亦不同。" _mubu_text="%E2%91%A3%E4%BF%9D%E6%8A%A4%E6%9C%9F%E9%99%90%E4%BA%A6%E4%B8%8D%E5%90%8C%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="外观设计" _mubu_text="%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1">
+		<outline text="外观设计是工业品外观设计的简称。是指对产品的形状、图案或者其结合以及色彩与形状、图案的结合所作出的富有美感并适于工业应用的新设计。" _mubu_text="%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%E6%98%AF%E5%B7%A5%E4%B8%9A%E5%93%81%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%AE%80%E7%A7%B0%E3%80%82%E6%98%AF%E6%8C%87%E5%AF%B9%E4%BA%A7%E5%93%81%E7%9A%84%E5%BD%A2%E7%8A%B6%E3%80%81%E5%9B%BE%E6%A1%88%E6%88%96%E8%80%85%E5%85%B6%E7%BB%93%E5%90%88%E4%BB%A5%E5%8F%8A%E8%89%B2%E5%BD%A9%E4%B8%8E%E5%BD%A2%E7%8A%B6%E3%80%81%E5%9B%BE%E6%A1%88%E7%9A%84%E7%BB%93%E5%90%88%E6%89%80%E4%BD%9C%E5%87%BA%E7%9A%84%E5%AF%8C%E6%9C%89%E7%BE%8E%E6%84%9F%E5%B9%B6%E9%80%82%E4%BA%8E%E5%B7%A5%E4%B8%9A%E5%BA%94%E7%94%A8%E7%9A%84%E6%96%B0%E8%AE%BE%E8%AE%A1%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		<outline text="295.简述不授予专利权的情形" _mubu_text="295.%E7%AE%80%E8%BF%B0%E4%B8%8D%E6%8E%88%E4%BA%88%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E6%83%85%E5%BD%A2">
+		<outline text="两类不授予专利权的发明创造" _mubu_text="%E4%B8%A4%E7%B1%BB%E4%B8%8D%E6%8E%88%E4%BA%88%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0">
+		<outline text="（1）违反法律、社会公德或妨碍公共利益的发明创造。" _mubu_text="%EF%BC%881%EF%BC%89%E8%BF%9D%E5%8F%8D%E6%B3%95%E5%BE%8B%E3%80%81%E7%A4%BE%E4%BC%9A%E5%85%AC%E5%BE%B7%E6%88%96%E5%A6%A8%E7%A2%8D%E5%85%AC%E5%85%B1%E5%88%A9%E7%9B%8A%E7%9A%84%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E3%80%82">
+		</outline>
+		<outline text="（2）违反法律、行政法规的规定获取或者利用遗传资源，并依赖该遗传资源完成的发明创造。" _mubu_text="%EF%BC%882%EF%BC%89%E8%BF%9D%E5%8F%8D%E6%B3%95%E5%BE%8B%E3%80%81%E8%A1%8C%E6%94%BF%E6%B3%95%E8%A7%84%E7%9A%84%E8%A7%84%E5%AE%9A%E8%8E%B7%E5%8F%96%E6%88%96%E8%80%85%E5%88%A9%E7%94%A8%E9%81%97%E4%BC%A0%E8%B5%84%E6%BA%90%EF%BC%8C%E5%B9%B6%E4%BE%9D%E8%B5%96%E8%AF%A5%E9%81%97%E4%BC%A0%E8%B5%84%E6%BA%90%E5%AE%8C%E6%88%90%E7%9A%84%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="不授予专利权的具体其他事项" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%B8%8D%E6%8E%88%E4%BA%88%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E5%85%B7%E4%BD%93%E5%85%B6%E4%BB%96%E4%BA%8B%E9%A1%B9%3C/span%3E" _note="@口诀&nbsp;不受克制珍重和平&nbsp;@简答题" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E4%B8%8D%E5%8F%97%E5%85%8B%E5%88%B6%E7%8F%8D%E9%87%8D%E5%92%8C%E5%B9%B3&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E" _heading="1" _color="#75c940">
+		<outline text="（1）科学发现" _mubu_text="%EF%BC%881%EF%BC%89%E7%A7%91%E5%AD%A6%E5%8F%91%E7%8E%B0">
+		</outline>
+		<outline text="（2）智力活动的规则和方法" _mubu_text="%EF%BC%882%EF%BC%89%E6%99%BA%E5%8A%9B%E6%B4%BB%E5%8A%A8%E7%9A%84%E8%A7%84%E5%88%99%E5%92%8C%E6%96%B9%E6%B3%95">
+		</outline>
+		<outline text="（3）疾病的诊断和治疗方法" _mubu_text="%EF%BC%883%EF%BC%89%E7%96%BE%E7%97%85%E7%9A%84%E8%AF%8A%E6%96%AD%E5%92%8C%E6%B2%BB%E7%96%97%E6%96%B9%E6%B3%95">
+		</outline>
+		<outline text="（4）动物和植物品种（但其生产方法可以依法授予专利权）" _mubu_text="%EF%BC%884%EF%BC%89%E5%8A%A8%E7%89%A9%E5%92%8C%E6%A4%8D%E7%89%A9%E5%93%81%E7%A7%8D%EF%BC%88%E4%BD%86%E5%85%B6%E7%94%9F%E4%BA%A7%E6%96%B9%E6%B3%95%E5%8F%AF%E4%BB%A5%E4%BE%9D%E6%B3%95%E6%8E%88%E4%BA%88%E4%B8%93%E5%88%A9%E6%9D%83%EF%BC%89">
+		</outline>
+		<outline text="（5）用原子核变换方法获得的物质" _mubu_text="%EF%BC%885%EF%BC%89%E7%94%A8%E5%8E%9F%E5%AD%90%E6%A0%B8%E5%8F%98%E6%8D%A2%E6%96%B9%E6%B3%95%E8%8E%B7%E5%BE%97%E7%9A%84%E7%89%A9%E8%B4%A8">
+		</outline>
+		<outline text="（6）对平面印刷品的图案、色彩或者二者的结合作出的主要起标识作用的设计。" _mubu_text="%EF%BC%886%EF%BC%89%E5%AF%B9%E5%B9%B3%E9%9D%A2%E5%8D%B0%E5%88%B7%E5%93%81%E7%9A%84%E5%9B%BE%E6%A1%88%E3%80%81%E8%89%B2%E5%BD%A9%E6%88%96%E8%80%85%E4%BA%8C%E8%80%85%E7%9A%84%E7%BB%93%E5%90%88%E4%BD%9C%E5%87%BA%E7%9A%84%E4%B8%BB%E8%A6%81%E8%B5%B7%E6%A0%87%E8%AF%86%E4%BD%9C%E7%94%A8%E7%9A%84%E8%AE%BE%E8%AE%A1%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="296.简述专利权的内容（专利权人享有的权利）" _mubu_text="296.%E7%AE%80%E8%BF%B0%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E5%86%85%E5%AE%B9%EF%BC%88%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E4%BA%AB%E6%9C%89%E7%9A%84%E6%9D%83%E5%88%A9%EF%BC%89">
+		<outline text="专利权人享有的权利" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E4%BA%AB%E6%9C%89%E7%9A%84%E6%9D%83%E5%88%A9%3C/span%3E" _note="@简答题&nbsp;@题眼&nbsp;@口诀&nbsp;李泉舒淇二十转包" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E9%A2%98%E7%9C%BC%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E6%9D%8E%E6%B3%89%E8%88%92%E6%B7%87%E4%BA%8C%E5%8D%81%E8%BD%AC%E5%8C%85" _heading="1" _color="#dc2d1e">
+		<outline text="（1）自己实施专利的权利" _mubu_text="%EF%BC%881%EF%BC%89%E8%87%AA%E5%B7%B1%E5%AE%9E%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%96%BD%3C/span%3E%E4%B8%93%E5%88%A9%E7%9A%84%E6%9D%83%E5%88%A9">
+		</outline>
+		<outline text="（2）许可他人实施专利的权利" _mubu_text="%EF%BC%882%EF%BC%89%E8%AE%B8%E5%8F%AF%E4%BB%96%E4%BA%BA%E5%AE%9E%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%96%BD%3C/span%3E%E4%B8%93%E5%88%A9%E7%9A%84%E6%9D%83%E5%88%A9">
+		</outline>
+		<outline text="（3）转让权" _mubu_text="%EF%BC%883%EF%BC%89%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E8%BD%AC%3C/span%3E%E8%AE%A9%E6%9D%83">
+		<outline text="专利转让权是指，专利权人有权转让专利权和专利申请权。" _mubu_text="%E4%B8%93%E5%88%A9%E8%BD%AC%E8%AE%A9%E6%9D%83%E6%98%AF%E6%8C%87%EF%BC%8C%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%9C%89%E6%9D%83%E8%BD%AC%E8%AE%A9%E4%B8%93%E5%88%A9%E6%9D%83%E5%92%8C%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E6%9D%83%E3%80%82%3C/span%3E">
+		</outline>
+		<outline text="专利权转让与许可他人实施专利的区别" _mubu_text="%E4%B8%93%E5%88%A9%E6%9D%83%E8%BD%AC%E8%AE%A9%E4%B8%8E%E8%AE%B8%E5%8F%AF%E4%BB%96%E4%BA%BA%E5%AE%9E%E6%96%BD%E4%B8%93%E5%88%A9%E7%9A%84%E5%8C%BA%E5%88%AB">
+		<outline text="转让是专利所有权的转移，许可实施的场合，被许可人只是得到使用专利的权利，专利的所有权并没有转移。" _mubu_text="%E8%BD%AC%E8%AE%A9%E6%98%AF%E4%B8%93%E5%88%A9%E6%89%80%E6%9C%89%E6%9D%83%E7%9A%84%E8%BD%AC%E7%A7%BB%EF%BC%8C%E8%AE%B8%E5%8F%AF%E5%AE%9E%E6%96%BD%E7%9A%84%E5%9C%BA%E5%90%88%EF%BC%8C%E8%A2%AB%E8%AE%B8%E5%8F%AF%E4%BA%BA%E5%8F%AA%E6%98%AF%E5%BE%97%E5%88%B0%E4%BD%BF%E7%94%A8%E4%B8%93%E5%88%A9%E7%9A%84%E6%9D%83%E5%88%A9%EF%BC%8C%E4%B8%93%E5%88%A9%E7%9A%84%E6%89%80%E6%9C%89%E6%9D%83%E5%B9%B6%E6%B2%A1%E6%9C%89%E8%BD%AC%E7%A7%BB%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="专利权和专利申请权转让的生效" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%B8%93%E5%88%A9%E6%9D%83%E5%92%8C%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E6%9D%83%E8%BD%AC%E8%AE%A9%E7%9A%84%E7%94%9F%E6%95%88%3C/span%3E" _note="@口诀&nbsp;转转河灯" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E8%BD%AC%E8%BD%AC%E6%B2%B3%E7%81%AF" _heading="1" _color="#75c940">
+		<outline text="根据专利法的规定，转让专利申请权或者专利权的，当事人应当订立书面合同，并向国务院专利行政部门登记。由国务院专利行政部门予以公告。专利申请权或者专利权的转让自登记之日起生效。" _mubu_text="%E6%A0%B9%E6%8D%AE%E4%B8%93%E5%88%A9%E6%B3%95%E7%9A%84%E8%A7%84%E5%AE%9A%EF%BC%8C%E8%BD%AC%E8%AE%A9%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E6%9D%83%E6%88%96%E8%80%85%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%BA%94%E5%BD%93%E8%AE%A2%E7%AB%8B%E4%B9%A6%E9%9D%A2%E5%90%88%E5%90%8C%EF%BC%8C%E5%B9%B6%E5%90%91%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E7%99%BB%E8%AE%B0%E3%80%82%E7%94%B1%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E4%BA%88%E4%BB%A5%E5%85%AC%E5%91%8A%E3%80%82%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E6%9D%83%E6%88%96%E8%80%85%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E8%BD%AC%E8%AE%A9%E8%87%AA%E7%99%BB%E8%AE%B0%E4%B9%8B%E6%97%A5%E8%B5%B7%E7%94%9F%E6%95%88%E3%80%82%3C/span%3E">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="（4）报酬权和受奖权" _mubu_text="%EF%BC%884%EF%BC%89%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%8A%A5%3C/span%3E%E9%85%AC%E6%9D%83%E5%92%8C%E5%8F%97%E5%A5%96%E6%9D%83">
+		<outline text="职务发明创造的发明人或设计人有权得到报酬或奖励。" _mubu_text="%E8%81%8C%E5%8A%A1%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E7%9A%84%E5%8F%91%E6%98%8E%E4%BA%BA%E6%88%96%E8%AE%BE%E8%AE%A1%E4%BA%BA%E6%9C%89%E6%9D%83%E5%BE%97%E5%88%B0%E6%8A%A5%E9%85%AC%E6%88%96%E5%A5%96%E5%8A%B1%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（5）署名权和标记权" _mubu_text="%EF%BC%885%EF%BC%89%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E7%BD%B2%3C/span%3E%E5%90%8D%E6%9D%83%E5%92%8C%E6%A0%87%E8%AE%B0%E6%9D%83">
+		<outline text="发明人或者设计人有权在专利文件中写明自己是发明人或者设计人，专利权人有权在其专利产品或包装上标明专利标识。" _mubu_text="%E5%8F%91%E6%98%8E%E4%BA%BA%E6%88%96%E8%80%85%E8%AE%BE%E8%AE%A1%E4%BA%BA%E6%9C%89%E6%9D%83%E5%9C%A8%E4%B8%93%E5%88%A9%E6%96%87%E4%BB%B6%E4%B8%AD%E5%86%99%E6%98%8E%E8%87%AA%E5%B7%B1%E6%98%AF%E5%8F%91%E6%98%8E%E4%BA%BA%E6%88%96%E8%80%85%E8%AE%BE%E8%AE%A1%E4%BA%BA%EF%BC%8C%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E6%9C%89%E6%9D%83%E5%9C%A8%E5%85%B6%E4%B8%93%E5%88%A9%E4%BA%A7%E5%93%81%E6%88%96%E5%8C%85%E8%A3%85%E4%B8%8A%E6%A0%87%E6%98%8E%E4%B8%93%E5%88%A9%E6%A0%87%E8%AF%86%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（6）专利权人有放弃专利权。" _mubu_text="%EF%BC%886%EF%BC%89%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E6%9C%89%E6%94%BE%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%BC%83%3C/span%3E%E4%B8%93%E5%88%A9%E6%9D%83%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="专利权人应负的义务" _mubu_text="%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E5%BA%94%E8%B4%9F%E7%9A%84%E4%B9%89%E5%8A%A1">
+		<outline text="主要是缴纳年费。" _mubu_text="%E4%B8%BB%E8%A6%81%E6%98%AF%E7%BC%B4%E7%BA%B3%E5%B9%B4%E8%B4%B9%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="297.简述专利权取得的条件（实体条件、程序条件）" _mubu_text="297.%E7%AE%80%E8%BF%B0%E4%B8%93%E5%88%A9%E6%9D%83%E5%8F%96%E5%BE%97%E7%9A%84%E6%9D%A1%E4%BB%B6%EF%BC%88%E5%AE%9E%E4%BD%93%E6%9D%A1%E4%BB%B6%E3%80%81%E7%A8%8B%E5%BA%8F%E6%9D%A1%E4%BB%B6%EF%BC%89">
+		<outline text="专利权并非自动产生的权利，必须经过专利行政部门的授予才能取得。" _mubu_text="%E4%B8%93%E5%88%A9%E6%9D%83%E5%B9%B6%E9%9D%9E%E8%87%AA%E5%8A%A8%E4%BA%A7%E7%94%9F%E7%9A%84%E6%9D%83%E5%88%A9%EF%BC%8C%E5%BF%85%E9%A1%BB%E7%BB%8F%E8%BF%87%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E7%9A%84%E6%8E%88%E4%BA%88%E6%89%8D%E8%83%BD%E5%8F%96%E5%BE%97%E3%80%82">
+		</outline>
+		<outline text="专利权的授予条件包括实体条件和程序条件。" _mubu_text="%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E6%8E%88%E4%BA%88%E6%9D%A1%E4%BB%B6%E5%8C%85%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%8B%AC%E5%AE%9E%E4%BD%93%E6%9D%A1%E4%BB%B6%E5%92%8C%E7%A8%8B%E5%BA%8F%E6%9D%A1%E4%BB%B6%3C/span%3E%E3%80%82">
+		<outline text="实体条件" _mubu_text="%E5%AE%9E%E4%BD%93%E6%9D%A1%E4%BB%B6">
+		<outline text="1.授予发明和实用新型专利权的实体条件" _mubu_text="1.%E6%8E%88%E4%BA%88%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%8F%91%E6%98%8E%E5%92%8C%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%3C/span%3E%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E5%AE%9E%E4%BD%93%E6%9D%A1%E4%BB%B6">
+		<outline text="（1）新颖性" _mubu_text="%EF%BC%881%EF%BC%89%E6%96%B0%E9%A2%96%E6%80%A7">
+		<outline text="我国专利法对新颖性的要求" _mubu_text="%E6%88%91%E5%9B%BD%E4%B8%93%E5%88%A9%E6%B3%95%E5%AF%B9%E6%96%B0%E9%A2%96%E6%80%A7%E7%9A%84%E8%A6%81%E6%B1%82" _note="我国在新颖性标准上采用的是绝对新颖性标准。" _mubu_note="%E6%88%91%E5%9B%BD%E5%9C%A8%E6%96%B0%E9%A2%96%E6%80%A7%E6%A0%87%E5%87%86%E4%B8%8A%E9%87%87%E7%94%A8%E7%9A%84%E6%98%AF%E7%BB%9D%E5%AF%B9%E6%96%B0%E9%A2%96%E6%80%A7%E6%A0%87%E5%87%86%E3%80%82">
+		<outline text="①该发明或者实用新型不属于现有技术。" _mubu_text="%E2%91%A0%E8%AF%A5%E5%8F%91%E6%98%8E%E6%88%96%E8%80%85%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E4%B8%8D%E5%B1%9E%E4%BA%8E%E7%8E%B0%E6%9C%89%E6%8A%80%E6%9C%AF%E3%80%82">
+		<outline text="现有技术是指申请日以前在国内外为公众所知的技术，技术公开的方式包括，出版物公开、使用公开和其他方式的公开。" _mubu_text="%E7%8E%B0%E6%9C%89%E6%8A%80%E6%9C%AF%E6%98%AF%E6%8C%87%E7%94%B3%E8%AF%B7%E6%97%A5%E4%BB%A5%E5%89%8D%E5%9C%A8%E5%9B%BD%E5%86%85%E5%A4%96%E4%B8%BA%E5%85%AC%E4%BC%97%E6%89%80%E7%9F%A5%E7%9A%84%E6%8A%80%E6%9C%AF%EF%BC%8C%E6%8A%80%E6%9C%AF%E5%85%AC%E5%BC%80%E7%9A%84%E6%96%B9%E5%BC%8F%E5%8C%85%E6%8B%AC%EF%BC%8C%E5%87%BA%E7%89%88%E7%89%A9%E5%85%AC%E5%BC%80%E3%80%81%E4%BD%BF%E7%94%A8%E5%85%AC%E5%BC%80%E5%92%8C%E5%85%B6%E4%BB%96%E6%96%B9%E5%BC%8F%E7%9A%84%E5%85%AC%E5%BC%80%E3%80%82" _note="@法条分析" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E6%B3%95%E6%9D%A1%E5%88%86%E6%9E%90%3C/span%3E">
+		</outline>
+		</outline>
+		<outline text="②也没有任何单位或者个人就同样的发明或者实用新型在申请日以前向国务院专利行政部门提出过申请，并记载在申请日以后公布的专利申请文件或者公告的专利文件中。" _mubu_text="%E2%91%A1%E4%B9%9F%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E5%8D%95%E4%BD%8D%E6%88%96%E8%80%85%E4%B8%AA%E4%BA%BA%E5%B0%B1%E5%90%8C%E6%A0%B7%E7%9A%84%E5%8F%91%E6%98%8E%E6%88%96%E8%80%85%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E5%9C%A8%E7%94%B3%E8%AF%B7%E6%97%A5%E4%BB%A5%E5%89%8D%E5%90%91%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E6%8F%90%E5%87%BA%E8%BF%87%E7%94%B3%E8%AF%B7%EF%BC%8C%E5%B9%B6%E8%AE%B0%E8%BD%BD%E5%9C%A8%E7%94%B3%E8%AF%B7%E6%97%A5%E4%BB%A5%E5%90%8E%E5%85%AC%E5%B8%83%E7%9A%84%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E6%96%87%E4%BB%B6%E6%88%96%E8%80%85%E5%85%AC%E5%91%8A%E7%9A%84%E4%B8%93%E5%88%A9%E6%96%87%E4%BB%B6%E4%B8%AD%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="申请专利的发明创造在申请日以前6个月内，有下列情形之一的，不丧失新颖性" _mubu_text="%E7%94%B3%E8%AF%B7%E4%B8%93%E5%88%A9%E7%9A%84%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E5%9C%A8%E7%94%B3%E8%AF%B7%E6%97%A5%E4%BB%A5%E5%89%8D6%E4%B8%AA%E6%9C%88%E5%86%85%EF%BC%8C%E6%9C%89%E4%B8%8B%E5%88%97%E6%83%85%E5%BD%A2%E4%B9%8B%E4%B8%80%E7%9A%84%EF%BC%8C%E4%B8%8D%E4%B8%A7%E5%A4%B1%E6%96%B0%E9%A2%96%E6%80%A7">
+		<outline text="①在中国政府主办或者承认的国际展览会上首次展出的。" _mubu_text="%E2%91%A0%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%BB%E5%8A%9E%E6%88%96%E8%80%85%E6%89%BF%E8%AE%A4%E7%9A%84%E5%9B%BD%E9%99%85%E5%B1%95%E8%A7%88%E4%BC%9A%E4%B8%8A%E9%A6%96%E6%AC%A1%E5%B1%95%E5%87%BA%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="②在规定的学术会议或者技术会议上首次发表的。" _mubu_text="%E2%91%A1%E5%9C%A8%E8%A7%84%E5%AE%9A%E7%9A%84%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE%E6%88%96%E8%80%85%E6%8A%80%E6%9C%AF%E4%BC%9A%E8%AE%AE%E4%B8%8A%E9%A6%96%E6%AC%A1%E5%8F%91%E8%A1%A8%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="③他人未经申请人同意而泄露其内容的。" _mubu_text="%E2%91%A2%E4%BB%96%E4%BA%BA%E6%9C%AA%E7%BB%8F%E7%94%B3%E8%AF%B7%E4%BA%BA%E5%90%8C%E6%84%8F%E8%80%8C%E6%B3%84%E9%9C%B2%E5%85%B6%E5%86%85%E5%AE%B9%E7%9A%84%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="（2）创造性" _mubu_text="%EF%BC%882%EF%BC%89%E5%88%9B%E9%80%A0%E6%80%A7">
+		<outline text="针对发明" _mubu_text="%E9%92%88%E5%AF%B9%E5%8F%91%E6%98%8E">
+		<outline text="必须同申请日以前已有的技术相比有突出的实质性特点和显著的进步。" _mubu_text="%E5%BF%85%E9%A1%BB%E5%90%8C%E7%94%B3%E8%AF%B7%E6%97%A5%E4%BB%A5%E5%89%8D%E5%B7%B2%E6%9C%89%E7%9A%84%E6%8A%80%E6%9C%AF%E7%9B%B8%E6%AF%94%E6%9C%89%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E7%AA%81%E5%87%BA%E7%9A%84%3C/span%3E%E5%AE%9E%E8%B4%A8%E6%80%A7%E7%89%B9%E7%82%B9%E5%92%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%98%BE%E8%91%97%E7%9A%84%3C/span%3E%E8%BF%9B%E6%AD%A5%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="针对实用新型" _mubu_text="%E9%92%88%E5%AF%B9%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B">
+		<outline text="要求同申请日以前已有的技术相比，有实质性特点和进步。" _mubu_text="%E8%A6%81%E6%B1%82%E5%90%8C%E7%94%B3%E8%AF%B7%E6%97%A5%E4%BB%A5%E5%89%8D%E5%B7%B2%E6%9C%89%E7%9A%84%E6%8A%80%E6%9C%AF%E7%9B%B8%E6%AF%94%EF%BC%8C%E6%9C%89%E5%AE%9E%E8%B4%A8%E6%80%A7%E7%89%B9%E7%82%B9%E5%92%8C%E8%BF%9B%E6%AD%A5%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="（3）实用性" _mubu_text="%EF%BC%883%EF%BC%89%E5%AE%9E%E7%94%A8%E6%80%A7">
+		<outline text="我国专利法对实用性的要求是，发明或者实用新型能够制造或者使用，并且能够产生积极效果。" _mubu_text="%E6%88%91%E5%9B%BD%E4%B8%93%E5%88%A9%E6%B3%95%E5%AF%B9%E5%AE%9E%E7%94%A8%E6%80%A7%E7%9A%84%E8%A6%81%E6%B1%82%E6%98%AF%EF%BC%8C%E5%8F%91%E6%98%8E%E6%88%96%E8%80%85%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E8%83%BD%E5%A4%9F%E5%88%B6%E9%80%A0%E6%88%96%E8%80%85%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%B9%B6%E4%B8%94%E8%83%BD%E5%A4%9F%E4%BA%A7%E7%94%9F%E7%A7%AF%E6%9E%81%E6%95%88%E6%9E%9C%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="2.授予外观设计专利权的实体条件" _mubu_text="2.%E6%8E%88%E4%BA%88%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%3C/span%3E%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E5%AE%9E%E4%BD%93%E6%9D%A1%E4%BB%B6">
+		<outline text="（1）授予专利权的外观设计，应当不属于现有设计，也没有任何单位或者个人就同样的外观设计在申请日以前向国务院专利行政部门提出过申请，并记载在申请日以后公告的专利文件中。" _mubu_text="%EF%BC%881%EF%BC%89%E6%8E%88%E4%BA%88%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%EF%BC%8C%E5%BA%94%E5%BD%93%E4%B8%8D%E5%B1%9E%E4%BA%8E%E7%8E%B0%E6%9C%89%E8%AE%BE%E8%AE%A1%EF%BC%8C%E4%B9%9F%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E5%8D%95%E4%BD%8D%E6%88%96%E8%80%85%E4%B8%AA%E4%BA%BA%E5%B0%B1%E5%90%8C%E6%A0%B7%E7%9A%84%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%E5%9C%A8%E7%94%B3%E8%AF%B7%E6%97%A5%E4%BB%A5%E5%89%8D%E5%90%91%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E6%8F%90%E5%87%BA%E8%BF%87%E7%94%B3%E8%AF%B7%EF%BC%8C%E5%B9%B6%E8%AE%B0%E8%BD%BD%E5%9C%A8%E7%94%B3%E8%AF%B7%E6%97%A5%E4%BB%A5%E5%90%8E%E5%85%AC%E5%91%8A%E7%9A%84%E4%B8%93%E5%88%A9%E6%96%87%E4%BB%B6%E4%B8%AD%E3%80%82" _note="现有设计，是指申请日以前在国内外为公众所知的设计。" _mubu_note="%E7%8E%B0%E6%9C%89%E8%AE%BE%E8%AE%A1%EF%BC%8C%E6%98%AF%E6%8C%87%E7%94%B3%E8%AF%B7%E6%97%A5%E4%BB%A5%E5%89%8D%E5%9C%A8%E5%9B%BD%E5%86%85%E5%A4%96%E4%B8%BA%E5%85%AC%E4%BC%97%E6%89%80%E7%9F%A5%E7%9A%84%E8%AE%BE%E8%AE%A1%E3%80%82">
+		</outline>
+		<outline text="（2）授予专利的外观设计与现有设计或者现有设计特征的组合相比应当具有明显的区别，且不得与他人在申请日以前已经取得的合法利益相冲突。" _mubu_text="%EF%BC%882%EF%BC%89%E6%8E%88%E4%BA%88%E4%B8%93%E5%88%A9%E7%9A%84%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%E4%B8%8E%E7%8E%B0%E6%9C%89%E8%AE%BE%E8%AE%A1%E6%88%96%E8%80%85%E7%8E%B0%E6%9C%89%E8%AE%BE%E8%AE%A1%E7%89%B9%E5%BE%81%E7%9A%84%E7%BB%84%E5%90%88%E7%9B%B8%E6%AF%94%E5%BA%94%E5%BD%93%E5%85%B7%E6%9C%89%E6%98%8E%E6%98%BE%E7%9A%84%E5%8C%BA%E5%88%AB%EF%BC%8C%E4%B8%94%E4%B8%8D%E5%BE%97%E4%B8%8E%E4%BB%96%E4%BA%BA%E5%9C%A8%E7%94%B3%E8%AF%B7%E6%97%A5%E4%BB%A5%E5%89%8D%E5%B7%B2%E7%BB%8F%E5%8F%96%E5%BE%97%E7%9A%84%E5%90%88%E6%B3%95%E5%88%A9%E7%9B%8A%E7%9B%B8%E5%86%B2%E7%AA%81%E3%80%82" _note="现有设计，是指申请日以前在国内外为公众所知的设计。" _mubu_note="%E7%8E%B0%E6%9C%89%E8%AE%BE%E8%AE%A1%EF%BC%8C%E6%98%AF%E6%8C%87%E7%94%B3%E8%AF%B7%E6%97%A5%E4%BB%A5%E5%89%8D%E5%9C%A8%E5%9B%BD%E5%86%85%E5%A4%96%E4%B8%BA%E5%85%AC%E4%BC%97%E6%89%80%E7%9F%A5%E7%9A%84%E8%AE%BE%E8%AE%A1%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="程序条件" _mubu_text="%E7%A8%8B%E5%BA%8F%E6%9D%A1%E4%BB%B6">
+		<outline text="1.发明专利的申请程序条件" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E1.%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E7%9A%84%E7%94%B3%E8%AF%B7%E7%A8%8B%E5%BA%8F%E6%9D%A1%E4%BB%B6%3C/span%3E" _note="@简答题&nbsp;@题眼&nbsp;@口诀&nbsp;发力橙提出尸首" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E9%A2%98%E7%9C%BC%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E5%8F%91%E5%8A%9B%E6%A9%99%E6%8F%90%E5%87%BA%E5%B0%B8%E9%A6%96" _heading="1" _color="#dc2d1e">
+		<outline text="（1）提交申请文件" _mubu_text="%EF%BC%881%EF%BC%89%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%8F%90%3C/span%3E%E4%BA%A4%E7%94%B3%E8%AF%B7%E6%96%87%E4%BB%B6">
+		<outline text="根据《专利法》规定，申请专利的，应当提交请求书等申请文件。" _mubu_text="%E6%A0%B9%E6%8D%AE%E3%80%8A%E4%B8%93%E5%88%A9%E6%B3%95%E3%80%8B%E8%A7%84%E5%AE%9A%EF%BC%8C%E7%94%B3%E8%AF%B7%E4%B8%93%E5%88%A9%E7%9A%84%EF%BC%8C%E5%BA%94%E5%BD%93%E6%8F%90%E4%BA%A4%E8%AF%B7%E6%B1%82%E4%B9%A6%E7%AD%89%E7%94%B3%E8%AF%B7%E6%96%87%E4%BB%B6%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（2）初步审查并公布（18月或提前）" _mubu_text="%EF%BC%882%EF%BC%89%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%88%9D%3C/span%3E%E6%AD%A5%E5%AE%A1%E6%9F%A5%E5%B9%B6%E5%85%AC%E5%B8%83%EF%BC%8818%E6%9C%88%E6%88%96%E6%8F%90%E5%89%8D%EF%BC%89">
+		<outline text="国务院专利行政部门收到发明专利申请后，经初步审查认为符合专利法要求的，自申请日起满18个月，即行公布，也可以根据申请人的请求早日公布。" _mubu_text="%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E6%94%B6%E5%88%B0%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E7%94%B3%3C/span%3E%E8%AF%B7%E5%90%8E%EF%BC%8C%E7%BB%8F%E5%88%9D%E6%AD%A5%E5%AE%A1%E6%9F%A5%E8%AE%A4%E4%B8%BA%E7%AC%A6%E5%90%88%E4%B8%93%E5%88%A9%E6%B3%95%E8%A6%81%E6%B1%82%E7%9A%84%EF%BC%8C%E8%87%AA%E7%94%B3%E8%AF%B7%E6%97%A5%E8%B5%B7%E6%BB%A118%E4%B8%AA%E6%9C%88%EF%BC%8C%E5%8D%B3%E8%A1%8C%E5%85%AC%E5%B8%83%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%A0%B9%E6%8D%AE%E7%94%B3%E8%AF%B7%E4%BA%BA%E7%9A%84%E8%AF%B7%E6%B1%82%E6%97%A9%E6%97%A5%E5%85%AC%E5%B8%83%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（3）实质审查（3年）" _mubu_text="%EF%BC%883%EF%BC%89%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%AE%9E%3C/span%3E%E8%B4%A8%E5%AE%A1%E6%9F%A5%EF%BC%883%E5%B9%B4%EF%BC%89">
+		<outline text="发明专利申请自申请日起3年内，国务院专利行政部门可以根据申请人随时提出的请求，对其申请进行实质审查。" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%3C/span%3E%E8%87%AA%E7%94%B3%E8%AF%B7%E6%97%A5%E8%B5%B73%E5%B9%B4%E5%86%85%EF%BC%8C%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E5%8F%AF%E4%BB%A5%E6%A0%B9%E6%8D%AE%E7%94%B3%E8%AF%B7%E4%BA%BA%E9%9A%8F%E6%97%B6%E6%8F%90%E5%87%BA%E7%9A%84%E8%AF%B7%E6%B1%82%EF%BC%8C%E5%AF%B9%E5%85%B6%E7%94%B3%E8%AF%B7%E8%BF%9B%E8%A1%8C%E5%AE%9E%E8%B4%A8%E5%AE%A1%E6%9F%A5%E3%80%82">
+		</outline>
+		<outline text="国务院专利行政部门认为必要的时候，可以自行对发明专利申请进行实质审查。" _mubu_text="%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E8%AE%A4%E4%B8%BA%E5%BF%85%E8%A6%81%E7%9A%84%E6%97%B6%E5%80%99%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%87%AA%E8%A1%8C%E5%AF%B9%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E8%BF%9B%E8%A1%8C%E5%AE%9E%E8%B4%A8%E5%AE%A1%E6%9F%A5%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（4）授予发明专利证书并予以登记和公告" _mubu_text="%EF%BC%884%EF%BC%89%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%8E%88%3C/span%3E%E4%BA%88%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6%E5%B9%B6%E4%BA%88%E4%BB%A5%E7%99%BB%E8%AE%B0%E5%92%8C%E5%85%AC%E5%91%8A">
+		<outline text="专利申请经实质审查没有发现驳回理由的，由国务院专利行政部门作出授予发明专利权的决定，发给申请人发明专利证书，同时予以登记和公告。" _mubu_text="%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E7%BB%8F%E5%AE%9E%E8%B4%A8%E5%AE%A1%E6%9F%A5%E6%B2%A1%E6%9C%89%E5%8F%91%E7%8E%B0%E9%A9%B3%E5%9B%9E%E7%90%86%E7%94%B1%E7%9A%84%EF%BC%8C%E7%94%B1%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E4%BD%9C%E5%87%BA%E6%8E%88%E4%BA%88%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E5%86%B3%E5%AE%9A%EF%BC%8C%E5%8F%91%E7%BB%99%E7%94%B3%E8%AF%B7%E4%BA%BA%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6%EF%BC%8C%E5%90%8C%E6%97%B6%E4%BA%88%E4%BB%A5%E7%99%BB%E8%AE%B0%E5%92%8C%E5%85%AC%E5%91%8A%E3%80%82">
+		</outline>
+		<outline text="发明专利权自公告之日起生效。" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E6%9D%83%E8%87%AA%E5%85%AC%E5%91%8A%E4%B9%8B%E6%97%A5%E8%B5%B7%E7%94%9F%E6%95%88%E3%80%82%3C/span%3E">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="2.实用新型和外观设计的申请程序条件" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E2.%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E5%92%8C%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%E7%9A%84%E7%94%B3%E8%AF%B7%E7%A8%8B%E5%BA%8F%E6%9D%A1%E4%BB%B6%3C/span%3E" _note="@口诀&nbsp;石蛇成体出售@简答题" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E7%9F%B3%E8%9B%87%E6%88%90%E4%BD%93%E5%87%BA%E5%94%AE%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E" _heading="1" _color="#3da8f5">
+		<outline text="（1）提交申请文件" _mubu_text="%EF%BC%881%EF%BC%89%E6%8F%90%E4%BA%A4%E7%94%B3%E8%AF%B7%E6%96%87%E4%BB%B6">
+		<outline text="根据《专利法》规定，申请专利的，应当提交请求书等申请文件。" _mubu_text="%E6%A0%B9%E6%8D%AE%E3%80%8A%E4%B8%93%E5%88%A9%E6%B3%95%E3%80%8B%E8%A7%84%E5%AE%9A%EF%BC%8C%E7%94%B3%E8%AF%B7%E4%B8%93%E5%88%A9%E7%9A%84%EF%BC%8C%E5%BA%94%E5%BD%93%E6%8F%90%E4%BA%A4%E8%AF%B7%E6%B1%82%E4%B9%A6%E7%AD%89%E7%94%B3%E8%AF%B7%E6%96%87%E4%BB%B6%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（2）初步审查" _mubu_text="%EF%BC%882%EF%BC%89%E5%88%9D%E6%AD%A5%E5%AE%A1%E6%9F%A5">
+		</outline>
+		<outline text="（3）授予专利并登记公告" _mubu_text="%EF%BC%883%EF%BC%89%E6%8E%88%E4%BA%88%E4%B8%93%E5%88%A9%E5%B9%B6%E7%99%BB%E8%AE%B0%E5%85%AC%E5%91%8A">
+		<outline text="实用新型或外观设计专利申请经初步审查没有发现驳回理由的，由国务院专利行政部门作出授予实用新型专利权或者外观设计专利权的决定，发给相应的专利证书，同时予以登记和公告。" _mubu_text="%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E6%88%96%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E7%BB%8F%E5%88%9D%E6%AD%A5%E5%AE%A1%E6%9F%A5%E6%B2%A1%E6%9C%89%E5%8F%91%E7%8E%B0%E9%A9%B3%E5%9B%9E%E7%90%86%E7%94%B1%E7%9A%84%EF%BC%8C%E7%94%B1%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E4%BD%9C%E5%87%BA%E6%8E%88%E4%BA%88%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E4%B8%93%E5%88%A9%E6%9D%83%E6%88%96%E8%80%85%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E5%86%B3%E5%AE%9A%EF%BC%8C%E5%8F%91%E7%BB%99%E7%9B%B8%E5%BA%94%E7%9A%84%E4%B8%93%E5%88%A9%E8%AF%81%E4%B9%A6%EF%BC%8C%E5%90%8C%E6%97%B6%E4%BA%88%E4%BB%A5%E7%99%BB%E8%AE%B0%E5%92%8C%E5%85%AC%E5%91%8A%E3%80%82">
+		</outline>
+		<outline text="实用新型专利权和外观设计专利权自公告之日起生效" _mubu_text="%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E4%B8%93%E5%88%A9%E6%9D%83%E5%92%8C%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%E4%B8%93%E5%88%A9%E6%9D%83%E8%87%AA%E5%85%AC%E5%91%8A%E4%B9%8B%E6%97%A5%E8%B5%B7%E7%94%9F%E6%95%88">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="两个以上的申请人分别就同样的发明创造申请专利的，专利权授予最先申请的人" _mubu_text="%E4%B8%A4%E4%B8%AA%E4%BB%A5%E4%B8%8A%E7%9A%84%E7%94%B3%E8%AF%B7%E4%BA%BA%E5%88%86%E5%88%AB%E5%B0%B1%E5%90%8C%E6%A0%B7%E7%9A%84%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E7%94%B3%E8%AF%B7%E4%B8%93%E5%88%A9%E7%9A%84%EF%BC%8C%E4%B8%93%E5%88%A9%E6%9D%83%E6%8E%88%E4%BA%88%E6%9C%80%E5%85%88%E7%94%B3%E8%AF%B7%E7%9A%84%E4%BA%BA">
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		<outline text="298.简述专利权无效的原因" _mubu_text="298.%E7%AE%80%E8%BF%B0%E4%B8%93%E5%88%A9%E6%9D%83%E6%97%A0%E6%95%88%E7%9A%84%E5%8E%9F%E5%9B%A0">
+		<outline text="专利无效的概念" _mubu_text="%E4%B8%93%E5%88%A9%E6%97%A0%E6%95%88%E7%9A%84%E6%A6%82%E5%BF%B5">
+		<outline text="专利的无效是指依法定程序，由国务院专利行政部门宣告某一专利无效。" _mubu_text="%E4%B8%93%E5%88%A9%E7%9A%84%E6%97%A0%E6%95%88%E6%98%AF%E6%8C%87%E4%BE%9D%E6%B3%95%E5%AE%9A%E7%A8%8B%E5%BA%8F%EF%BC%8C%E7%94%B1%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E5%AE%A3%E5%91%8A%E6%9F%90%E4%B8%80%E4%B8%93%E5%88%A9%E6%97%A0%E6%95%88%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="专利权无效的原因" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%B8%93%E5%88%A9%E6%9D%83%E6%97%A0%E6%95%88%E7%9A%84%E5%8E%9F%E5%9B%A0%3C/span%3E" _note="@简答题&nbsp;@题眼&nbsp;@口诀&nbsp;礼物是发饭充现" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E9%A2%98%E7%9C%BC%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E7%A4%BC%E7%89%A9%E6%98%AF%E5%8F%91%E9%A5%AD%E5%85%85%E7%8E%B0" _heading="1" _color="#dc2d1e">
+		<outline text="（1）被授予专利的发明创造不符合授予专利权的实体条件。" _mubu_text="%EF%BC%881%EF%BC%89%E8%A2%AB%E6%8E%88%E4%BA%88%E4%B8%93%E5%88%A9%E7%9A%84%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E4%B8%8D%E7%AC%A6%E5%90%88%E6%8E%88%E4%BA%88%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E5%AE%9E%E4%BD%93%E6%9D%A1%E4%BB%B6%E3%80%82">
+		</outline>
+		<outline text="（2）专利申请文件不符合法律规定。如" _mubu_text="%EF%BC%882%EF%BC%89%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E6%96%87%E4%BB%B6%E4%B8%8D%E7%AC%A6%E5%90%88%E6%B3%95%E5%BE%8B%E8%A7%84%E5%AE%9A%E3%80%82%E5%A6%82">
+		<outline text="①说明书披露及公开不充分；" _mubu_text="%E2%91%A0%E8%AF%B4%E6%98%8E%E4%B9%A6%E6%8A%AB%E9%9C%B2%E5%8F%8A%E5%85%AC%E5%BC%80%E4%B8%8D%E5%85%85%E5%88%86%EF%BC%9B">
+		</outline>
+		<outline text="②对发明、实用新型专利申请文件的修改超出了原说明书的权利要求书记载的范围；" _mubu_text="%E2%91%A1%E5%AF%B9%E5%8F%91%E6%98%8E%E3%80%81%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E6%96%87%E4%BB%B6%E7%9A%84%E4%BF%AE%E6%94%B9%E8%B6%85%E5%87%BA%E4%BA%86%E5%8E%9F%E8%AF%B4%E6%98%8E%E4%B9%A6%E7%9A%84%E6%9D%83%E5%88%A9%E8%A6%81%E6%B1%82%E4%B9%A6%E8%AE%B0%E8%BD%BD%E7%9A%84%E8%8C%83%E5%9B%B4%EF%BC%9B">
+		</outline>
+		<outline text="③对外观设计专利申请文件的修改超出原图片或者照片表示的范围。" _mubu_text="%E2%91%A2%E5%AF%B9%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E6%96%87%E4%BB%B6%E7%9A%84%E4%BF%AE%E6%94%B9%E8%B6%85%E5%87%BA%E5%8E%9F%E5%9B%BE%E7%89%87%E6%88%96%E8%80%85%E7%85%A7%E7%89%87%E8%A1%A8%E7%A4%BA%E7%9A%84%E8%8C%83%E5%9B%B4%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（3）属于不授予专利权范围。" _mubu_text="%EF%BC%883%EF%BC%89%E5%B1%9E%E4%BA%8E%E4%B8%8D%E6%8E%88%E4%BA%88%E4%B8%93%E5%88%A9%E6%9D%83%E8%8C%83%E5%9B%B4%E3%80%82">
+		</outline>
+		<outline text="（4）属于重复授权情形。" _mubu_text="%EF%BC%884%EF%BC%89%E5%B1%9E%E4%BA%8E%E9%87%8D%E5%A4%8D%E6%8E%88%E6%9D%83%E6%83%85%E5%BD%A2%E3%80%82">
+		<outline text="违反了“同样的发明创造只能被授予一项专利”之规定。" _mubu_text="%E8%BF%9D%E5%8F%8D%E4%BA%86%E2%80%9C%E5%90%8C%E6%A0%B7%E7%9A%84%E5%8F%91%E6%98%8E%E5%88%9B%E9%80%A0%E5%8F%AA%E8%83%BD%E8%A2%AB%E6%8E%88%E4%BA%88%E4%B8%80%E9%A1%B9%E4%B8%93%E5%88%A9%E2%80%9D%E4%B9%8B%E8%A7%84%E5%AE%9A%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（5）违反“在先申请”原则。" _mubu_text="%EF%BC%885%EF%BC%89%E8%BF%9D%E5%8F%8D%E2%80%9C%E5%9C%A8%E5%85%88%E7%94%B3%E8%AF%B7%E2%80%9D%E5%8E%9F%E5%88%99%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="299.简述专利权的终止原因" _mubu_text="299.%E7%AE%80%E8%BF%B0%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E7%BB%88%E6%AD%A2%E5%8E%9F%E5%9B%A0">
+		<outline text="专利的终止即专利的消灭" _mubu_text="%E4%B8%93%E5%88%A9%E7%9A%84%E7%BB%88%E6%AD%A2%E5%8D%B3%E4%B8%93%E5%88%A9%E7%9A%84%E6%B6%88%E7%81%AD">
+		<outline text="（1）自然终止" _mubu_text="%EF%BC%881%EF%BC%89%E8%87%AA%E7%84%B6%E7%BB%88%E6%AD%A2">
+		<outline text="即专利权因期限届满而终止。" _mubu_text="%E5%8D%B3%E4%B8%93%E5%88%A9%E6%9D%83%E5%9B%A0%E6%9C%9F%E9%99%90%E5%B1%8A%E6%BB%A1%E8%80%8C%E7%BB%88%E6%AD%A2%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（2）因法定事由而终止。" _mubu_text="%EF%BC%882%EF%BC%89%E5%9B%A0%E6%B3%95%E5%AE%9A%E4%BA%8B%E7%94%B1%E8%80%8C%E7%BB%88%E6%AD%A2%E3%80%82">
+		<outline text="即在专利权有效期限届满前，因发生法律规定的事由而消灭。" _mubu_text="%E5%8D%B3%E5%9C%A8%E4%B8%93%E5%88%A9%E6%9D%83%E6%9C%89%E6%95%88%E6%9C%9F%E9%99%90%E5%B1%8A%E6%BB%A1%E5%89%8D%EF%BC%8C%E5%9B%A0%E5%8F%91%E7%94%9F%E6%B3%95%E5%BE%8B%E8%A7%84%E5%AE%9A%E7%9A%84%E4%BA%8B%E7%94%B1%E8%80%8C%E6%B6%88%E7%81%AD%E3%80%82">
+		</outline>
+		<outline text="这些事由包括专利人没有按照规定交纳年费、专利权人以书面声明放弃专利等。" _mubu_text="%E8%BF%99%E4%BA%9B%E4%BA%8B%E7%94%B1%E5%8C%85%E6%8B%AC%E4%B8%93%E5%88%A9%E4%BA%BA%E6%B2%A1%E6%9C%89%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%8C%89%E7%85%A7%E8%A7%84%E5%AE%9A%E4%BA%A4%E7%BA%B3%E5%B9%B4%E8%B4%B9%E3%80%81%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E4%BB%A5%E4%B9%A6%E9%9D%A2%E5%A3%B0%E6%98%8E%E6%94%BE%E5%BC%83%E4%B8%93%E5%88%A9%E7%AD%89%E3%80%82%3C/span%3E">
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		<outline text="300.简述对专利权的限制（强制许可、不视为侵犯专利权的行为）" _mubu_text="300.%E7%AE%80%E8%BF%B0%E5%AF%B9%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E9%99%90%E5%88%B6%EF%BC%88%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E3%80%81%E4%B8%8D%E8%A7%86%E4%B8%BA%E4%BE%B5%E7%8A%AF%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E8%A1%8C%E4%B8%BA%EF%BC%89">
+		<outline text="针对专利的独占使用权的限制" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E9%92%88%E5%AF%B9%E4%B8%93%E5%88%A9%E7%9A%84%E7%8B%AC%E5%8D%A0%E4%BD%BF%E7%94%A8%E6%9D%83%E7%9A%84%E9%99%90%E5%88%B6%3C/span%3E" _note="@口诀&nbsp;专线时空强步师&nbsp;@简答题" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E4%B8%93%E7%BA%BF%E6%97%B6%E7%A9%BA%E5%BC%BA%E6%AD%A5%E5%B8%88&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E" _heading="1" _color="#dc2d1e">
+		<outline text="（1）时间限制" _mubu_text="%EF%BC%881%EF%BC%89%E6%97%B6%E9%97%B4%E9%99%90%E5%88%B6">
+		<outline text="专利权有法定保护期间" _mubu_text="%E4%B8%93%E5%88%A9%E6%9D%83%E6%9C%89%E6%B3%95%E5%AE%9A%E4%BF%9D%E6%8A%A4%E6%9C%9F%E9%97%B4">
+		</outline>
+		</outline>
+		<outline text="（2）空间限制" _mubu_text="%EF%BC%882%EF%BC%89%E7%A9%BA%E9%97%B4%E9%99%90%E5%88%B6">
+		<outline text="仅在申请国内可以行使专利权" _mubu_text="%E4%BB%85%E5%9C%A8%E7%94%B3%E8%AF%B7%E5%9B%BD%E5%86%85%E5%8F%AF%E4%BB%A5%E8%A1%8C%E4%BD%BF%E4%B8%93%E5%88%A9%E6%9D%83">
+		</outline>
+		</outline>
+		<outline text="（3）专利权的行使还受到公共利益的限制，具体表现为：" _mubu_text="%EF%BC%883%EF%BC%89%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E8%A1%8C%E4%BD%BF%E8%BF%98%E5%8F%97%E5%88%B0%E5%85%AC%E5%85%B1%E5%88%A9%E7%9B%8A%E7%9A%84%E9%99%90%E5%88%B6%EF%BC%8C%E5%85%B7%E4%BD%93%E8%A1%A8%E7%8E%B0%E4%B8%BA%EF%BC%9A">
+		<outline text="（一）强制许可" _mubu_text="%EF%BC%88%E4%B8%80%EF%BC%89%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF">
+		<outline text="强制许可的概念" _mubu_text="%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E7%9A%84%E6%A6%82%E5%BF%B5">
+		<outline text="强制许可是指国家专利主管机关根据具体情况不经专利权人许可，授权符合法定条件的申请人实施专利的法定制度。" _mubu_text="%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E6%98%AF%E6%8C%87%E5%9B%BD%E5%AE%B6%E4%B8%93%E5%88%A9%E4%B8%BB%E7%AE%A1%E6%9C%BA%E5%85%B3%E6%A0%B9%E6%8D%AE%E5%85%B7%E4%BD%93%E6%83%85%E5%86%B5%E4%B8%8D%E7%BB%8F%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E8%AE%B8%E5%8F%AF%EF%BC%8C%E6%8E%88%E6%9D%83%E7%AC%A6%E5%90%88%E6%B3%95%E5%AE%9A%E6%9D%A1%E4%BB%B6%E7%9A%84%E7%94%B3%E8%AF%B7%E4%BA%BA%E5%AE%9E%E6%96%BD%E4%B8%93%E5%88%A9%E7%9A%84%E6%B3%95%E5%AE%9A%E5%88%B6%E5%BA%A6%E3%80%82" _note="@必须掌握的概念" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E7%9A%84%E6%A6%82%E5%BF%B5%3C/span%3E">
+		</outline>
+		<outline text="强制许可违反专利权人的意志，又称为非自愿许可。强制许可与保护专利权之间是相冲突的，所以对强制许可的申请条件规定十分严格。" _mubu_text="%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E8%BF%9D%E5%8F%8D%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E7%9A%84%E6%84%8F%E5%BF%97%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%8F%88%E7%A7%B0%E4%B8%BA%E9%9D%9E%E8%87%AA%E6%84%BF%E8%AE%B8%E5%8F%AF%E3%80%82%3C/span%3E%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E4%B8%8E%E4%BF%9D%E6%8A%A4%E4%B8%93%E5%88%A9%E6%9D%83%E4%B9%8B%E9%97%B4%E6%98%AF%E7%9B%B8%E5%86%B2%E7%AA%81%E7%9A%84%EF%BC%8C%E6%89%80%E4%BB%A5%E5%AF%B9%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E7%9A%84%E7%94%B3%E8%AF%B7%E6%9D%A1%E4%BB%B6%E8%A7%84%E5%AE%9A%E5%8D%81%E5%88%86%E4%B8%A5%E6%A0%BC%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="在我国按照产生原因的不同，强制许可有三种类型：" _mubu_text="%E5%9C%A8%E6%88%91%E5%9B%BD%E6%8C%89%E7%85%A7%E4%BA%A7%E7%94%9F%E5%8E%9F%E5%9B%A0%E7%9A%84%E4%B8%8D%E5%90%8C%EF%BC%8C%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E6%9C%89%E4%B8%89%E7%A7%8D%E7%B1%BB%E5%9E%8B%EF%BC%9A">
+		<outline text="①普通强制许可" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E2%91%A0%E6%99%AE%E9%80%9A%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%3C/span%3E" _note="@口诀&nbsp;普强垄断收伞深思不使用&nbsp;@简答题" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E6%99%AE%E5%BC%BA%E5%9E%84%E6%96%AD%E6%94%B6%E4%BC%9E%E6%B7%B1%E6%80%9D%E4%B8%8D%E4%BD%BF%E7%94%A8&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E" _heading="1" _color="#3da8f5">
+		<outline text="实施普通强制许可的原因" _mubu_text="%E5%AE%9E%E6%96%BD%E6%99%AE%E9%80%9A%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E7%9A%84%E5%8E%9F%E5%9B%A0" _note="@关键词追求利益最大化，专利权滥用" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%85%B3%E9%94%AE%E8%AF%8D%3C/span%3E%E8%BF%BD%E6%B1%82%E5%88%A9%E7%9B%8A%E6%9C%80%E5%A4%A7%E5%8C%96%EF%BC%8C%E4%B8%93%E5%88%A9%E6%9D%83%E6%BB%A5%E7%94%A8">
+		<outline text="专利权是独占权，专利权人可以自由决定是否许可他人实施专利，但在有些情况下专利权人在追求自身利益最大化时，可能会滥用这种独占权，普通强制许可是为防止专利权人滥用其专利权，法律规定可以对符合条件的专利实施的强制许可。" _mubu_text="%E4%B8%93%E5%88%A9%E6%9D%83%E6%98%AF%E7%8B%AC%E5%8D%A0%E6%9D%83%EF%BC%8C%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E5%8F%AF%E4%BB%A5%E8%87%AA%E7%94%B1%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E8%AE%B8%E5%8F%AF%E4%BB%96%E4%BA%BA%E5%AE%9E%E6%96%BD%E4%B8%93%E5%88%A9%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%BD%86%E5%9C%A8%E6%9C%89%E4%BA%9B%E6%83%85%E5%86%B5%E4%B8%8B%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E5%9C%A8%E8%BF%BD%E6%B1%82%E8%87%AA%E8%BA%AB%E5%88%A9%E7%9B%8A%E6%9C%80%E5%A4%A7%E5%8C%96%E6%97%B6%EF%BC%8C%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%BB%A5%E7%94%A8%E8%BF%99%E7%A7%8D%E7%8B%AC%E5%8D%A0%E6%9D%83%EF%BC%8C%E6%99%AE%E9%80%9A%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E6%98%AF%E4%B8%BA%E9%98%B2%E6%AD%A2%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E6%BB%A5%E7%94%A8%E5%85%B6%E4%B8%93%E5%88%A9%E6%9D%83%EF%BC%8C%E6%B3%95%E5%BE%8B%E8%A7%84%E5%AE%9A%E5%8F%AF%E4%BB%A5%E5%AF%B9%E7%AC%A6%E5%90%88%E6%9D%A1%E4%BB%B6%E7%9A%84%E4%B8%93%E5%88%A9%E5%AE%9E%E6%96%BD%E7%9A%84%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E3%80%82%3C/span%3E">
+		</outline>
+		</outline>
+		<outline text="专利法第48条规定有下列情形之一的，国务院专利行政部门根据具备实施条件的单位或者个人的申请，可以给予实施发明专利或者实用新型专利的强制许可。" _mubu_text="%E4%B8%93%E5%88%A9%E6%B3%95%E7%AC%AC48%E6%9D%A1%E8%A7%84%E5%AE%9A%E6%9C%89%E4%B8%8B%E5%88%97%E6%83%85%E5%BD%A2%E4%B9%8B%E4%B8%80%E7%9A%84%EF%BC%8C%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E6%A0%B9%E6%8D%AE%E5%85%B7%E5%A4%87%E5%AE%9E%E6%96%BD%E6%9D%A1%E4%BB%B6%E7%9A%84%E5%8D%95%E4%BD%8D%E6%88%96%E8%80%85%E4%B8%AA%E4%BA%BA%E7%9A%84%E7%94%B3%E8%AF%B7%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%BB%99%E4%BA%88%E5%AE%9E%E6%96%BD%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E6%88%96%E8%80%85%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E4%B8%93%E5%88%A9%E7%9A%84%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E3%80%82">
+		<outline text="1）专利权人自专利权被授予之日起满三年，且自提出专利申请之日起满四年，无正当理由未实施或者未充分实施其专利的。" _mubu_text="1%EF%BC%89%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E8%87%AA%E4%B8%93%E5%88%A9%E6%9D%83%E8%A2%AB%E6%8E%88%E4%BA%88%E4%B9%8B%E6%97%A5%E8%B5%B7%E6%BB%A1%E4%B8%89%E5%B9%B4%EF%BC%8C%E4%B8%94%E8%87%AA%E6%8F%90%E5%87%BA%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E4%B9%8B%E6%97%A5%E8%B5%B7%E6%BB%A1%E5%9B%9B%E5%B9%B4%EF%BC%8C%E6%97%A0%E6%AD%A3%E5%BD%93%E7%90%86%E7%94%B1%E6%9C%AA%E5%AE%9E%E6%96%BD%E6%88%96%E8%80%85%E6%9C%AA%E5%85%85%E5%88%86%E5%AE%9E%E6%96%BD%E5%85%B6%E4%B8%93%E5%88%A9%E7%9A%84%E3%80%82">
+		<outline text="未充分实施是指专利权人及其被许可人实施其专利的方式或者规模不能满足国内对专利产品或专利方法的需求" _mubu_text="%E6%9C%AA%E5%85%85%E5%88%86%E5%AE%9E%E6%96%BD%E6%98%AF%E6%8C%87%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E5%8F%8A%E5%85%B6%E8%A2%AB%E8%AE%B8%E5%8F%AF%E4%BA%BA%E5%AE%9E%E6%96%BD%E5%85%B6%E4%B8%93%E5%88%A9%E7%9A%84%E6%96%B9%E5%BC%8F%E6%88%96%E8%80%85%E8%A7%84%E6%A8%A1%E4%B8%8D%E8%83%BD%E6%BB%A1%E8%B6%B3%E5%9B%BD%E5%86%85%E5%AF%B9%E4%B8%93%E5%88%A9%E4%BA%A7%E5%93%81%E6%88%96%E4%B8%93%E5%88%A9%E6%96%B9%E6%B3%95%E7%9A%84%E9%9C%80%E6%B1%82" _note="@法条分析" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E6%B3%95%E6%9D%A1%E5%88%86%E6%9E%90%3C/span%3E">
+		</outline>
+		</outline>
+		<outline text="2）专利权人行使专利权的行为被依法认定为垄断行为，为消除或者减少该行为对竞争产生的不利影响。" _mubu_text="2%EF%BC%89%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E8%A1%8C%E4%BD%BF%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E8%A1%8C%E4%B8%BA%E8%A2%AB%E4%BE%9D%E6%B3%95%E8%AE%A4%E5%AE%9A%E4%B8%BA%E5%9E%84%E6%96%AD%E8%A1%8C%E4%B8%BA%EF%BC%8C%E4%B8%BA%E6%B6%88%E9%99%A4%E6%88%96%E8%80%85%E5%87%8F%E5%B0%91%E8%AF%A5%E8%A1%8C%E4%B8%BA%E5%AF%B9%E7%AB%9E%E4%BA%89%E4%BA%A7%E7%94%9F%E7%9A%84%E4%B8%8D%E5%88%A9%E5%BD%B1%E5%93%8D%E3%80%82" _note="​" _mubu_note="%E2%80%8B">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="②交叉强制许可（的情形）" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E2%91%A1%E4%BA%A4%E5%8F%89%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%EF%BC%88%E7%9A%84%E6%83%85%E5%BD%A2%EF%BC%89%3C/span%3E" _note="@口诀&nbsp;胶墙厚显重大&nbsp;@简答题" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E8%83%B6%E5%A2%99%E5%8E%9A%E6%98%BE%E9%87%8D%E5%A4%A7&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E" _heading="1" _color="#3da8f5">
+		<outline text="该制度的设计主要是为了“依存专利”的实施。" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E8%AF%A5%E5%88%B6%E5%BA%A6%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%BB%E8%A6%81%E6%98%AF%E4%B8%BA%E4%BA%86%E2%80%9C%E4%BE%9D%E5%AD%98%E4%B8%93%E5%88%A9%E2%80%9D%E7%9A%84%E5%AE%9E%E6%96%BD%E3%80%82%3C/span%3E">
+		<outline text="所谓“依存专利”是指后​一专利的实施以前一专利的实施为前提，如不实施前一专利，则后一专利也无法实施。" _mubu_text="%E6%89%80%E8%B0%93%E2%80%9C%E4%BE%9D%E5%AD%98%E4%B8%93%E5%88%A9%E2%80%9D%E6%98%AF%E6%8C%87%E5%90%8E%E2%80%8B%E4%B8%80%E4%B8%93%E5%88%A9%E7%9A%84%E5%AE%9E%E6%96%BD%E4%BB%A5%E5%89%8D%E4%B8%80%E4%B8%93%E5%88%A9%E7%9A%84%E5%AE%9E%E6%96%BD%E4%B8%BA%E5%89%8D%E6%8F%90%EF%BC%8C%E5%A6%82%E4%B8%8D%E5%AE%9E%E6%96%BD%E5%89%8D%E4%B8%80%E4%B8%93%E5%88%A9%EF%BC%8C%E5%88%99%E5%90%8E%E4%B8%80%E4%B8%93%E5%88%A9%E4%B9%9F%E6%97%A0%E6%B3%95%E5%AE%9E%E6%96%BD%E3%80%82" _note="@必须掌握的概念" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%BF%85%E9%A1%BB%E6%8E%8C%E6%8F%A1%E7%9A%84%E6%A6%82%E5%BF%B5%3C/span%3E">
+		</outline>
+		</outline>
+		<outline text="一项取得专利权的发明或者实用新型比前已取得专利权的发明或者实用新型具有显著经济意义的重大技术进步，其实施又有赖于前一发明或者实用新型实施的，国务院专利行政部门根据后一专利权人的申请，可以给予实施前一发明或者实用新型的强制许可。" _mubu_text="%E4%B8%80%E9%A1%B9%E5%8F%96%E5%BE%97%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E5%8F%91%E6%98%8E%E6%88%96%E8%80%85%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E6%AF%94%E5%89%8D%E5%B7%B2%E5%8F%96%E5%BE%97%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E5%8F%91%E6%98%8E%E6%88%96%E8%80%85%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E5%85%B7%E6%9C%89%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%98%BE%E8%91%97%E7%BB%8F%E6%B5%8E%E6%84%8F%E4%B9%89%E7%9A%84%E9%87%8D%E5%A4%A7%E6%8A%80%E6%9C%AF%E8%BF%9B%E6%AD%A5%3C/span%3E%EF%BC%8C%E5%85%B6%E5%AE%9E%E6%96%BD%E5%8F%88%E6%9C%89%E8%B5%96%E4%BA%8E%E5%89%8D%E4%B8%80%E5%8F%91%E6%98%8E%E6%88%96%E8%80%85%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E5%AE%9E%E6%96%BD%E7%9A%84%EF%BC%8C%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E6%A0%B9%E6%8D%AE%E5%90%8E%E4%B8%80%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E7%9A%84%E7%94%B3%E8%AF%B7%EF%BC%8C%E5%8F%AF%E4%BB%A5%E7%BB%99%E4%BA%88%E5%AE%9E%E6%96%BD%E5%89%8D%E4%B8%80%E5%8F%91%E6%98%8E%E6%88%96%E8%80%85%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E7%9A%84%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E3%80%82">
+		<outline text="此类型强制许可的申请一般由后一专利的专利权人提出，而前一专利的专利权人在自己的专利技术被强制许可给后一专利权人之后，还可以申请使用后一专利技术的强制许可。" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%AD%A4%E7%B1%BB%E5%9E%8B%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E7%9A%84%E7%94%B3%E8%AF%B7%E4%B8%80%E8%88%AC%E7%94%B1%E5%90%8E%E4%B8%80%E4%B8%93%E5%88%A9%E7%9A%84%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E6%8F%90%E5%87%BA%EF%BC%8C%E8%80%8C%E5%89%8D%E4%B8%80%E4%B8%93%E5%88%A9%E7%9A%84%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%93%E5%88%A9%E6%8A%80%E6%9C%AF%E8%A2%AB%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E7%BB%99%E5%90%8E%E4%B8%80%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E4%B9%8B%E5%90%8E%EF%BC%8C%E8%BF%98%E5%8F%AF%E4%BB%A5%E7%94%B3%E8%AF%B7%E4%BD%BF%E7%94%A8%E5%90%8E%E4%B8%80%E4%B8%93%E5%88%A9%E6%8A%80%E6%9C%AF%E7%9A%84%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E3%80%82%3C/span%3E">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="③以公共利益为目的的强制许可（的情形）" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E2%91%A2%E4%BB%A5%E5%85%AC%E5%85%B1%E5%88%A9%E7%9B%8A%E4%B8%BA%E7%9B%AE%E7%9A%84%E7%9A%84%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%EF%BC%88%E7%9A%84%E6%83%85%E5%BD%A2%EF%BC%89%3C/span%3E" _note="这种强制许可没有时间限制，也不需要申请。&nbsp;@口诀&nbsp;攻强国金工件&nbsp;@简答题" _mubu_note="%E8%BF%99%E7%A7%8D%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E6%B2%A1%E6%9C%89%E6%97%B6%E9%97%B4%E9%99%90%E5%88%B6%EF%BC%8C%E4%B9%9F%E4%B8%8D%E9%9C%80%E8%A6%81%E7%94%B3%E8%AF%B7%E3%80%82&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E6%94%BB%E5%BC%BA%E5%9B%BD%E9%87%91%E5%B7%A5%E4%BB%B6&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E" _heading="1" _color="#3da8f5">
+		<outline text="1）在国家出现紧急状态或者非常情况时，为了公共利益的目的，国务院专利行政部门可以给予实施发明专利或者实用新型专利的强制许可。" _mubu_text="1%EF%BC%89%E5%9C%A8%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%9B%BD%3C/span%3E%E5%AE%B6%E5%87%BA%E7%8E%B0%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E7%B4%A7%3C/span%3E%E6%80%A5%E7%8A%B6%E6%80%81%E6%88%96%E8%80%85%E9%9D%9E%E5%B8%B8%E6%83%85%E5%86%B5%E6%97%B6%EF%BC%8C%E4%B8%BA%E4%BA%86%E5%85%AC%E5%85%B1%E5%88%A9%E7%9B%8A%E7%9A%84%E7%9B%AE%E7%9A%84%EF%BC%8C%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E5%8F%AF%E4%BB%A5%E7%BB%99%E4%BA%88%E5%AE%9E%E6%96%BD%E5%8F%91%E6%98%8E%E4%B8%93%E5%88%A9%E6%88%96%E8%80%85%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E4%B8%93%E5%88%A9%E7%9A%84%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E3%80%82">
+		</outline>
+		<outline text="2）为了公共健康目的，对取得专利权的药品，国务院专利行政部门可以给予制造并将其出口到符合我国参加的有关国际条约规定的国家或者地区的强制许可。" _mubu_text="2%EF%BC%89%E4%B8%BA%E4%BA%86%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%85%AC%3C/span%3E%E5%85%B1%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%81%A5%3C/span%3E%E5%BA%B7%E7%9B%AE%E7%9A%84%EF%BC%8C%E5%AF%B9%E5%8F%96%E5%BE%97%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E8%8D%AF%E5%93%81%EF%BC%8C%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E5%8F%AF%E4%BB%A5%E7%BB%99%E4%BA%88%E5%88%B6%E9%80%A0%E5%B9%B6%E5%B0%86%E5%85%B6%E5%87%BA%E5%8F%A3%E5%88%B0%E7%AC%A6%E5%90%88%E6%88%91%E5%9B%BD%E5%8F%82%E5%8A%A0%E7%9A%84%E6%9C%89%E5%85%B3%E5%9B%BD%E9%99%85%E6%9D%A1%E7%BA%A6%E8%A7%84%E5%AE%9A%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%88%96%E8%80%85%E5%9C%B0%E5%8C%BA%E7%9A%84%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="强制许可的实施" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E7%9A%84%E5%AE%9E%E6%96%BD%3C/span%3E" _note="@口诀&nbsp;强势 身正 示范灯 不沾付费@简答题&nbsp;3＋1" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E5%BC%BA%E5%8A%BF%20%E8%BA%AB%E6%AD%A3%20%E7%A4%BA%E8%8C%83%E7%81%AF%20%E4%B8%8D%E6%B2%BE%E4%BB%98%E8%B4%B9%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E&amp;nbsp;3%EF%BC%8B1" _heading="1" _color="#3da8f5">
+		<outline text="（1）申请普通强制许可中的第一类（长期无理由未实施其专利）和交叉强制许可的单位或者个人，必须提交书面申请书以及必要的证据，证明其以合理的条件请求专利权人许可其实施专利，但未能在合理的时间内获得许可。" _mubu_text="%EF%BC%881%EF%BC%89%E7%94%B3%E8%AF%B7%E6%99%AE%E9%80%9A%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E7%B1%BB%EF%BC%88%E9%95%BF%E6%9C%9F%E6%97%A0%E7%90%86%E7%94%B1%E6%9C%AA%E5%AE%9E%E6%96%BD%E5%85%B6%E4%B8%93%E5%88%A9%EF%BC%89%E5%92%8C%E4%BA%A4%E5%8F%89%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E7%9A%84%E5%8D%95%E4%BD%8D%E6%88%96%E8%80%85%E4%B8%AA%E4%BA%BA%EF%BC%8C%E5%BF%85%E9%A1%BB%E6%8F%90%E4%BA%A4%E4%B9%A6%E9%9D%A2%E7%94%B3%E8%AF%B7%E4%B9%A6%E4%BB%A5%E5%8F%8A%E5%BF%85%E8%A6%81%E7%9A%84%E8%AF%81%E6%8D%AE%EF%BC%8C%E8%AF%81%E6%98%8E%E5%85%B6%E4%BB%A5%E5%90%88%E7%90%86%E7%9A%84%E6%9D%A1%E4%BB%B6%E8%AF%B7%E6%B1%82%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E8%AE%B8%E5%8F%AF%E5%85%B6%E5%AE%9E%E6%96%BD%E4%B8%93%E5%88%A9%EF%BC%8C%E4%BD%86%E6%9C%AA%E8%83%BD%E5%9C%A8%E5%90%88%E7%90%86%E7%9A%84%E6%97%B6%E9%97%B4%E5%86%85%E8%8E%B7%E5%BE%97%E8%AE%B8%E5%8F%AF%E3%80%82">
+		</outline>
+		<outline text="（2）国务院专利行政部门给予强制许可应当根据强制许可的理由规定实施的范围和时间，作出给予实施强制许可的决定应当及时通知专利权人，并予以登记和公告。" _mubu_text="%EF%BC%882%EF%BC%89%E5%9B%BD%E5%8A%A1%E9%99%A2%E4%B8%93%E5%88%A9%E8%A1%8C%E6%94%BF%E9%83%A8%E9%97%A8%E7%BB%99%E4%BA%88%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E5%BA%94%E5%BD%93%E6%A0%B9%E6%8D%AE%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E7%9A%84%E7%90%86%E7%94%B1%E8%A7%84%E5%AE%9A%E5%AE%9E%E6%96%BD%E7%9A%84%E8%8C%83%E5%9B%B4%E5%92%8C%E6%97%B6%E9%97%B4%EF%BC%8C%E4%BD%9C%E5%87%BA%E7%BB%99%E4%BA%88%E5%AE%9E%E6%96%BD%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E7%9A%84%E5%86%B3%E5%AE%9A%E5%BA%94%E5%BD%93%E5%8F%8A%E6%97%B6%E9%80%9A%E7%9F%A5%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%EF%BC%8C%E5%B9%B6%E4%BA%88%E4%BB%A5%E7%99%BB%E8%AE%B0%E5%92%8C%E5%85%AC%E5%91%8A%E3%80%82">
+		</outline>
+		<outline text="（3）取得实施强制许可的单位或者个人不享有独占实施权，且无权允许他人实施，同时还应该付给专利权人合理的使用费。" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%EF%BC%883%EF%BC%89%E5%8F%96%E5%BE%97%E5%AE%9E%E6%96%BD%E5%BC%BA%E5%88%B6%E8%AE%B8%E5%8F%AF%E7%9A%84%E5%8D%95%E4%BD%8D%E6%88%96%E8%80%85%E4%B8%AA%E4%BA%BA%E4%B8%8D%E4%BA%AB%E6%9C%89%E7%8B%AC%E5%8D%A0%E5%AE%9E%E6%96%BD%E6%9D%83%EF%BC%8C%E4%B8%94%E6%97%A0%E6%9D%83%E5%85%81%E8%AE%B8%E4%BB%96%E4%BA%BA%E5%AE%9E%E6%96%BD%3C/span%3E%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%90%8C%E6%97%B6%E8%BF%98%E5%BA%94%E8%AF%A5%E4%BB%98%E7%BB%99%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E5%90%88%E7%90%86%E7%9A%84%E4%BD%BF%E7%94%A8%E8%B4%B9%E3%80%82%3C/span%3E">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="（二）不视为侵犯专利权的行为" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%EF%BC%88%E4%BA%8C%EF%BC%89%E4%B8%8D%E8%A7%86%E4%B8%BA%E4%BE%B5%E7%8A%AF%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E8%A1%8C%E4%B8%BA%3C/span%3E" _note="@简答题&nbsp;@题眼&nbsp;@口诀&nbsp;不亲专利可以近仙林" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E9%A2%98%E7%9C%BC%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E4%B8%8D%E4%BA%B2%E4%B8%93%E5%88%A9%E5%8F%AF%E4%BB%A5%E8%BF%91%E4%BB%99%E6%9E%97" _heading="1" _color="#dc2d1e">
+		<outline text="（1）专利权用尽后的使用、许诺销售、销售和进口。" _mubu_text="%EF%BC%881%EF%BC%89%E4%B8%93%E5%88%A9%E6%9D%83%E7%94%A8%E5%B0%BD%E5%90%8E%E7%9A%84%E4%BD%BF%E7%94%A8%E3%80%81%E8%AE%B8%E8%AF%BA%E9%94%80%E5%94%AE%E3%80%81%E9%94%80%E5%94%AE%E5%92%8C%E8%BF%9B%E5%8F%A3%E3%80%82">
+		<outline text="专利产品或者依照专利方法直接获得的产品由专利权人或者经其许可的单位、个人售出后，使用、许诺销售、销售和进口该产品的行为不视为侵犯专利权。" _mubu_text="%E4%B8%93%E5%88%A9%E4%BA%A7%E5%93%81%E6%88%96%E8%80%85%E4%BE%9D%E7%85%A7%E4%B8%93%E5%88%A9%E6%96%B9%E6%B3%95%E7%9B%B4%E6%8E%A5%E8%8E%B7%E5%BE%97%E7%9A%84%E4%BA%A7%E5%93%81%E7%94%B1%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E6%88%96%E8%80%85%E7%BB%8F%E5%85%B6%E8%AE%B8%E5%8F%AF%E7%9A%84%E5%8D%95%E4%BD%8D%E3%80%81%E4%B8%AA%E4%BA%BA%E5%94%AE%E5%87%BA%E5%90%8E%EF%BC%8C%E4%BD%BF%E7%94%A8%E3%80%81%E8%AE%B8%E8%AF%BA%E9%94%80%E5%94%AE%E3%80%81%E9%94%80%E5%94%AE%E5%92%8C%E8%BF%9B%E5%8F%A3%E8%AF%A5%E4%BA%A7%E5%93%81%E7%9A%84%E8%A1%8C%E4%B8%BA%E4%B8%8D%E8%A7%86%E4%B8%BA%E4%BE%B5%E7%8A%AF%E4%B8%93%E5%88%A9%E6%9D%83%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（2）在先使用。" _mubu_text="%EF%BC%882%EF%BC%89%E5%9C%A8%E5%85%88%E4%BD%BF%E7%94%A8%E3%80%82">
+		<outline text="在专利申请日前已经制造相同产品、使用相同方法或者已经做好制造使用的必要准备，并且仅在原有范围内继续制造、使用的行为，不视为侵犯专利权。" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%9C%A8%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E6%97%A5%E5%89%8D%E5%B7%B2%E7%BB%8F%E5%88%B6%E9%80%A0%E7%9B%B8%E5%90%8C%E4%BA%A7%E5%93%81%E3%80%81%E4%BD%BF%E7%94%A8%E7%9B%B8%E5%90%8C%E6%96%B9%E6%B3%95%E6%88%96%E8%80%85%E5%B7%B2%E7%BB%8F%E5%81%9A%E5%A5%BD%E5%88%B6%E9%80%A0%E4%BD%BF%E7%94%A8%E7%9A%84%E5%BF%85%E8%A6%81%E5%87%86%E5%A4%87%EF%BC%8C%E5%B9%B6%E4%B8%94%E4%BB%85%E5%9C%A8%E5%8E%9F%E6%9C%89%E8%8C%83%E5%9B%B4%E5%86%85%E7%BB%A7%E7%BB%AD%E5%88%B6%E9%80%A0%E3%80%81%E4%BD%BF%E7%94%A8%E7%9A%84%E8%A1%8C%E4%B8%BA%EF%BC%8C%E4%B8%8D%E8%A7%86%E4%B8%BA%E4%BE%B5%E7%8A%AF%E4%B8%93%E5%88%A9%E6%9D%83%E3%80%82%3C/span%3E">
+		</outline>
+		</outline>
+		<outline text="（3）临时过境的外国运输工具的使用。" _mubu_text="%EF%BC%883%EF%BC%89%E4%B8%B4%E6%97%B6%E8%BF%87%E5%A2%83%E7%9A%84%E5%A4%96%E5%9B%BD%E8%BF%90%E8%BE%93%E5%B7%A5%E5%85%B7%E7%9A%84%E4%BD%BF%E7%94%A8%E3%80%82">
+		<outline text="临时通过中国领陆、领水、领空的外国运输工具，依照其所属国同中国签订的协议或者共同参加的国际条约，或者依照互惠原则，为运输工具自身需要，而在其装置和设备中使用有关专利的行为，不视为侵犯专利权。" _mubu_text="%E4%B8%B4%E6%97%B6%E9%80%9A%E8%BF%87%E4%B8%AD%E5%9B%BD%E9%A2%86%E9%99%86%E3%80%81%E9%A2%86%E6%B0%B4%E3%80%81%E9%A2%86%E7%A9%BA%E7%9A%84%E5%A4%96%E5%9B%BD%E8%BF%90%E8%BE%93%E5%B7%A5%E5%85%B7%EF%BC%8C%E4%BE%9D%E7%85%A7%E5%85%B6%E6%89%80%E5%B1%9E%E5%9B%BD%E5%90%8C%E4%B8%AD%E5%9B%BD%E7%AD%BE%E8%AE%A2%E7%9A%84%E5%8D%8F%E8%AE%AE%E6%88%96%E8%80%85%E5%85%B1%E5%90%8C%E5%8F%82%E5%8A%A0%E7%9A%84%E5%9B%BD%E9%99%85%E6%9D%A1%E7%BA%A6%EF%BC%8C%E6%88%96%E8%80%85%E4%BE%9D%E7%85%A7%E4%BA%92%E6%83%A0%E5%8E%9F%E5%88%99%EF%BC%8C%E4%B8%BA%E8%BF%90%E8%BE%93%E5%B7%A5%E5%85%B7%E8%87%AA%E8%BA%AB%E9%9C%80%E8%A6%81%EF%BC%8C%E8%80%8C%E5%9C%A8%E5%85%B6%E8%A3%85%E7%BD%AE%E5%92%8C%E8%AE%BE%E5%A4%87%E4%B8%AD%E4%BD%BF%E7%94%A8%E6%9C%89%E5%85%B3%E4%B8%93%E5%88%A9%E7%9A%84%E8%A1%8C%E4%B8%BA%EF%BC%8C%E4%B8%8D%E8%A7%86%E4%B8%BA%E4%BE%B5%E7%8A%AF%E4%B8%93%E5%88%A9%E6%9D%83%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（4）以科学研究为目的的使用。" _mubu_text="%EF%BC%884%EF%BC%89%E4%BB%A5%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%B8%BA%E7%9B%AE%E7%9A%84%E7%9A%84%E4%BD%BF%E7%94%A8%E3%80%82">
+		<outline text="专为科学研究和实验，而使用有关专利的行为，不视为侵犯专利权。" _mubu_text="%E4%B8%93%E4%B8%BA%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E5%92%8C%E5%AE%9E%E9%AA%8C%EF%BC%8C%E8%80%8C%E4%BD%BF%E7%94%A8%E6%9C%89%E5%85%B3%E4%B8%93%E5%88%A9%E7%9A%84%E8%A1%8C%E4%B8%BA%EF%BC%8C%E4%B8%8D%E8%A7%86%E4%B8%BA%E4%BE%B5%E7%8A%AF%E4%B8%93%E5%88%A9%E6%9D%83%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="（5）以医药与医疗器械的行政审批为目的的使用。" _mubu_text="%EF%BC%885%EF%BC%89%E4%BB%A5%E5%8C%BB%E8%8D%AF%E4%B8%8E%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0%E7%9A%84%E8%A1%8C%E6%94%BF%E5%AE%A1%E6%89%B9%E4%B8%BA%E7%9B%AE%E7%9A%84%E7%9A%84%E4%BD%BF%E7%94%A8%E3%80%82">
+		<outline text="为提供行政审批所需要的信息，制造、使用、进口专利药品或者专利医疗器械的，以及专门为其制造进口专利药品或专利医疗器械的行为，不视为侵犯专利权。" _mubu_text="%E4%B8%BA%E6%8F%90%E4%BE%9B%E8%A1%8C%E6%94%BF%E5%AE%A1%E6%89%B9%E6%89%80%E9%9C%80%E8%A6%81%E7%9A%84%E4%BF%A1%E6%81%AF%EF%BC%8C%E5%88%B6%E9%80%A0%E3%80%81%E4%BD%BF%E7%94%A8%E3%80%81%E8%BF%9B%E5%8F%A3%E4%B8%93%E5%88%A9%E8%8D%AF%E5%93%81%E6%88%96%E8%80%85%E4%B8%93%E5%88%A9%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0%E7%9A%84%EF%BC%8C%E4%BB%A5%E5%8F%8A%E4%B8%93%E9%97%A8%E4%B8%BA%E5%85%B6%E5%88%B6%E9%80%A0%E8%BF%9B%E5%8F%A3%E4%B8%93%E5%88%A9%E8%8D%AF%E5%93%81%E6%88%96%E4%B8%93%E5%88%A9%E5%8C%BB%E7%96%97%E5%99%A8%E6%A2%B0%E7%9A%84%E8%A1%8C%E4%B8%BA%EF%BC%8C%E4%B8%8D%E8%A7%86%E4%B8%BA%E4%BE%B5%E7%8A%AF%E4%B8%93%E5%88%A9%E6%9D%83%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		<outline text="5月10日" _mubu_text="5%E6%9C%8810%E6%97%A5">
+		<outline text="301.简述对专利权的保护" _mubu_text="301.%E7%AE%80%E8%BF%B0%E5%AF%B9%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E4%BF%9D%E6%8A%A4">
+		<outline text="专利权的保护范围" _mubu_text="%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E4%BF%9D%E6%8A%A4%E8%8C%83%E5%9B%B4">
+		<outline text="（1）发明或者实用新型专利权的保护范围，以其权利要求的内容为准，说明书及附图可以用于解释权利要求。" _mubu_text="%EF%BC%881%EF%BC%89%E5%8F%91%E6%98%8E%E6%88%96%E8%80%85%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E4%BF%9D%E6%8A%A4%E8%8C%83%E5%9B%B4%EF%BC%8C%E4%BB%A5%E5%85%B6%E6%9D%83%E5%88%A9%E8%A6%81%E6%B1%82%E7%9A%84%E5%86%85%E5%AE%B9%E4%B8%BA%E5%87%86%EF%BC%8C%E8%AF%B4%E6%98%8E%E4%B9%A6%E5%8F%8A%E9%99%84%E5%9B%BE%E5%8F%AF%E4%BB%A5%E7%94%A8%E4%BA%8E%E8%A7%A3%E9%87%8A%E6%9D%83%E5%88%A9%E8%A6%81%E6%B1%82%E3%80%82">
+		</outline>
+		<outline text="（2）外观设计专利权的保护范围，以表示在图片或者照片中的该外观设计专利产品为准，简要说明可以用于解释图片或者照片所表示的该产品的外观设计。" _mubu_text="%EF%BC%882%EF%BC%89%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E4%BF%9D%E6%8A%A4%E8%8C%83%E5%9B%B4%EF%BC%8C%E4%BB%A5%E8%A1%A8%E7%A4%BA%E5%9C%A8%E5%9B%BE%E7%89%87%E6%88%96%E8%80%85%E7%85%A7%E7%89%87%E4%B8%AD%E7%9A%84%E8%AF%A5%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%E4%B8%93%E5%88%A9%E4%BA%A7%E5%93%81%E4%B8%BA%E5%87%86%EF%BC%8C%E7%AE%80%E8%A6%81%E8%AF%B4%E6%98%8E%E5%8F%AF%E4%BB%A5%E7%94%A8%E4%BA%8E%E8%A7%A3%E9%87%8A%E5%9B%BE%E7%89%87%E6%88%96%E8%80%85%E7%85%A7%E7%89%87%E6%89%80%E8%A1%A8%E7%A4%BA%E7%9A%84%E8%AF%A5%E4%BA%A7%E5%93%81%E7%9A%84%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="侵犯专利权的情形及专利权的保护方式" _mubu_text="%E4%BE%B5%E7%8A%AF%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E6%83%85%E5%BD%A2%E5%8F%8A%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E4%BF%9D%E6%8A%A4%E6%96%B9%E5%BC%8F">
+		<outline text="侵犯专利权的情形" _mubu_text="%E4%BE%B5%E7%8A%AF%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E6%83%85%E5%BD%A2">
+		<outline text="（1）根据《专利法》的规定，发明和实用新型专利权被授予后，除另有规定的以外，他人未经专利权人许可，为生产经营目的制造、使用、许诺销售、销售、进口其专利产品，或者使用其专利方法以及使用、许诺销售、销售、进口依照该专利方法直接获得的产品，均构成侵权;（针对专利产品和专利方法两个方面）" _mubu_text="%EF%BC%881%EF%BC%89%E6%A0%B9%E6%8D%AE%E3%80%8A%E4%B8%93%E5%88%A9%E6%B3%95%E3%80%8B%E7%9A%84%E8%A7%84%E5%AE%9A%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%8F%91%E6%98%8E%E5%92%8C%E5%AE%9E%E7%94%A8%E6%96%B0%E5%9E%8B%3C/span%3E%E4%B8%93%E5%88%A9%E6%9D%83%E8%A2%AB%E6%8E%88%E4%BA%88%E5%90%8E%EF%BC%8C%E9%99%A4%E5%8F%A6%E6%9C%89%E8%A7%84%E5%AE%9A%E7%9A%84%E4%BB%A5%E5%A4%96%EF%BC%8C%E4%BB%96%E4%BA%BA%E6%9C%AA%E7%BB%8F%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E8%AE%B8%E5%8F%AF%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%B8%BA%E7%94%9F%E4%BA%A7%E7%BB%8F%E8%90%A5%E7%9B%AE%E7%9A%84%3C/span%3E%E5%88%B6%E9%80%A0%E3%80%81%E4%BD%BF%E7%94%A8%E3%80%81%E8%AE%B8%E8%AF%BA%E9%94%80%E5%94%AE%E3%80%81%E9%94%80%E5%94%AE%E3%80%81%E8%BF%9B%E5%8F%A3%E5%85%B6%E4%B8%93%E5%88%A9%E4%BA%A7%E5%93%81%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%88%96%E8%80%85%E4%BD%BF%E7%94%A8%E5%85%B6%E4%B8%93%E5%88%A9%E6%96%B9%E6%B3%95%E4%BB%A5%E5%8F%8A%E4%BD%BF%E7%94%A8%E3%80%81%E8%AE%B8%E8%AF%BA%E9%94%80%E5%94%AE%E3%80%81%E9%94%80%E5%94%AE%E3%80%81%E8%BF%9B%E5%8F%A3%E4%BE%9D%E7%85%A7%E8%AF%A5%E4%B8%93%E5%88%A9%E6%96%B9%E6%B3%95%E7%9B%B4%E6%8E%A5%E8%8E%B7%E5%BE%97%E7%9A%84%E4%BA%A7%E5%93%81%EF%BC%8C%E5%9D%87%E6%9E%84%E6%88%90%E4%BE%B5%E6%9D%83;%EF%BC%88%E9%92%88%E5%AF%B9%E4%B8%93%E5%88%A9%E4%BA%A7%E5%93%81%E5%92%8C%E4%B8%93%E5%88%A9%E6%96%B9%E6%B3%95%E4%B8%A4%E4%B8%AA%E6%96%B9%E9%9D%A2%EF%BC%89%3C/span%3E">
+		</outline>
+		<outline text="（2）外观设计专利权被授予后，他人未经专利权人许可，为生产经营目的制造、许诺销售、销售、进口其外观设计专利产品，同样构成侵权。（只针对专利产品）" _mubu_text="%EF%BC%882%EF%BC%89%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%3C/span%3E%E4%B8%93%E5%88%A9%E6%9D%83%E8%A2%AB%E6%8E%88%E4%BA%88%E5%90%8E%EF%BC%8C%E4%BB%96%E4%BA%BA%E6%9C%AA%E7%BB%8F%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E8%AE%B8%E5%8F%AF%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%B8%BA%E7%94%9F%E4%BA%A7%E7%BB%8F%E8%90%A5%E7%9B%AE%E7%9A%84%3C/span%3E%E5%88%B6%E9%80%A0%E3%80%81%E8%AE%B8%E8%AF%BA%E9%94%80%E5%94%AE%E3%80%81%E9%94%80%E5%94%AE%E3%80%81%E8%BF%9B%E5%8F%A3%E5%85%B6%E5%A4%96%E8%A7%82%E8%AE%BE%E8%AE%A1%E4%B8%93%E5%88%A9%E4%BA%A7%E5%93%81%EF%BC%8C%E5%90%8C%E6%A0%B7%E6%9E%84%E6%88%90%E4%BE%B5%E6%9D%83%E3%80%82%EF%BC%88%E5%8F%AA%E9%92%88%E5%AF%B9%E4%B8%93%E5%88%A9%E4%BA%A7%E5%93%81%EF%BC%89">
+		</outline>
+		</outline>
+		<outline text="专利权的保护方式" _mubu_text="%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E4%BF%9D%E6%8A%A4%E6%96%B9%E5%BC%8F">
+		<outline text="专利权人或者利害关系人在专利权受到不法侵害时，可以请求专利管理机关进行处理，也可以直接向人民法院提起诉讼。" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E6%88%96%E8%80%85%E5%88%A9%E5%AE%B3%E5%85%B3%E7%B3%BB%E4%BA%BA%3C/span%3E%E5%9C%A8%E4%B8%93%E5%88%A9%E6%9D%83%E5%8F%97%E5%88%B0%E4%B8%8D%E6%B3%95%E4%BE%B5%E5%AE%B3%E6%97%B6%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%AF%B7%E6%B1%82%E4%B8%93%E5%88%A9%E7%AE%A1%E7%90%86%E6%9C%BA%E5%85%B3%E8%BF%9B%E8%A1%8C%E5%A4%84%E7%90%86%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E5%90%91%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%E6%8F%90%E8%B5%B7%E8%AF%89%E8%AE%BC%E3%80%82">
+		<outline text="（1）专利管理机关处理时，认定侵权行为成立的，可以责令侵权人立即停止侵权行为。" _mubu_text="%EF%BC%881%EF%BC%89%E4%B8%93%E5%88%A9%E7%AE%A1%E7%90%86%E6%9C%BA%E5%85%B3%E5%A4%84%E7%90%86%E6%97%B6%EF%BC%8C%E8%AE%A4%E5%AE%9A%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%E6%88%90%E7%AB%8B%E7%9A%84%EF%BC%8C%E5%8F%AF%E4%BB%A5%E8%B4%A3%E4%BB%A4%E4%BE%B5%E6%9D%83%E4%BA%BA%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%E3%80%82">
+		</outline>
+		<outline text="（2）向人民法院起诉而法院认定侵权成立的，法院可以依法责令侵权行为人停止侵害、赔偿损失或者收缴非法制造商品。对假冒专利构成犯罪的行为,还应当依法追究刑事责任。" _mubu_text="%EF%BC%882%EF%BC%89%E5%90%91%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%E8%B5%B7%E8%AF%89%E8%80%8C%E6%B3%95%E9%99%A2%E8%AE%A4%E5%AE%9A%E4%BE%B5%E6%9D%83%E6%88%90%E7%AB%8B%E7%9A%84%EF%BC%8C%E6%B3%95%E9%99%A2%E5%8F%AF%E4%BB%A5%E4%BE%9D%E6%B3%95%E8%B4%A3%E4%BB%A4%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%E4%BA%BA%E5%81%9C%E6%AD%A2%E4%BE%B5%E5%AE%B3%E3%80%81%E8%B5%94%E5%81%BF%E6%8D%9F%E5%A4%B1%E6%88%96%E8%80%85%E6%94%B6%E7%BC%B4%E9%9D%9E%E6%B3%95%E5%88%B6%E9%80%A0%E5%95%86%E5%93%81%E3%80%82%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%AF%B9%E5%81%87%E5%86%92%E4%B8%93%E5%88%A9%E6%9E%84%E6%88%90%E7%8A%AF%E7%BD%AA%E7%9A%84%E8%A1%8C%E4%B8%BA,%E8%BF%98%E5%BA%94%E5%BD%93%E4%BE%9D%E6%B3%95%E8%BF%BD%E7%A9%B6%E5%88%91%E4%BA%8B%E8%B4%A3%E4%BB%BB%E3%80%82%3C/span%3E">
+		</outline>
+		</outline>
+		<outline text="侵犯专利权的赔偿数额的认定" _mubu_text="%E4%BE%B5%E7%8A%AF%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E8%B5%94%E5%81%BF%E6%95%B0%E9%A2%9D%E7%9A%84%E8%AE%A4%E5%AE%9A">
+		<outline text="①按照权利人因被侵权所受到的实际损失或者侵权人因侵权所获得的利益确定;" _mubu_text="%E2%91%A0%E6%8C%89%E7%85%A7%E6%9D%83%E5%88%A9%E4%BA%BA%E5%9B%A0%E8%A2%AB%E4%BE%B5%E6%9D%83%E6%89%80%E5%8F%97%E5%88%B0%E7%9A%84%E5%AE%9E%E9%99%85%E6%8D%9F%E5%A4%B1%E6%88%96%E8%80%85%E4%BE%B5%E6%9D%83%E4%BA%BA%E5%9B%A0%E4%BE%B5%E6%9D%83%E6%89%80%E8%8E%B7%E5%BE%97%E7%9A%84%E5%88%A9%E7%9B%8A%E7%A1%AE%E5%AE%9A;">
+		</outline>
+		<outline text="②权利人的损失或者侵权人获得的利益难以确定的,参照该专利许可使用费的倍数合理确定。" _mubu_text="%E2%91%A1%E6%9D%83%E5%88%A9%E4%BA%BA%E7%9A%84%E6%8D%9F%E5%A4%B1%E6%88%96%E8%80%85%E4%BE%B5%E6%9D%83%E4%BA%BA%E8%8E%B7%E5%BE%97%E7%9A%84%E5%88%A9%E7%9B%8A%E9%9A%BE%E4%BB%A5%E7%A1%AE%E5%AE%9A%E7%9A%84,%E5%8F%82%E7%85%A7%E8%AF%A5%E4%B8%93%E5%88%A9%E8%AE%B8%E5%8F%AF%E4%BD%BF%E7%94%A8%E8%B4%B9%E7%9A%84%E5%80%8D%E6%95%B0%E5%90%88%E7%90%86%E7%A1%AE%E5%AE%9A%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="侵犯专利权的诉讼时效" _mubu_text="%E4%BE%B5%E7%8A%AF%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E8%AF%89%E8%AE%BC%E6%97%B6%E6%95%88">
+		<outline text="侵犯专利权的诉讼时效为2 年，自专利权人或者利害关系人得知或者应当得知侵权行为之日起计算。" _mubu_text="%E4%BE%B5%E7%8A%AF%E4%B8%93%E5%88%A9%E6%9D%83%E7%9A%84%E8%AF%89%E8%AE%BC%E6%97%B6%E6%95%88%E4%B8%BA2%20%E5%B9%B4%EF%BC%8C%E8%87%AA%E4%B8%93%E5%88%A9%E6%9D%83%E4%BA%BA%E6%88%96%E8%80%85%E5%88%A9%E5%AE%B3%E5%85%B3%E7%B3%BB%E4%BA%BA%E5%BE%97%E7%9F%A5%E6%88%96%E8%80%85%E5%BA%94%E5%BD%93%E5%BE%97%E7%9F%A5%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%E4%B9%8B%E6%97%A5%E8%B5%B7%E8%AE%A1%E7%AE%97%E3%80%82" _note="@考点" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E8%80%83%E7%82%B9%3C/span%3E">
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		<outline text="302.简述商标不得注册情形" _mubu_text="302.%E7%AE%80%E8%BF%B0%E5%95%86%E6%A0%87%E4%B8%8D%E5%BE%97%3Cspan%20class=%22bold%22%3E%E6%B3%A8%E5%86%8C%3C/span%3E%E6%83%85%E5%BD%A2">
+		<outline text="申请注册的商标，应当有显著特征，便于识别，并不得与他人在先取得的合法权利相冲突。 ​因此，下列标志不能作为商标（ ​​但经过使用取得显著特征，并便于识别的除外。）" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E7%94%B3%E8%AF%B7%E6%B3%A8%E5%86%8C%E7%9A%84%E5%95%86%E6%A0%87%EF%BC%8C%E5%BA%94%E5%BD%93%E6%9C%89%E6%98%BE%E8%91%97%E7%89%B9%E5%BE%81%EF%BC%8C%E4%BE%BF%E4%BA%8E%E8%AF%86%E5%88%AB%EF%BC%8C%E5%B9%B6%E4%B8%8D%E5%BE%97%E4%B8%8E%E4%BB%96%E4%BA%BA%E5%9C%A8%E5%85%88%E5%8F%96%E5%BE%97%E7%9A%84%E5%90%88%E6%B3%95%E6%9D%83%E5%88%A9%E7%9B%B8%E5%86%B2%E7%AA%81%E3%80%82%20%E2%80%8B%E5%9B%A0%E6%AD%A4%EF%BC%8C%E4%B8%8B%E5%88%97%E6%A0%87%E5%BF%97%E4%B8%8D%E8%83%BD%E4%BD%9C%E4%B8%BA%E5%95%86%E6%A0%87%EF%BC%88%20%E2%80%8B%E2%80%8B%E4%BD%86%E7%BB%8F%E8%BF%87%E4%BD%BF%E7%94%A8%E5%8F%96%E5%BE%97%E6%98%BE%E8%91%97%E7%89%B9%E5%BE%81%EF%BC%8C%E5%B9%B6%E4%BE%BF%E4%BA%8E%E8%AF%86%E5%88%AB%E7%9A%84%E9%99%A4%E5%A4%96%E3%80%82%EF%BC%89%3C/span%3E" _note="@口诀&nbsp;布标 铜 制廖工用重属 却先 散&nbsp;@简答题" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E5%B8%83%E6%A0%87%20%E9%93%9C%20%E5%88%B6%E5%BB%96%E5%B7%A5%E7%94%A8%E9%87%8D%E5%B1%9E%20%E5%8D%B4%E5%85%88%20%E6%95%A3&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E" _heading="1" _color="#3da8f5">
+		<outline text="（1）仅有本商品的通用名称、图形、型号的。" _mubu_text="%EF%BC%881%EF%BC%89%E4%BB%85%E6%9C%89%E6%9C%AC%E5%95%86%E5%93%81%E7%9A%84%E9%80%9A%E7%94%A8%E5%90%8D%E7%A7%B0%E3%80%81%E5%9B%BE%E5%BD%A2%E3%80%81%E5%9E%8B%E5%8F%B7%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="（2）仅直接表示商品的质量、主要原料、功能、用途、重量、数量及其他特点的。" _mubu_text="%EF%BC%882%EF%BC%89%E4%BB%85%E7%9B%B4%E6%8E%A5%E8%A1%A8%E7%A4%BA%E5%95%86%E5%93%81%E7%9A%84%E8%B4%A8%E9%87%8F%E3%80%81%E4%B8%BB%E8%A6%81%E5%8E%9F%E6%96%99%E3%80%81%E5%8A%9F%E8%83%BD%E3%80%81%E7%94%A8%E9%80%94%E3%80%81%E9%87%8D%E9%87%8F%E3%80%81%E6%95%B0%E9%87%8F%E5%8F%8A%E5%85%B6%E4%BB%96%E7%89%B9%E7%82%B9%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="（3）以及其他缺乏显著特征的。" _mubu_text="%EF%BC%883%EF%BC%89%E4%BB%A5%E5%8F%8A%E5%85%B6%E4%BB%96%E7%BC%BA%E4%B9%8F%E6%98%BE%E8%91%97%E7%89%B9%E5%BE%81%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="（4）以三维标志申请注册商标的，仅由商品自身的性质产生的形状、为获得技术效果而需要的商品形状或者使商品具有实质性价值的形状，不得注册。" _mubu_text="%EF%BC%884%EF%BC%89%E4%BB%A5%E4%B8%89%E7%BB%B4%E6%A0%87%E5%BF%97%E7%94%B3%E8%AF%B7%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E7%9A%84%EF%BC%8C%E4%BB%85%E7%94%B1%E5%95%86%E5%93%81%E8%87%AA%E8%BA%AB%E7%9A%84%E6%80%A7%E8%B4%A8%E4%BA%A7%E7%94%9F%E7%9A%84%E5%BD%A2%E7%8A%B6%E3%80%81%E4%B8%BA%E8%8E%B7%E5%BE%97%E6%8A%80%E6%9C%AF%E6%95%88%E6%9E%9C%E8%80%8C%E9%9C%80%E8%A6%81%E7%9A%84%E5%95%86%E5%93%81%E5%BD%A2%E7%8A%B6%E6%88%96%E8%80%85%E4%BD%BF%E5%95%86%E5%93%81%E5%85%B7%E6%9C%89%E5%AE%9E%E8%B4%A8%E6%80%A7%E4%BB%B7%E5%80%BC%E7%9A%84%E5%BD%A2%E7%8A%B6%EF%BC%8C%E4%B8%8D%E5%BE%97%E6%B3%A8%E5%86%8C%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="303.简述不得作为商标使用的标志" _mubu_text="303.%E7%AE%80%E8%BF%B0%E4%B8%8D%E5%BE%97%E4%BD%9C%E4%B8%BA%E5%95%86%E6%A0%87%E4%BD%BF%E7%94%A8%E7%9A%84%E6%A0%87%E5%BF%97" _note="注意，这个和不能作为商标注册的情况是不一样的，以下情况不仅不能作为商标注册，而且不能作为商标使用。" _mubu_note="%E6%B3%A8%E6%84%8F%EF%BC%8C%E8%BF%99%E4%B8%AA%E5%92%8C%E4%B8%8D%E8%83%BD%E4%BD%9C%E4%B8%BA%E5%95%86%E6%A0%87%E6%B3%A8%E5%86%8C%E7%9A%84%E6%83%85%E5%86%B5%E6%98%AF%E4%B8%8D%E4%B8%80%E6%A0%B7%E7%9A%84%EF%BC%8C%E4%BB%A5%E4%B8%8B%E6%83%85%E5%86%B5%E4%B8%8D%E4%BB%85%E4%B8%8D%E8%83%BD%E4%BD%9C%E4%B8%BA%E5%95%86%E6%A0%87%E6%B3%A8%E5%86%8C%EF%BC%8C%E8%80%8C%E4%B8%94%E4%B8%8D%E8%83%BD%E4%BD%9C%E4%B8%BA%E5%95%86%E6%A0%87%E4%BD%BF%E7%94%A8%E3%80%82">
+		<outline text="无论是注册商标还是非注册商标，均须符合合法性的要求。不得作为商标使用的标志有" _mubu_text="%E6%97%A0%E8%AE%BA%E6%98%AF%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E8%BF%98%E6%98%AF%E9%9D%9E%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%EF%BC%8C%E5%9D%87%E9%A1%BB%E7%AC%A6%E5%90%88%E5%90%88%E6%B3%95%E6%80%A7%E7%9A%84%E8%A6%81%E6%B1%82%E3%80%82%E4%B8%8D%E5%BE%97%E4%BD%9C%E4%B8%BA%E5%95%86%E6%A0%87%E4%BD%BF%E7%94%A8%E7%9A%84%E6%A0%87%E5%BF%97%E6%9C%89">
+		<outline text="（1）同中华人民共和国的国家名称、国旗、国徽、国歌、军旗、军徽、军歌、军勋章等相同或者近似的以及同中央国家机关的名称、标志、所在地特定地点的名称或者标志性建筑物的名称、图形相同的。" _mubu_text="%EF%BC%881%EF%BC%89%E5%90%8C%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%90%8D%E7%A7%B0%E3%80%81%E5%9B%BD%E6%97%97%E3%80%81%E5%9B%BD%E5%BE%BD%E3%80%81%E5%9B%BD%E6%AD%8C%E3%80%81%E5%86%9B%E6%97%97%E3%80%81%E5%86%9B%E5%BE%BD%E3%80%81%E5%86%9B%E6%AD%8C%E3%80%81%E5%86%9B%E5%8B%8B%E7%AB%A0%E7%AD%89%E7%9B%B8%E5%90%8C%E6%88%96%E8%80%85%E8%BF%91%E4%BC%BC%E7%9A%84%E4%BB%A5%E5%8F%8A%E5%90%8C%E4%B8%AD%E5%A4%AE%E5%9B%BD%E5%AE%B6%E6%9C%BA%E5%85%B3%E7%9A%84%E5%90%8D%E7%A7%B0%E3%80%81%E6%A0%87%E5%BF%97%E3%80%81%E6%89%80%E5%9C%A8%E5%9C%B0%E7%89%B9%E5%AE%9A%E5%9C%B0%E7%82%B9%E7%9A%84%E5%90%8D%E7%A7%B0%E6%88%96%E8%80%85%E6%A0%87%E5%BF%97%E6%80%A7%E5%BB%BA%E7%AD%91%E7%89%A9%E7%9A%84%E5%90%8D%E7%A7%B0%E3%80%81%E5%9B%BE%E5%BD%A2%E7%9B%B8%E5%90%8C%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="（2）同外国的国家名称、国旗、国徽、军旗等相同或者近似的，但经该国政府同意的除外。" _mubu_text="%EF%BC%882%EF%BC%89%E5%90%8C%E5%A4%96%E5%9B%BD%E7%9A%84%E5%9B%BD%E5%AE%B6%E5%90%8D%E7%A7%B0%E3%80%81%E5%9B%BD%E6%97%97%E3%80%81%E5%9B%BD%E5%BE%BD%E3%80%81%E5%86%9B%E6%97%97%E7%AD%89%E7%9B%B8%E5%90%8C%E6%88%96%E8%80%85%E8%BF%91%E4%BC%BC%E7%9A%84%EF%BC%8C%E4%BD%86%E7%BB%8F%E8%AF%A5%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%90%8C%E6%84%8F%E7%9A%84%E9%99%A4%E5%A4%96%E3%80%82">
+		</outline>
+		<outline text="（3）同政府间的国际组织的名称、旗帜、徽记等相同或者近似的，但经该组织同意或者不易误导公众的除外。" _mubu_text="%EF%BC%883%EF%BC%89%E5%90%8C%E6%94%BF%E5%BA%9C%E9%97%B4%E7%9A%84%E5%9B%BD%E9%99%85%E7%BB%84%E7%BB%87%E7%9A%84%E5%90%8D%E7%A7%B0%E3%80%81%E6%97%97%E5%B8%9C%E3%80%81%E5%BE%BD%E8%AE%B0%E7%AD%89%E7%9B%B8%E5%90%8C%E6%88%96%E8%80%85%E8%BF%91%E4%BC%BC%E7%9A%84%EF%BC%8C%E4%BD%86%E7%BB%8F%E8%AF%A5%E7%BB%84%E7%BB%87%E5%90%8C%E6%84%8F%E6%88%96%E8%80%85%E4%B8%8D%E6%98%93%E8%AF%AF%E5%AF%BC%E5%85%AC%E4%BC%97%E7%9A%84%E9%99%A4%E5%A4%96%E3%80%82">
+		</outline>
+		<outline text="（4）与表明实施控制、予以保证的官方标志、检验印记相同或者近似的，但经授权的除外。" _mubu_text="%EF%BC%884%EF%BC%89%E4%B8%8E%E8%A1%A8%E6%98%8E%E5%AE%9E%E6%96%BD%E6%8E%A7%E5%88%B6%E3%80%81%E4%BA%88%E4%BB%A5%E4%BF%9D%E8%AF%81%E7%9A%84%E5%AE%98%E6%96%B9%E6%A0%87%E5%BF%97%E3%80%81%E6%A3%80%E9%AA%8C%E5%8D%B0%E8%AE%B0%E7%9B%B8%E5%90%8C%E6%88%96%E8%80%85%E8%BF%91%E4%BC%BC%E7%9A%84%EF%BC%8C%E4%BD%86%E7%BB%8F%E6%8E%88%E6%9D%83%E7%9A%84%E9%99%A4%E5%A4%96%E3%80%82">
+		</outline>
+		<outline text="（5）同“红十字”、“红新月”的名称、标志相同或者近似的。" _mubu_text="%EF%BC%885%EF%BC%89%E5%90%8C%E2%80%9C%E7%BA%A2%E5%8D%81%E5%AD%97%E2%80%9D%E3%80%81%E2%80%9C%E7%BA%A2%E6%96%B0%E6%9C%88%E2%80%9D%E7%9A%84%E5%90%8D%E7%A7%B0%E3%80%81%E6%A0%87%E5%BF%97%E7%9B%B8%E5%90%8C%E6%88%96%E8%80%85%E8%BF%91%E4%BC%BC%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="（6）带有民族歧视性的。" _mubu_text="%EF%BC%886%EF%BC%89%E5%B8%A6%E6%9C%89%E6%B0%91%E6%97%8F%E6%AD%A7%E8%A7%86%E6%80%A7%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="（7）带有欺骗性，容易使公众对商品的质量等特点或者产地产生误认的。" _mubu_text="%EF%BC%887%EF%BC%89%E5%B8%A6%E6%9C%89%E6%AC%BA%E9%AA%97%E6%80%A7%EF%BC%8C%E5%AE%B9%E6%98%93%E4%BD%BF%E5%85%AC%E4%BC%97%E5%AF%B9%E5%95%86%E5%93%81%E7%9A%84%E8%B4%A8%E9%87%8F%E7%AD%89%E7%89%B9%E7%82%B9%E6%88%96%E8%80%85%E4%BA%A7%E5%9C%B0%E4%BA%A7%E7%94%9F%E8%AF%AF%E8%AE%A4%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="（8）有害于社会主义道德风尚或者有其他不良影响的。" _mubu_text="%EF%BC%888%EF%BC%89%E6%9C%89%E5%AE%B3%E4%BA%8E%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E9%81%93%E5%BE%B7%E9%A3%8E%E5%B0%9A%E6%88%96%E8%80%85%E6%9C%89%E5%85%B6%E4%BB%96%E4%B8%8D%E8%89%AF%E5%BD%B1%E5%93%8D%E7%9A%84%E3%80%82">
+		</outline>
+		<outline text="（9）县级以上行政区域的地名或者公众知晓的外国地名，不得作为商标。但是地名具有其他含义或者作为集体商标、证明商标组成部分的除外。已经注册的使用地名的商标继续有效。" _mubu_text="%EF%BC%889%EF%BC%89%E5%8E%BF%E7%BA%A7%E4%BB%A5%E4%B8%8A%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%9F%9F%E7%9A%84%E5%9C%B0%E5%90%8D%E6%88%96%E8%80%85%E5%85%AC%E4%BC%97%E7%9F%A5%E6%99%93%E7%9A%84%E5%A4%96%E5%9B%BD%E5%9C%B0%E5%90%8D%EF%BC%8C%E4%B8%8D%E5%BE%97%E4%BD%9C%E4%B8%BA%E5%95%86%E6%A0%87%E3%80%82%E4%BD%86%E6%98%AF%E5%9C%B0%E5%90%8D%E5%85%B7%E6%9C%89%E5%85%B6%E4%BB%96%E5%90%AB%E4%B9%89%E6%88%96%E8%80%85%E4%BD%9C%E4%B8%BA%E9%9B%86%E4%BD%93%E5%95%86%E6%A0%87%E3%80%81%E8%AF%81%E6%98%8E%E5%95%86%E6%A0%87%E7%BB%84%E6%88%90%E9%83%A8%E5%88%86%E7%9A%84%E9%99%A4%E5%A4%96%E3%80%82%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%B7%B2%E7%BB%8F%E6%B3%A8%E5%86%8C%E7%9A%84%E4%BD%BF%E7%94%A8%E5%9C%B0%E5%90%8D%E7%9A%84%E5%95%86%E6%A0%87%E7%BB%A7%E7%BB%AD%E6%9C%89%E6%95%88%E3%80%82%3C/span%3E">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="304.简述商标权的内容（权利）" _mubu_text="304.%E7%AE%80%E8%BF%B0%E5%95%86%E6%A0%87%E6%9D%83%E7%9A%84%E5%86%85%E5%AE%B9%EF%BC%88%E6%9D%83%E5%88%A9%EF%BC%89">
+		<outline text="1.独占使用权。" _mubu_text="1.%E7%8B%AC%E5%8D%A0%E4%BD%BF%E7%94%A8%E6%9D%83%E3%80%82">
+		<outline text="商标一经注册，商标权人即对注册商标在法定范围内享有专有使用的权利，他人未经许可不得使用。否则，就构成侵权。" _mubu_text="%E5%95%86%E6%A0%87%E4%B8%80%E7%BB%8F%E6%B3%A8%E5%86%8C%EF%BC%8C%E5%95%86%E6%A0%87%E6%9D%83%E4%BA%BA%E5%8D%B3%E5%AF%B9%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E5%9C%A8%E6%B3%95%E5%AE%9A%E8%8C%83%E5%9B%B4%E5%86%85%E4%BA%AB%E6%9C%89%E4%B8%93%E6%9C%89%E4%BD%BF%E7%94%A8%E7%9A%84%E6%9D%83%E5%88%A9%EF%BC%8C%E4%BB%96%E4%BA%BA%E6%9C%AA%E7%BB%8F%E8%AE%B8%E5%8F%AF%E4%B8%8D%E5%BE%97%E4%BD%BF%E7%94%A8%E3%80%82%E5%90%A6%E5%88%99%EF%BC%8C%E5%B0%B1%E6%9E%84%E6%88%90%E4%BE%B5%E6%9D%83%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="2.转让权。" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E2.%E8%BD%AC%E8%AE%A9%E6%9D%83%E3%80%82%3C/span%3E" _note="@口诀&nbsp;标砖去桑邪神质量一并公告@简答题" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E6%A0%87%E7%A0%96%E5%8E%BB%E6%A1%91%E9%82%AA%E7%A5%9E%E8%B4%A8%E9%87%8F%E4%B8%80%E5%B9%B6%E5%85%AC%E5%91%8A%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E" _heading="1" _color="#75c940">
+		<outline text="（1）商标权人有权依照法律规定，将商标权转让给他人。商标转让后，原商标权人的权利丧失，受让人取得商标权。" _mubu_text="%EF%BC%881%EF%BC%89%E5%95%86%E6%A0%87%E6%9D%83%E4%BA%BA%E6%9C%89%E6%9D%83%E4%BE%9D%E7%85%A7%E6%B3%95%E5%BE%8B%E8%A7%84%E5%AE%9A%EF%BC%8C%E5%B0%86%E5%95%86%E6%A0%87%E6%9D%83%E8%BD%AC%E8%AE%A9%E7%BB%99%E4%BB%96%E4%BA%BA%E3%80%82%E5%95%86%E6%A0%87%E8%BD%AC%E8%AE%A9%E5%90%8E%EF%BC%8C%E5%8E%9F%E5%95%86%E6%A0%87%E6%9D%83%E4%BA%BA%E7%9A%84%E6%9D%83%E5%88%A9%E4%B8%A7%E5%A4%B1%EF%BC%8C%E5%8F%97%E8%AE%A9%E4%BA%BA%E5%8F%96%E5%BE%97%E5%95%86%E6%A0%87%E6%9D%83%E3%80%82">
+		</outline>
+		<outline text="（2）转让注册商标的，转让人和受让人应当签订转让协议，并共同向商标局提出申请。" _mubu_text="%EF%BC%882%EF%BC%89%E8%BD%AC%E8%AE%A9%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E7%9A%84%EF%BC%8C%E8%BD%AC%E8%AE%A9%E4%BA%BA%E5%92%8C%E5%8F%97%E8%AE%A9%E4%BA%BA%E5%BA%94%E5%BD%93%E7%AD%BE%E8%AE%A2%E8%BD%AC%E8%AE%A9%E5%8D%8F%E8%AE%AE%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%B9%B6%E5%85%B1%E5%90%8C%E5%90%91%E5%95%86%E6%A0%87%E5%B1%80%E6%8F%90%E5%87%BA%E7%94%B3%E8%AF%B7%E3%80%82%3C/span%3E">
+		</outline>
+		<outline text="（3）受让人应当保证使用该注册商标的商品质量。" _mubu_text="%EF%BC%883%EF%BC%89%E5%8F%97%E8%AE%A9%E4%BA%BA%E5%BA%94%E5%BD%93%E4%BF%9D%E8%AF%81%E4%BD%BF%E7%94%A8%E8%AF%A5%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E7%9A%84%E5%95%86%E5%93%81%E8%B4%A8%E9%87%8F%E3%80%82">
+		</outline>
+		<outline text="（4）转让注册商标的，商标注册人对其在同一种商品上注册的近似的商标，或者在类似商品上注册的相同或者近似的商标，应当一并转让。" _mubu_text="%EF%BC%884%EF%BC%89%E8%BD%AC%E8%AE%A9%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E7%9A%84%EF%BC%8C%E5%95%86%E6%A0%87%E6%B3%A8%E5%86%8C%E4%BA%BA%E5%AF%B9%E5%85%B6%E5%9C%A8%E5%90%8C%E4%B8%80%E7%A7%8D%E5%95%86%E5%93%81%E4%B8%8A%E6%B3%A8%E5%86%8C%E7%9A%84%E8%BF%91%E4%BC%BC%E7%9A%84%E5%95%86%E6%A0%87%EF%BC%8C%E6%88%96%E8%80%85%E5%9C%A8%E7%B1%BB%E4%BC%BC%E5%95%86%E5%93%81%E4%B8%8A%E6%B3%A8%E5%86%8C%E7%9A%84%E7%9B%B8%E5%90%8C%E6%88%96%E8%80%85%E8%BF%91%E4%BC%BC%E7%9A%84%E5%95%86%E6%A0%87%EF%BC%8C%E5%BA%94%E5%BD%93%E4%B8%80%E5%B9%B6%E8%BD%AC%E8%AE%A9%E3%80%82">
+		</outline>
+		<outline text="（5）转让注册商标经核准后，予以公告。受让人自公告之日起享有商标专用权。" _mubu_text="%EF%BC%885%EF%BC%89%E8%BD%AC%E8%AE%A9%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E7%BB%8F%E6%A0%B8%E5%87%86%E5%90%8E%EF%BC%8C%E4%BA%88%E4%BB%A5%E5%85%AC%E5%91%8A%E3%80%82%E5%8F%97%E8%AE%A9%E4%BA%BA%E8%87%AA%E5%85%AC%E5%91%8A%E4%B9%8B%E6%97%A5%E8%B5%B7%E4%BA%AB%E6%9C%89%E5%95%86%E6%A0%87%E4%B8%93%E7%94%A8%E6%9D%83%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="3.使用许可权。" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E3.%E4%BD%BF%E7%94%A8%E8%AE%B8%E5%8F%AF%E6%9D%83%3C/span%3E%E3%80%82" _note="@口诀&nbsp;尚许（书）不见标案&nbsp;@简答题" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E5%B0%9A%E8%AE%B8%EF%BC%88%E4%B9%A6%EF%BC%89%E4%B8%8D%E8%A7%81%E6%A0%87%E6%A1%88&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E" _heading="1" _color="#75c940">
+		<outline text="（1）商标权人有权通过签订商标使用许可合同，许可他人使用自己的注册商标。在此种情形下，商标权人可以保留自己的使用权，也可以放弃使用权，但无论哪种情况，商标权并未发生转移，仍属于许可人。" _mubu_text="%EF%BC%881%EF%BC%89%E5%95%86%E6%A0%87%E6%9D%83%E4%BA%BA%E6%9C%89%E6%9D%83%E9%80%9A%E8%BF%87%E7%AD%BE%E8%AE%A2%E5%95%86%E6%A0%87%E4%BD%BF%E7%94%A8%E8%AE%B8%E5%8F%AF%E5%90%88%E5%90%8C%EF%BC%8C%E8%AE%B8%E5%8F%AF%E4%BB%96%E4%BA%BA%E4%BD%BF%E7%94%A8%E8%87%AA%E5%B7%B1%E7%9A%84%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E3%80%82%E5%9C%A8%E6%AD%A4%E7%A7%8D%E6%83%85%E5%BD%A2%E4%B8%8B%EF%BC%8C%E5%95%86%E6%A0%87%E6%9D%83%E4%BA%BA%E5%8F%AF%E4%BB%A5%E4%BF%9D%E7%95%99%E8%87%AA%E5%B7%B1%E7%9A%84%E4%BD%BF%E7%94%A8%E6%9D%83%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%94%BE%E5%BC%83%E4%BD%BF%E7%94%A8%E6%9D%83%EF%BC%8C%E4%BD%86%E6%97%A0%E8%AE%BA%E5%93%AA%E7%A7%8D%E6%83%85%E5%86%B5%EF%BC%8C%E5%95%86%E6%A0%87%E6%9D%83%E5%B9%B6%E6%9C%AA%E5%8F%91%E7%94%9F%E8%BD%AC%E7%A7%BB%EF%BC%8C%E4%BB%8D%E5%B1%9E%E4%BA%8E%E8%AE%B8%E5%8F%AF%E4%BA%BA%E3%80%82">
+		</outline>
+		<outline text="（2）许可人应当监督被许可人使用其注册商标的商品质量。被许可人应当保证使用该注册商标的商品质量。" _mubu_text="%EF%BC%882%EF%BC%89%E8%AE%B8%E5%8F%AF%E4%BA%BA%E5%BA%94%E5%BD%93%E7%9B%91%E7%9D%A3%E8%A2%AB%E8%AE%B8%E5%8F%AF%E4%BA%BA%E4%BD%BF%E7%94%A8%E5%85%B6%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E7%9A%84%E5%95%86%E5%93%81%E8%B4%A8%E9%87%8F%E3%80%82%E8%A2%AB%E8%AE%B8%E5%8F%AF%E4%BA%BA%E5%BA%94%E5%BD%93%E4%BF%9D%E8%AF%81%E4%BD%BF%E7%94%A8%E8%AF%A5%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E7%9A%84%E5%95%86%E5%93%81%E8%B4%A8%E9%87%8F%E3%80%82">
+		</outline>
+		<outline text="（3）经许可使用他人注册商标的，必须在使用该注册商标的商品上标明被许可人的名称和商品产地。" _mubu_text="%EF%BC%883%EF%BC%89%E7%BB%8F%E8%AE%B8%E5%8F%AF%E4%BD%BF%E7%94%A8%E4%BB%96%E4%BA%BA%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E7%9A%84%EF%BC%8C%E5%BF%85%E9%A1%BB%E5%9C%A8%E4%BD%BF%E7%94%A8%E8%AF%A5%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E7%9A%84%E5%95%86%E5%93%81%E4%B8%8A%E6%A0%87%E6%98%8E%E8%A2%AB%E8%AE%B8%E5%8F%AF%E4%BA%BA%E7%9A%84%E5%90%8D%E7%A7%B0%E5%92%8C%E5%95%86%E5%93%81%E4%BA%A7%E5%9C%B0%E3%80%82">
+		</outline>
+		<outline text="（4）商标使用许可合同应当报商标局备案，未经备案不得对抗善意第三人。" _mubu_text="%EF%BC%884%EF%BC%89%E5%95%86%E6%A0%87%E4%BD%BF%E7%94%A8%E8%AE%B8%E5%8F%AF%E5%90%88%E5%90%8C%E5%BA%94%E5%BD%93%E6%8A%A5%E5%95%86%E6%A0%87%E5%B1%80%E5%A4%87%E6%A1%88%EF%BC%8C%E6%9C%AA%E7%BB%8F%E5%A4%87%E6%A1%88%E4%B8%8D%E5%BE%97%E5%AF%B9%E6%8A%97%E5%96%84%E6%84%8F%E7%AC%AC%E4%B8%89%E4%BA%BA%E3%80%82">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="305.简述商标权终止的原因" _mubu_text="305.%E7%AE%80%E8%BF%B0%E5%95%86%E6%A0%87%E6%9D%83%E7%BB%88%E6%AD%A2%E7%9A%84%E5%8E%9F%E5%9B%A0">
+		<outline text="商标权的终止原因包括" _mubu_text="%E5%95%86%E6%A0%87%E6%9D%83%E7%9A%84%E7%BB%88%E6%AD%A2%E5%8E%9F%E5%9B%A0%E5%8C%85%E6%8B%AC">
+		<outline text="1.注销。" _mubu_text="1.%E6%B3%A8%E9%94%80%E3%80%82">
+		<outline text="商标注销的概念" _mubu_text="%E5%95%86%E6%A0%87%E6%B3%A8%E9%94%80%E7%9A%84%E6%A6%82%E5%BF%B5">
+		<outline text="注销是指因商标权人自动放弃商标权或无人承继商标权而由商标主管部门注销商标。" _mubu_text="%E6%B3%A8%E9%94%80%E6%98%AF%E6%8C%87%E5%9B%A0%E5%95%86%E6%A0%87%E6%9D%83%E4%BA%BA%E8%87%AA%E5%8A%A8%E6%94%BE%E5%BC%83%E5%95%86%E6%A0%87%E6%9D%83%E6%88%96%E6%97%A0%E4%BA%BA%E6%89%BF%E7%BB%A7%E5%95%86%E6%A0%87%E6%9D%83%E8%80%8C%E7%94%B1%E5%95%86%E6%A0%87%E4%B8%BB%E7%AE%A1%E9%83%A8%E9%97%A8%E6%B3%A8%E9%94%80%E5%95%86%E6%A0%87%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="自动放弃商标权" _mubu_text="%E8%87%AA%E5%8A%A8%E6%94%BE%E5%BC%83%E5%95%86%E6%A0%87%E6%9D%83">
+		<outline text="商标权人的自动放弃行为可以是明示的，也可以是默示的，如商标权期满未申请续展。" _mubu_text="%E5%95%86%E6%A0%87%E6%9D%83%E4%BA%BA%E7%9A%84%E8%87%AA%E5%8A%A8%E6%94%BE%E5%BC%83%E8%A1%8C%E4%B8%BA%E5%8F%AF%E4%BB%A5%E6%98%AF%E6%98%8E%E7%A4%BA%E7%9A%84%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%98%AF%E9%BB%98%E7%A4%BA%E7%9A%84%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%A6%82%E5%95%86%E6%A0%87%E6%9D%83%E6%9C%9F%E6%BB%A1%E6%9C%AA%E7%94%B3%E8%AF%B7%E7%BB%AD%E5%B1%95%E3%80%82%3C/span%3E">
+		</outline>
+		</outline>
+		<outline text="无人承继商标权" _mubu_text="%E6%97%A0%E4%BA%BA%E6%89%BF%E7%BB%A7%E5%95%86%E6%A0%87%E6%9D%83">
+		<outline text="无人承继商标权是指商标权人死亡或者终止，自死亡或者终止之日起1年期满，该注册商标没有办理移转手续。在此种情况下，任何人都可以向商标局申请注销该注册商标。" _mubu_text="%E6%97%A0%E4%BA%BA%E6%89%BF%E7%BB%A7%E5%95%86%E6%A0%87%E6%9D%83%E6%98%AF%E6%8C%87%E5%95%86%E6%A0%87%E6%9D%83%E4%BA%BA%E6%AD%BB%E4%BA%A1%E6%88%96%E8%80%85%E7%BB%88%E6%AD%A2%EF%BC%8C%E8%87%AA%E6%AD%BB%E4%BA%A1%E6%88%96%E8%80%85%E7%BB%88%E6%AD%A2%E4%B9%8B%E6%97%A5%E8%B5%B7%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E1%E5%B9%B4%E6%9C%9F%E6%BB%A1%EF%BC%8C%3C/span%3E%E8%AF%A5%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E6%B2%A1%E6%9C%89%E5%8A%9E%E7%90%86%E7%A7%BB%E8%BD%AC%E6%89%8B%E7%BB%AD%E3%80%82%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%9C%A8%E6%AD%A4%E7%A7%8D%E6%83%85%E5%86%B5%E4%B8%8B%EF%BC%8C%E4%BB%BB%E4%BD%95%E4%BA%BA%E9%83%BD%E5%8F%AF%E4%BB%A5%E5%90%91%E5%95%86%E6%A0%87%E5%B1%80%E7%94%B3%E8%AF%B7%E6%B3%A8%E9%94%80%E8%AF%A5%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E3%80%82%3C/span%3E" _note="@考点" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E8%80%83%E7%82%B9%3C/span%3E">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="2.撤销。" _mubu_text="2.%E6%92%A4%E9%94%80%E3%80%82">
+		<outline text="商标权的撤销的概念" _mubu_text="%E5%95%86%E6%A0%87%E6%9D%83%E7%9A%84%E6%92%A4%E9%94%80%E7%9A%84%E6%A6%82%E5%BF%B5">
+		<outline text="商标权的撤销是指因商标权人违反法律规定而被商标主管部门强制终止商标权。" _mubu_text="%E5%95%86%E6%A0%87%E6%9D%83%E7%9A%84%E6%92%A4%E9%94%80%E6%98%AF%E6%8C%87%E5%9B%A0%E5%95%86%E6%A0%87%E6%9D%83%E4%BA%BA%E8%BF%9D%E5%8F%8D%E6%B3%95%E5%BE%8B%E8%A7%84%E5%AE%9A%E8%80%8C%E8%A2%AB%E5%95%86%E6%A0%87%E4%B8%BB%E7%AE%A1%E9%83%A8%E9%97%A8%E5%BC%BA%E5%88%B6%E7%BB%88%E6%AD%A2%E5%95%86%E6%A0%87%E6%9D%83%E3%80%82" _color="#333333">
+		</outline>
+		</outline>
+		<outline text="商标权的撤销事由" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E5%95%86%E6%A0%87%E6%9D%83%E7%9A%84%E6%92%A4%E9%94%80%E4%BA%8B%E7%94%B1%3C/span%3E" _note="@口诀&nbsp;上车自行同命三年&nbsp;@考点&nbsp;@简答题" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E5%8F%A3%E8%AF%80%3C/span%3E&amp;nbsp;%E4%B8%8A%E8%BD%A6%E8%87%AA%E8%A1%8C%E5%90%8C%E5%91%BD%E4%B8%89%E5%B9%B4&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E8%80%83%E7%82%B9%3C/span%3E&amp;nbsp;%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E7%AE%80%E7%AD%94%E9%A2%98%3C/span%3E" _heading="1" _color="#75c940">
+		<outline text="（1）根据《商标法》的规定，商标注册人在使用注册商标的过程中，自行改变注册商标、注册人名义、地址或者其他注册事项的，由地方工商行政管理部门责令限期改正；期满不改正的，由商标局撤销其注册商标。" _mubu_text="%EF%BC%881%EF%BC%89%E6%A0%B9%E6%8D%AE%E3%80%8A%E5%95%86%E6%A0%87%E6%B3%95%E3%80%8B%E7%9A%84%E8%A7%84%E5%AE%9A%EF%BC%8C%E5%95%86%E6%A0%87%E6%B3%A8%E5%86%8C%E4%BA%BA%E5%9C%A8%E4%BD%BF%E7%94%A8%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E7%9A%84%E8%BF%87%E7%A8%8B%E4%B8%AD%EF%BC%8C%E8%87%AA%E8%A1%8C%E6%94%B9%E5%8F%98%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E3%80%81%E6%B3%A8%E5%86%8C%E4%BA%BA%E5%90%8D%E4%B9%89%E3%80%81%E5%9C%B0%E5%9D%80%E6%88%96%E8%80%85%E5%85%B6%E4%BB%96%E6%B3%A8%E5%86%8C%E4%BA%8B%E9%A1%B9%E7%9A%84%EF%BC%8C%E7%94%B1%E5%9C%B0%E6%96%B9%E5%B7%A5%E5%95%86%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E9%83%A8%E9%97%A8%E8%B4%A3%E4%BB%A4%E9%99%90%E6%9C%9F%E6%94%B9%E6%AD%A3%EF%BC%9B%E6%9C%9F%E6%BB%A1%E4%B8%8D%E6%94%B9%E6%AD%A3%E7%9A%84%EF%BC%8C%E7%94%B1%E5%95%86%E6%A0%87%E5%B1%80%E6%92%A4%E9%94%80%E5%85%B6%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E3%80%82" _color="#333333">
+		</outline>
+		<outline text="（2）注册商标成为其核定使用的商品的通用名称或者没有正当理由连续3年不使用的，任何单位或者个人可以向商标局申请撤销该注册商标。" _mubu_text="%EF%BC%882%EF%BC%89%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E6%88%90%E4%B8%BA%E5%85%B6%E6%A0%B8%E5%AE%9A%E4%BD%BF%E7%94%A8%E7%9A%84%E5%95%86%E5%93%81%E7%9A%84%E9%80%9A%E7%94%A8%E5%90%8D%E7%A7%B0%3C/span%3E%E6%88%96%E8%80%85%E6%B2%A1%E6%9C%89%E6%AD%A3%E5%BD%93%E7%90%86%E7%94%B1%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E4%B8%8D%E4%BD%BF%E7%94%A8%E7%9A%84%EF%BC%8C%E4%BB%BB%E4%BD%95%E5%8D%95%E4%BD%8D%E6%88%96%E8%80%85%E4%B8%AA%E4%BA%BA%E5%8F%AF%E4%BB%A5%E5%90%91%E5%95%86%E6%A0%87%E5%B1%80%E7%94%B3%E8%AF%B7%E6%92%A4%E9%94%80%E8%AF%A5%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E3%80%82" _color="#333333">
+		</outline>
+		</outline>
+		<outline text="撤销商标权的后果" _mubu_text="%E6%92%A4%E9%94%80%E5%95%86%E6%A0%87%E6%9D%83%E7%9A%84%E5%90%8E%E6%9E%9C" _color="#333333">
+		<outline text="被撤销的注册商标，由商标局予以公告，该注册商标专用权自公告之日起终止。" _mubu_text="%E8%A2%AB%E6%92%A4%E9%94%80%E7%9A%84%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%EF%BC%8C%E7%94%B1%E5%95%86%E6%A0%87%E5%B1%80%E4%BA%88%E4%BB%A5%E5%85%AC%E5%91%8A%EF%BC%8C%E8%AF%A5%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E4%B8%93%E7%94%A8%E6%9D%83%E8%87%AA%E5%85%AC%E5%91%8A%E4%B9%8B%E6%97%A5%E8%B5%B7%E7%BB%88%E6%AD%A2%E3%80%82" _color="#333333">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="注册商标被撤销的或者期满不再续展的，自撤销或者注销之日起1年内，商标局对与该商标相同或者近似的商标注册申请，不予核准。" _mubu_text="%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E8%A2%AB%E6%92%A4%E9%94%80%E7%9A%84%E6%88%96%E8%80%85%E6%9C%9F%E6%BB%A1%E4%B8%8D%E5%86%8D%E7%BB%AD%E5%B1%95%3C/span%3E%E7%9A%84%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E8%87%AA%E6%92%A4%E9%94%80%E6%88%96%E8%80%85%E6%B3%A8%E9%94%80%E4%B9%8B%E6%97%A5%E8%B5%B71%E5%B9%B4%E5%86%85%EF%BC%8C%E5%95%86%E6%A0%87%E5%B1%80%E5%AF%B9%E4%B8%8E%E8%AF%A5%E5%95%86%E6%A0%87%E7%9B%B8%E5%90%8C%E6%88%96%E8%80%85%E8%BF%91%E4%BC%BC%E7%9A%84%E5%95%86%E6%A0%87%E6%B3%A8%E5%86%8C%E7%94%B3%E8%AF%B7%EF%BC%8C%E4%B8%8D%E4%BA%88%E6%A0%B8%E5%87%86%E3%80%82%3C/span%3E" _note="@考点" _mubu_note="%3Cspan%20class=%22tag%22%20style=%22text-decoration-line:%20underline;%20opacity:%200.6;%20color:%20inherit;%22%3E@%E8%80%83%E7%82%B9%3C/span%3E">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="306.简述商标权的保护方式" _mubu_text="306.%E7%AE%80%E8%BF%B0%E5%95%86%E6%A0%87%E6%9D%83%E7%9A%84%E4%BF%9D%E6%8A%A4%E6%96%B9%E5%BC%8F">
+		<outline text="商标权侵权的处理方式" _mubu_text="%E5%95%86%E6%A0%87%E6%9D%83%E4%BE%B5%E6%9D%83%E7%9A%84%E5%A4%84%E7%90%86%E6%96%B9%E5%BC%8F">
+		<outline text="善意侵权" _mubu_text="%E5%96%84%E6%84%8F%E4%BE%B5%E6%9D%83">
+		<outline text="善意侵权的概念" _mubu_text="%E5%96%84%E6%84%8F%E4%BE%B5%E6%9D%83%E7%9A%84%E6%A6%82%E5%BF%B5">
+		<outline text="侵犯商标权给权利人造成损害的,应当承担赔偿损失的民事责任,但销售不知道是侵犯注册商标专用权的商品，能说明该商品是自己合法取得并说明提供者的，不承担赔偿责任。此种情形在学理上被称为善意侵权。" _mubu_text="%E4%BE%B5%E7%8A%AF%E5%95%86%E6%A0%87%E6%9D%83%E7%BB%99%E6%9D%83%E5%88%A9%E4%BA%BA%E9%80%A0%E6%88%90%E6%8D%9F%E5%AE%B3%E7%9A%84,%E5%BA%94%E5%BD%93%E6%89%BF%E6%8B%85%E8%B5%94%E5%81%BF%E6%8D%9F%E5%A4%B1%E7%9A%84%E6%B0%91%E4%BA%8B%E8%B4%A3%E4%BB%BB,%E4%BD%86%E9%94%80%E5%94%AE%E4%B8%8D%E7%9F%A5%E9%81%93%E6%98%AF%E4%BE%B5%E7%8A%AF%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E4%B8%93%E7%94%A8%E6%9D%83%E7%9A%84%E5%95%86%E5%93%81%EF%BC%8C%E8%83%BD%E8%AF%B4%E6%98%8E%E8%AF%A5%E5%95%86%E5%93%81%E6%98%AF%E8%87%AA%E5%B7%B1%E5%90%88%E6%B3%95%E5%8F%96%E5%BE%97%E5%B9%B6%E8%AF%B4%E6%98%8E%E6%8F%90%E4%BE%9B%E8%80%85%E7%9A%84%EF%BC%8C%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%B8%8D%E6%89%BF%E6%8B%85%E8%B5%94%E5%81%BF%E8%B4%A3%E4%BB%BB%3C/span%3E%E3%80%82%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E6%AD%A4%E7%A7%8D%E6%83%85%E5%BD%A2%E5%9C%A8%E5%AD%A6%E7%90%86%E4%B8%8A%E8%A2%AB%E7%A7%B0%E4%B8%BA%E5%96%84%E6%84%8F%E4%BE%B5%E6%9D%83%3C/span%3E%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="善意侵权的法律后果" _mubu_text="%E5%96%84%E6%84%8F%E4%BE%B5%E6%9D%83%E7%9A%84%E6%B3%95%E5%BE%8B%E5%90%8E%E6%9E%9C">
+		<outline text="侵权人虽然不承担赔偿责任，但应当承担停止侵权的责任。" _mubu_text="%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E4%BE%B5%E6%9D%83%E4%BA%BA%E8%99%BD%E7%84%B6%E4%B8%8D%E6%89%BF%E6%8B%85%E8%B5%94%E5%81%BF%E8%B4%A3%E4%BB%BB%EF%BC%8C%E4%BD%86%E5%BA%94%E5%BD%93%E6%89%BF%E6%8B%85%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83%E7%9A%84%E8%B4%A3%E4%BB%BB%E3%80%82%3C/span%3E">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="商标权侵权的公力救济方式" _mubu_text="%E5%95%86%E6%A0%87%E6%9D%83%E4%BE%B5%E6%9D%83%E7%9A%84%E5%85%AC%E5%8A%9B%E6%95%91%E6%B5%8E%E6%96%B9%E5%BC%8F" _note="权利人除了可以直接向侵权人请求承担侵权责任外，还有两种公力救济方式" _mubu_note="%E6%9D%83%E5%88%A9%E4%BA%BA%E9%99%A4%E4%BA%86%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E5%90%91%E4%BE%B5%E6%9D%83%E4%BA%BA%E8%AF%B7%E6%B1%82%E6%89%BF%E6%8B%85%E4%BE%B5%E6%9D%83%E8%B4%A3%E4%BB%BB%E5%A4%96%EF%BC%8C%E8%BF%98%E6%9C%89%E4%B8%A4%E7%A7%8D%E5%85%AC%E5%8A%9B%E6%95%91%E6%B5%8E%E6%96%B9%E5%BC%8F">
+		<outline text="(1) 侵权人所在地县级以上工商行政管理部门要求处理。" _mubu_text="(1)%20%E4%BE%B5%E6%9D%83%E4%BA%BA%E6%89%80%E5%9C%A8%E5%9C%B0%E5%8E%BF%E7%BA%A7%E4%BB%A5%E4%B8%8A%E5%B7%A5%E5%95%86%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E9%83%A8%E9%97%A8%E8%A6%81%E6%B1%82%E5%A4%84%E7%90%86%E3%80%82">
+		<outline text="工商行政管理部门认定侵权行为成立的，有权责令侵权人立即停止侵权行为，没收、销毁侵权商品和专门用于制造侵权商品、伪造注册商标标识的工具，并可处以罚款。" _mubu_text="%E5%B7%A5%E5%95%86%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E9%83%A8%E9%97%A8%E8%AE%A4%E5%AE%9A%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%E6%88%90%E7%AB%8B%E7%9A%84%EF%BC%8C%E6%9C%89%E6%9D%83%E8%B4%A3%E4%BB%A4%E4%BE%B5%E6%9D%83%E4%BA%BA%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%EF%BC%8C%E6%B2%A1%E6%94%B6%E3%80%81%E9%94%80%E6%AF%81%E4%BE%B5%E6%9D%83%E5%95%86%E5%93%81%E5%92%8C%E4%B8%93%E9%97%A8%E7%94%A8%E4%BA%8E%E5%88%B6%E9%80%A0%E4%BE%B5%E6%9D%83%E5%95%86%E5%93%81%E3%80%81%E4%BC%AA%E9%80%A0%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87%E6%A0%87%E8%AF%86%E7%9A%84%E5%B7%A5%E5%85%B7%EF%BC%8C%E5%B9%B6%E5%8F%AF%E5%A4%84%E4%BB%A5%E7%BD%9A%E6%AC%BE%E3%80%82">
+		</outline>
+		<outline text="根据当事人的请求，进行处理的工商行政管理部可以就侵犯商标专用权的赔偿数额进行调解。调解不成的，当事人可以依法向人民法院起诉。" _mubu_text="%E6%A0%B9%E6%8D%AE%E5%BD%93%E4%BA%8B%E4%BA%BA%E7%9A%84%E8%AF%B7%E6%B1%82%EF%BC%8C%E8%BF%9B%E8%A1%8C%E5%A4%84%E7%90%86%E7%9A%84%E5%B7%A5%E5%95%86%E8%A1%8C%E6%94%BF%E7%AE%A1%E7%90%86%E9%83%A8%E5%8F%AF%E4%BB%A5%E5%B0%B1%E4%BE%B5%E7%8A%AF%E5%95%86%E6%A0%87%E4%B8%93%E7%94%A8%E6%9D%83%E7%9A%84%E8%B5%94%E5%81%BF%E6%95%B0%E9%A2%9D%E8%BF%9B%E8%A1%8C%E8%B0%83%E8%A7%A3%E3%80%82%E8%B0%83%E8%A7%A3%E4%B8%8D%E6%88%90%E7%9A%84%EF%BC%8C%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%8F%AF%E4%BB%A5%E4%BE%9D%E6%B3%95%E5%90%91%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%E8%B5%B7%E8%AF%89%E3%80%82">
+		</outline>
+		</outline>
+		<outline text="(2)向人民法院提起民事诉讼，要求人民法院依法责令侵权人停止侵害，消除影响，赔偿损失。" _mubu_text="(2)%E5%90%91%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%E6%8F%90%E8%B5%B7%E6%B0%91%E4%BA%8B%E8%AF%89%E8%AE%BC%EF%BC%8C%E8%A6%81%E6%B1%82%E4%BA%BA%E6%B0%91%E6%B3%95%E9%99%A2%E4%BE%9D%E6%B3%95%E8%B4%A3%E4%BB%A4%E4%BE%B5%E6%9D%83%E4%BA%BA%E5%81%9C%E6%AD%A2%E4%BE%B5%E5%AE%B3%EF%BC%8C%E6%B6%88%E9%99%A4%E5%BD%B1%E5%93%8D%EF%BC%8C%E8%B5%94%E5%81%BF%E6%8D%9F%E5%A4%B1%E3%80%82">
+		<outline text="赔偿数额按照权利人因被侵权所受到的实际损失确定；" _mubu_text="%E8%B5%94%E5%81%BF%E6%95%B0%E9%A2%9D%E6%8C%89%E7%85%A7%E6%9D%83%E5%88%A9%E4%BA%BA%E5%9B%A0%E8%A2%AB%E4%BE%B5%E6%9D%83%E6%89%80%E5%8F%97%E5%88%B0%E7%9A%84%E5%AE%9E%E9%99%85%E6%8D%9F%E5%A4%B1%E7%A1%AE%E5%AE%9A%EF%BC%9B">
+		</outline>
+		<outline text="实际损失难以确定的，可以按照侵权人因侵权所获得的利益确定；" _mubu_text="%E5%AE%9E%E9%99%85%E6%8D%9F%E5%A4%B1%E9%9A%BE%E4%BB%A5%E7%A1%AE%E5%AE%9A%E7%9A%84%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%8C%89%E7%85%A7%E4%BE%B5%E6%9D%83%E4%BA%BA%E5%9B%A0%E4%BE%B5%E6%9D%83%E6%89%80%E8%8E%B7%E5%BE%97%E7%9A%84%E5%88%A9%E7%9B%8A%E7%A1%AE%E5%AE%9A%EF%BC%9B">
+		</outline>
+		<outline text="以上均难以确定的，参照该商标许可使用费的倍数合理确定。赔偿数额应当包括权利人为制止侵权行为所支付的合理开支。" _mubu_text="%E4%BB%A5%E4%B8%8A%E5%9D%87%E9%9A%BE%E4%BB%A5%E7%A1%AE%E5%AE%9A%E7%9A%84%EF%BC%8C%E5%8F%82%E7%85%A7%E8%AF%A5%E5%95%86%E6%A0%87%E8%AE%B8%E5%8F%AF%E4%BD%BF%E7%94%A8%E8%B4%B9%E7%9A%84%E5%80%8D%E6%95%B0%E5%90%88%E7%90%86%E7%A1%AE%E5%AE%9A%E3%80%82%3Cspan%20class=%22bold%22%20style=%22font-weight:%20bold;%22%3E%E8%B5%94%E5%81%BF%E6%95%B0%E9%A2%9D%E5%BA%94%E5%BD%93%E5%8C%85%E6%8B%AC%E6%9D%83%E5%88%A9%E4%BA%BA%E4%B8%BA%E5%88%B6%E6%AD%A2%E4%BE%B5%E6%9D%83%E8%A1%8C%E4%B8%BA%E6%89%80%E6%94%AF%E4%BB%98%E7%9A%84%E5%90%88%E7%90%86%E5%BC%80%E6%94%AF%E3%80%82%3C/span%3E">
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		</outline>
+		<outline text="307.简述债概念和特征" _mubu_text="307.%E7%AE%80%E8%BF%B0%E5%80%BA%E6%A6%82%E5%BF%B5%E5%92%8C%E7%89%B9%E5%BE%81">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="308.简述债权的特征" _mubu_text="308.%E7%AE%80%E8%BF%B0%E5%80%BA%E6%9D%83%E7%9A%84%E7%89%B9%E5%BE%81">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="309.简述债权的权能" _mubu_text="309.%E7%AE%80%E8%BF%B0%E5%80%BA%E6%9D%83%E7%9A%84%E6%9D%83%E8%83%BD">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="310.简述债务的特征" _mubu_text="310.%E7%AE%80%E8%BF%B0%E5%80%BA%E5%8A%A1%E7%9A%84%E7%89%B9%E5%BE%81">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="311.简述选择之债特定化的方式" _mubu_text="311.%E7%AE%80%E8%BF%B0%E9%80%89%E6%8B%A9%E4%B9%8B%E5%80%BA%E7%89%B9%E5%AE%9A%E5%8C%96%E7%9A%84%E6%96%B9%E5%BC%8F">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="312.简述区分简单之债与选择之债的意义" _mubu_text="312.%E7%AE%80%E8%BF%B0%E5%8C%BA%E5%88%86%E7%AE%80%E5%8D%95%E4%B9%8B%E5%80%BA%E4%B8%8E%E9%80%89%E6%8B%A9%E4%B9%8B%E5%80%BA%E7%9A%84%E6%84%8F%E4%B9%89">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="313.简述特定物之债与种类物之债的区别" _mubu_text="313.%E7%AE%80%E8%BF%B0%E7%89%B9%E5%AE%9A%E7%89%A9%E4%B9%8B%E5%80%BA%E4%B8%8E%E7%A7%8D%E7%B1%BB%E7%89%A9%E4%B9%8B%E5%80%BA%E7%9A%84%E5%8C%BA%E5%88%AB">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="314.简述债的发生根据" _mubu_text="314.%E7%AE%80%E8%BF%B0%E5%80%BA%E7%9A%84%E5%8F%91%E7%94%9F%E6%A0%B9%E6%8D%AE">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="315.简述债的内容变更的特征" _mubu_text="315.%E7%AE%80%E8%BF%B0%E5%80%BA%E7%9A%84%E5%86%85%E5%AE%B9%E5%8F%98%E6%9B%B4%E7%9A%84%E7%89%B9%E5%BE%81">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="5月11日" _mubu_text="5%E6%9C%8811%E6%97%A5">
+		<outline text="316.简述债权让与的条件、效力、不得转让的债权" _mubu_text="316.%E7%AE%80%E8%BF%B0%E5%80%BA%E6%9D%83%E8%AE%A9%E4%B8%8E%E7%9A%84%E6%9D%A1%E4%BB%B6%E3%80%81%E6%95%88%E5%8A%9B%E3%80%81%E4%B8%8D%E5%BE%97%E8%BD%AC%E8%AE%A9%E7%9A%84%E5%80%BA%E6%9D%83">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="317.简述免责的债务承担的条件、效力" _mubu_text="317.%E7%AE%80%E8%BF%B0%E5%85%8D%E8%B4%A3%E7%9A%84%E5%80%BA%E5%8A%A1%E6%89%BF%E6%8B%85%E7%9A%84%E6%9D%A1%E4%BB%B6%E3%80%81%E6%95%88%E5%8A%9B">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="318.简述并存的债务承担的处理规则" _mubu_text="318.%E7%AE%80%E8%BF%B0%E5%B9%B6%E5%AD%98%E7%9A%84%E5%80%BA%E5%8A%A1%E6%89%BF%E6%8B%85%E7%9A%84%E5%A4%84%E7%90%86%E8%A7%84%E5%88%99">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="319.简述合同承受与法定承受的区别" _mubu_text="319.%E7%AE%80%E8%BF%B0%E5%90%88%E5%90%8C%E6%89%BF%E5%8F%97%E4%B8%8E%E6%B3%95%E5%AE%9A%E6%89%BF%E5%8F%97%E7%9A%84%E5%8C%BA%E5%88%AB">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="320.简述合同承受应该具备的条件" _mubu_text="320.%E7%AE%80%E8%BF%B0%E5%90%88%E5%90%8C%E6%89%BF%E5%8F%97%E5%BA%94%E8%AF%A5%E5%85%B7%E5%A4%87%E7%9A%84%E6%9D%A1%E4%BB%B6">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="321.简述债的消灭原因" _mubu_text="321.%E7%AE%80%E8%BF%B0%E5%80%BA%E7%9A%84%E6%B6%88%E7%81%AD%E5%8E%9F%E5%9B%A0">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="322.简述代物清偿的要件" _mubu_text="322.%E7%AE%80%E8%BF%B0%E4%BB%A3%E7%89%A9%E6%B8%85%E5%81%BF%E7%9A%84%E8%A6%81%E4%BB%B6">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="323.简述清偿抵充的规则" _mubu_text="323.%E7%AE%80%E8%BF%B0%E6%B8%85%E5%81%BF%E6%8A%B5%E5%85%85%E7%9A%84%E8%A7%84%E5%88%99">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="324.简述法定抵消的构成要件" _mubu_text="324.%E7%AE%80%E8%BF%B0%E6%B3%95%E5%AE%9A%E6%8A%B5%E6%B6%88%E7%9A%84%E6%9E%84%E6%88%90%E8%A6%81%E4%BB%B6">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="325.简述提存需要具备的条件、效力" _mubu_text="325.%E7%AE%80%E8%BF%B0%E6%8F%90%E5%AD%98%E9%9C%80%E8%A6%81%E5%85%B7%E5%A4%87%E7%9A%84%E6%9D%A1%E4%BB%B6%E3%80%81%E6%95%88%E5%8A%9B">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="326.简述混同成立的原因" _mubu_text="326.%E7%AE%80%E8%BF%B0%E6%B7%B7%E5%90%8C%E6%88%90%E7%AB%8B%E7%9A%84%E5%8E%9F%E5%9B%A0">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="327.简述不当得利（概念，构成要件，效力）" _mubu_text="327.%E7%AE%80%E8%BF%B0%E4%B8%8D%E5%BD%93%E5%BE%97%E5%88%A9%EF%BC%88%E6%A6%82%E5%BF%B5%EF%BC%8C%E6%9E%84%E6%88%90%E8%A6%81%E4%BB%B6%EF%BC%8C%E6%95%88%E5%8A%9B%EF%BC%89">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="328.简述无因管理（概念，构成要件，效力）" _mubu_text="328.%E7%AE%80%E8%BF%B0%E6%97%A0%E5%9B%A0%E7%AE%A1%E7%90%86%EF%BC%88%E6%A6%82%E5%BF%B5%EF%BC%8C%E6%9E%84%E6%88%90%E8%A6%81%E4%BB%B6%EF%BC%8C%E6%95%88%E5%8A%9B%EF%BC%89">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="329.简述合同的概念和特点" _mubu_text="329.%E7%AE%80%E8%BF%B0%E5%90%88%E5%90%8C%E7%9A%84%E6%A6%82%E5%BF%B5%E5%92%8C%E7%89%B9%E7%82%B9">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="330.简述合同法的基本原则" _mubu_text="330.%E7%AE%80%E8%BF%B0%E5%90%88%E5%90%8C%E6%B3%95%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%8E%9F%E5%88%99">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		</outline>
+		<outline text="5月12日" _mubu_text="5%E6%9C%8812%E6%97%A5">
+		<outline text="331.简述合同的成立要件（一般，特别）" _mubu_text="331.%E7%AE%80%E8%BF%B0%E5%90%88%E5%90%8C%E7%9A%84%E6%88%90%E7%AB%8B%E8%A6%81%E4%BB%B6%EF%BC%88%E4%B8%80%E8%88%AC%EF%BC%8C%E7%89%B9%E5%88%AB%EF%BC%89">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="332.简述合同订立的一般程序" _mubu_text="332.%E7%AE%80%E8%BF%B0%E5%90%88%E5%90%8C%E8%AE%A2%E7%AB%8B%E7%9A%84%E4%B8%80%E8%88%AC%E7%A8%8B%E5%BA%8F">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="333.简述要约，承诺的概念、条件、法律效力" _mubu_text="333.%E7%AE%80%E8%BF%B0%E8%A6%81%E7%BA%A6%EF%BC%8C%E6%89%BF%E8%AF%BA%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E6%9D%A1%E4%BB%B6%E3%80%81%E6%B3%95%E5%BE%8B%E6%95%88%E5%8A%9B">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="334.简述要约与要约邀请的区别" _mubu_text="334.%E7%AE%80%E8%BF%B0%E8%A6%81%E7%BA%A6%E4%B8%8E%E8%A6%81%E7%BA%A6%E9%82%80%E8%AF%B7%E7%9A%84%E5%8C%BA%E5%88%AB">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="335.简述格式条款的特殊要求" _mubu_text="335.%E7%AE%80%E8%BF%B0%E6%A0%BC%E5%BC%8F%E6%9D%A1%E6%AC%BE%E7%9A%84%E7%89%B9%E6%AE%8A%E8%A6%81%E6%B1%82">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="336.简述缔约过失责任制度（概念、适用情形、构成要件、赔偿范围）" _mubu_text="336.%E7%AE%80%E8%BF%B0%E7%BC%94%E7%BA%A6%E8%BF%87%E5%A4%B1%E8%B4%A3%E4%BB%BB%E5%88%B6%E5%BA%A6%EF%BC%88%E6%A6%82%E5%BF%B5%E3%80%81%E9%80%82%E7%94%A8%E6%83%85%E5%BD%A2%E3%80%81%E6%9E%84%E6%88%90%E8%A6%81%E4%BB%B6%E3%80%81%E8%B5%94%E5%81%BF%E8%8C%83%E5%9B%B4%EF%BC%89">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="337.简述合同的三种形式" _mubu_text="337.%E7%AE%80%E8%BF%B0%E5%90%88%E5%90%8C%E7%9A%84%E4%B8%89%E7%A7%8D%E5%BD%A2%E5%BC%8F">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="338.简述合同的生效要件" _mubu_text="338.%E7%AE%80%E8%BF%B0%E5%90%88%E5%90%8C%E7%9A%84%E7%94%9F%E6%95%88%E8%A6%81%E4%BB%B6">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="339.简述无效合同、可变更可撤销合同、效力待定合同概念、种类" _mubu_text="339.%E7%AE%80%E8%BF%B0%E6%97%A0%E6%95%88%E5%90%88%E5%90%8C%E3%80%81%E5%8F%AF%E5%8F%98%E6%9B%B4%E5%8F%AF%E6%92%A4%E9%94%80%E5%90%88%E5%90%8C%E3%80%81%E6%95%88%E5%8A%9B%E5%BE%85%E5%AE%9A%E5%90%88%E5%90%8C%E6%A6%82%E5%BF%B5%E3%80%81%E7%A7%8D%E7%B1%BB">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="340.简述全面履行原则的规则" _mubu_text="340.%E7%AE%80%E8%BF%B0%E5%85%A8%E9%9D%A2%E5%B1%A5%E8%A1%8C%E5%8E%9F%E5%88%99%E7%9A%84%E8%A7%84%E5%88%99">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="341.简述同时履行抗辩权的概念、成立要件、效力" _mubu_text="341.%E7%AE%80%E8%BF%B0%E5%90%8C%E6%97%B6%E5%B1%A5%E8%A1%8C%E6%8A%97%E8%BE%A9%E6%9D%83%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E6%88%90%E7%AB%8B%E8%A6%81%E4%BB%B6%E3%80%81%E6%95%88%E5%8A%9B">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="342.简述先履行抗辩权的概念、成立要件、效力" _mubu_text="342.%E7%AE%80%E8%BF%B0%E5%85%88%E5%B1%A5%E8%A1%8C%E6%8A%97%E8%BE%A9%E6%9D%83%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E6%88%90%E7%AB%8B%E8%A6%81%E4%BB%B6%E3%80%81%E6%95%88%E5%8A%9B">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="343.简述不安抗辩权的概念、成立要件、效力" _mubu_text="343.%E7%AE%80%E8%BF%B0%E4%B8%8D%E5%AE%89%E6%8A%97%E8%BE%A9%E6%9D%83%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E6%88%90%E7%AB%8B%E8%A6%81%E4%BB%B6%E3%80%81%E6%95%88%E5%8A%9B">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="344.简述债权人的保全权（代位权、撤销权）的概念、成立要件、后果" _mubu_text="344.%E7%AE%80%E8%BF%B0%E5%80%BA%E6%9D%83%E4%BA%BA%E7%9A%84%E4%BF%9D%E5%85%A8%E6%9D%83%EF%BC%88%E4%BB%A3%E4%BD%8D%E6%9D%83%E3%80%81%E6%92%A4%E9%94%80%E6%9D%83%EF%BC%89%E7%9A%84%E6%A6%82%E5%BF%B5%E3%80%81%E6%88%90%E7%AB%8B%E8%A6%81%E4%BB%B6%E3%80%81%E5%90%8E%E6%9E%9C">
+		<outline text="" _mubu_text="">
+		</outline>
+		</outline>
+		<outline text="345.简述债权人代位权制度" _mubu_text="345.%E7%AE%80%E8%BF%B0%E5%80%BA%E6%9D%83%E4%BA%BA%E4%BB%A3%E4%BD%8D%E6%9D%83%E5%88%B6%E5%BA%A6">
+		</outline>
+		</outline>
+	</body>
+</opml>
